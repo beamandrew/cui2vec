@@ -1,0 +1,132 @@
+---
+title: "cui2vec Workflow"
+author: Ben Kompa
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+bibliography: cui2vec.bib
+vignette: >
+  %\VignetteIndexEntry{cui2vec_workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+##cui2vec Overview 
+Word embeddings are a popular approach to unsupervised learning of word relationships that are widely used in natural language processing. `cui2vec` was created to learn embeddings for medical concepts using an extremely large collection of multimodal medical data. This includes a insurance claims database of 60 million members, a collection of 20 million clinical notes, and 1.7 million full text biomedical journal articles which can be combined to embed concepts into a common space, resulting in the largest ever set of embeddings for 108,477 medical concepts. See [our preprint](https://arxiv.org/abs/1804.01486) [@Beam2018-vl] for more information. 
+
+
+In this vignette, we'll walk through the core steps of `cui2vec`. Start by loading the package: 
+```{r setup}
+library(cui2vec)
+```
+
+For this vignette, we'll focus on a collection of 20 million clinical notes that have been preprocessed using NILE. `term_cooccurrence_matrix.RData` contains a term co-occurrence matrix (TCM) for all pairwise combination of CUIs (concept unique identifier) for a subsampling of 100 CUIs out of 18,000+. `singleton_counts.RData` contains the raw count of each term in the vocabulary. Both are needed for `cui2vec` to work. For now, we'll assume you've have a TCM and singleton count for your corpus of interest. 
+```{r, message=FALSE}
+# denominator in PMI calculation 
+N <- 261397 
+
+load('term_cooccurrence_matrix.rda')
+load('singleton_counts.rda')
+```
+
+
+The first step in the `cui2vec` algorithm is construct the Pointwise Mutual Information (PMI) matrix: 
+```{r, message=FALSE}
+pmi <- construct_pmi(term_cooccurrence_matrix,singleton_counts,N)
+pmi[1:5, 1:3]
+```
+
+Then you need to construct the Shift Positive Pointwise Mutual Information (SPPMI) matrix: 
+```{r, message=FALSE}
+sppmi <- construct_sppmi(pmi)
+sppmi[1:5, 1:5]
+```
+
+Finally, you can fit `cui2vec` embeddings using `construct_word2vec_embedding`. We'll keep this example small and only work with 20 dimensional embeddings. 
+```{r, message=FALSE}
+w2v_embedding <- construct_word2vec_embedding(sppmi = sppmi, dim_size = 20)
+w2v_embedding[1:5, 1:5]
+```
+
+We can also do `word2vec` on the term_cooccurrence_matrix matrix. We'll refer to these as PCA embeddings. 
+```{r, message=FALSE}
+pca_embedding <- construct_pca_embedding(term_cooccurrence_matrix, dim_size = 20)
+pca_embedding[1:5, 1:5]
+```
+
+Another baseline we can consider is `GloVe`: 
+```{r, message=FALSE, warning=FALSE, results='hide'}
+glove_embedding <- construct_glove_embedding(term_cooccurrence_matrix, dim_size = 20, iters = 10)
+glove_embedding[1:5, 1:5]
+```
+
+To run the benchmarks in our paper, we need some additional information about the vectors in our embedding space. Each vector has a CUI, but we also need the UMLS semantic type associated with each CUI. We also assume there is string with the English equivalent of the CUI. You can check that the first 3 columns of your embedding data frame are CUI, semantic type, and description by running `check_embedding_semantic_columns`
+
+```{r}
+print(check_embedding_semantic_columns(w2v_embedding))
+```
+As expected, this fails, since we just created the embeddings. We have a helper function to add this function to an embedding. 
+
+```{r, message=FALSE, results='hide'}
+glove_embedding <- bind_semantic_types(glove_embedding)
+w2v_embedding <- bind_semantic_types(w2v_embedding)
+```
+Let's check that it worked: 
+```{r}
+w2v_embedding[1:5, 1:5]
+```
+
+We are now ready to run the benchmarks we described in our paper. The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.  We compare how similar the embeddings for a pair of concepts are by computing the cosine similarity of their corresponding vectors, and use this similarity to assess whether or not the two concepts are related. There are five benchmarks: 
+
+* **Comorbid Conditions**: A comorbidity is a disease or condition that frequently accompanies a primary diagnosis. 
+* **Causative Relationships**: The UMLS contains a table (MRREL) of entities known to be the cause of a certain result. 
+* **National Drug File Reference Terminology (NDF-RT)**: We assess power to detect "may treat" and "may prevent" relationships using bootstrap scores of random drug-disease pairs.
+* **UMLS Semantic Type**:  Semantic types are meta-information about which category a concept belongs to, and these categories are arranged in a hierarchy.
+* **Human Assessment of Concept Similarity**: We report the spearman correlation between the human assessment scores and cosine similarity from the embeddings.
+
+```{r, message = FALSE, eval=FALSE}
+# No CUIs in our tiny embeding that overlap with comorbidity CUIs, so don't evaluate
+comorbidity_results <- benchmark_comorbidities(w2v_embedding)
+```
+
+```{r, message=FALSE, results='hide', eval=FALSE}
+# No CUIs in our tiny embeding that overlap with causitive CUIs, so don't evaluate
+causitive_results <- benchmark_causative(w2v_embedding)
+```
+
+```{r, message=FALSE, results='hide', eval=FALSE}
+# No CUIs in our tiny embeding that overlap with NDF_RT CUIs, so don't evaluate
+ndf_rt_results <- benchmark_ndf_rt(w2v_embedding, bootstraps = 100)
+```
+
+
+```{r, message=FALSE, results='hide'}
+semantic_results <- benchmark_semantic_type(w2v_embedding, bootstraps = 100)
+```
+
+```{r}
+semantic_results[1:5, -1] 
+```
+
+```{r, message=FALSE, results='hide', eval=FALSE}
+# No CUIs that contain concept pairs in our tiny embedding, so don't evaluate 
+similarity_results <- benchmark_similarity(w2v_embedding)
+```
+
+We can also run all the benchmarks at once for an embedding. 
+```{r, eval=FALSE}
+run_all_benchmarks(w2v_embedding)
+```
+
+Finally, you can also compare the performance of two embeddings on one or more benchmarks. `compare_embeddings` restricts the analysis to the shared set of CUIs in both embeddings. 
+```{r, eval=FALSE}
+compare_embeddings(glove_embedding, w2v_embedding, "all")
+```
+
+## References
+

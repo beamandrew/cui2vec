@@ -1,0 +1,646 @@
+CUI_Cause	CUI_Result	Cause	Result
+C0978578	C0025637	METHYLENE BLUE 55MG TAB	Increased methemoglobin
+C0978546	C0041657	Methohexital sodium 5g powder for injection solution vial	Unconscious
+C0027996	C0016382	Niacin preparation	Face goes red
+C0937609	C0032961	Choriogonadotropin alfa	Pregnancy
+C0979494	C0026961	PHENYLEPHRINE HCL 0.5%/MENTHOL SOLN,NASAL,SPRAY	Dilated pupil
+C0873119	C0041657	Levobupivacaine hydrochloride	Unconscious
+C0873118	C0041657	Levobupivacaine	Unconscious
+C0978975	C0011991	Niacinamide 50mg tablet	Diarrhea symptom
+C0978975	C0016204	Niacinamide 50mg tablet	Flatulence symptom
+C0978975	C0016382	Niacinamide 50mg tablet	Face goes red
+C0978974	C0011991	NIACINAMIDE 500MG CAP	Diarrhea symptom
+C0978974	C0016204	NIACINAMIDE 500MG CAP	Flatulence symptom
+C0978974	C0016382	NIACINAMIDE 500MG CAP	Face goes red
+C0978970	C0016382	Nicotinic acid 750mg m/r tablet	Face goes red
+C0978972	C0011991	NIACINAMIDE 100MG TAB	Diarrhea symptom
+C0978972	C0016204	NIACINAMIDE 100MG TAB	Flatulence symptom
+C0978972	C0016382	NIACINAMIDE 100MG TAB	Face goes red
+C0979011	C0016736	NITROGEN 99% GAS	Frostbite
+C0979011	C0021268	NITROGEN 99% GAS	Inert Gas Narcosis
+C0700566	C0020523	Metocurine iodide	IgE-mediated allergic disorder
+C0700566	C0041657	Metocurine iodide	Unconscious
+C0973944	C0020523	ALLERGENIC EXT,ALTERNARIA ALTERNATA 800MCG/ML INJ	IgE-mediated allergic disorder
+C0978577	C0025637	METHYLENE BLUE 1GM TAB	Increased methemoglobin
+C0980657	C0041657	THIOPENTAL NA 250MG/SYRINGE INJ	Unconscious
+C1572740	C0042963	IPECAC,POWDERED	Finding of vomiting
+C0783377	C0151699	PHENYLPROPANOLAMINE HCL 25MG TAB	Intracranial hemorrhage
+C1612426	C0041657	METHOHEXITAL NA 500MG/VIL INJ	Unconscious
+C0974568	C0020500	ASCORBIC ACID 500MG/5ML SYRUP	Hyperoxaluria
+C0786175	C0020500	ASCORBIC ACID 125MG TAB,CHEWABLE	Hyperoxaluria
+C0974567	C0020500	Ascorbic acid 100mg/mL injection solution 5mL ampule	Hyperoxaluria
+C1130405	C0041657	THIOPENTAL NA 500MG/SYRINGE INJ	Unconscious
+C0004259	C0026961	Atropine	Dilated pupil
+C0004259	C0043352	Atropine	Reduced salivation
+C1639501	C0021603	Meperidine hydrochloride 50mg/5mL syrup	Disorders of initiating and maintaining sleep
+C0981222	C0026961	Atropine sulfate 2% eye drops	Dilated pupil
+C0981222	C0043352	Atropine sulfate 2% eye drops	Reduced salivation
+C1962140	C0026961	ATROPINE SO4 0.05MG/ML INJ	Dilated pupil
+C1962140	C0043352	ATROPINE SO4 0.05MG/ML INJ	Reduced salivation
+C0355372	C0002622	SCOPOLAMINE 0.5MG/72HRS PATCH	Amnesia
+C0355372	C0026961	SCOPOLAMINE 0.5MG/72HRS PATCH	Dilated pupil
+C0789290	C0011991	Niacinamide 4% topical gel	Diarrhea symptom
+C0789290	C0016204	Niacinamide 4% topical gel	Flatulence symptom
+C0789290	C0016382	Niacinamide 4% topical gel	Face goes red
+C0978298	C0011991	MAGALDRATE 480MG TAB,CHEW	Diarrhea symptom
+C0978299	C0011991	MAGALDRATE 480MG TAB,ORAL	Diarrhea symptom
+C0774326	C0021603	Pentazocine 30mg/mL injection solution 2mL ampule	Disorders of initiating and maintaining sleep
+C0025684	C0038814	Methoxsalen	Sunburn, unspecified
+C0025688	C0027709	Methoxyflurane	Nephrocalcinosis
+C0025688	C0032708	Methoxyflurane	Porphyrinopathy
+C0025688	C0036659	Methoxyflurane	Sensation Disorders
+C0025688	C0041657	Methoxyflurane	Unconscious
+C0025688	C0085605	Methoxyflurane	Hepatic failure
+C0028128	C0041657	Nitric oxide	Unconscious
+C0975232	C0026205	Carbachol 0.75% solution	Persistent miosis
+C3888160	C0041657	ETOMIDATE 2MG/ML INJ	Unconscious
+C0282275	C0021603	Oxymorphone hydrochloride	Disorders of initiating and maintaining sleep
+C0016293	C0038587	Flumazenil	Withdrawal syndrome
+C0691927	C0020500	ASCORBIC ACID 500MG CAP	Hyperoxaluria
+C0691921	C0020500	Ascorbic acid 100mg tablet	Hyperoxaluria
+C1375763	C0000786	NORGESTREL 75MCG TAB,28	Miscarriage
+C1618627	C0000786	LEVONORGESTREL 52MG INSERT SA, INTRAUTERINE	Miscarriage
+C0982735	C0026827	GALLAMINE TRIETHIODIDE 20MG/ML INJ	Poor muscle tone
+C1142614	C0041657	THIOPENTAL NA 400MG/SYRINGE INJ	Unconscious
+C0982435	C0041657	Thiobutabarbital Sodium	Unconscious
+C2718501	C0000786	LEVONORGESTREL (EQV-PLAN B) 1.5MG TAB,PKG,1	Miscarriage
+C3883332	C0036429	DOXYCYCLINE HYCLATE 75MG CAP/TAB	Sclerosis
+C0980652	C0041657	THIOBUTABARBITAL NA 1GM/AMP INJ	Unconscious
+C0783083	C0002622	SCOPOLAMINE HBR 0.3MG/ML INJ	Amnesia
+C0783083	C0026961	SCOPOLAMINE HBR 0.3MG/ML INJ	Dilated pupil
+C0977488	C0026961	Homatropine hydrobromide 5% eye drops	Dilated pupil
+C0977489	C0026961	Homatropine methylbromide 10mg tablet	Dilated pupil
+C0701267	C0000786	Norgestrel 75microgram tablet	Miscarriage
+C0440016	C0020523	Diagnostic allergenic extract	IgE-mediated allergic disorder
+C0975217	C0020523	CANDIDA 1:500 SKIN TEST	IgE-mediated allergic disorder
+C0975216	C0020523	CANDIDA 1:100 SKIN TEST	IgE-mediated allergic disorder
+C0977486	C0020523	HISTOPLASMIN 1:100 SKIN TEST INJ	IgE-mediated allergic disorder
+C0977487	C0026961	Homatropine hydrobromide 2% single-use eye drops	Dilated pupil
+C0976032	C0026961	Cyclopentolate hydrochloride 1% single-use eye drops	Dilated pupil
+C0980829	C0162316	Trientine hydrochloride 250mg capsule	Iron deficiency anemia
+C0691638	C0011991	Nicotinic acid 50mg tablet	Diarrhea symptom
+C0691638	C0016382	Nicotinic acid 50mg tablet	Face goes red
+C0007012	C0001127	Carbon dioxide gas	Respiratory acidosis
+C0007012	C0004044	Carbon dioxide gas	Suffocating
+C0007012	C0013404	Carbon dioxide gas	Difficulty breathing
+C0007012	C0016736	Carbon dioxide gas	Frostbite
+C0007012	C0018681	Carbon dioxide gas	Headache
+C0007012	C0040822	Carbon dioxide gas	Tremor
+C0976034	C0026961	Cyclopentolate hydrochloride 2% eye drops	Dilated pupil
+C0775898	C0026827	Pancuronium bromide 2mg/mL injection solution ampule	Poor muscle tone
+C0775897	C0026827	Pancuronium bromide 1mg/mL injection solution ampule	Poor muscle tone
+C0978435	C0021603	MEPERIDINE HCL 50MG/ML INJ,TUBEX,1ML	Disorders of initiating and maintaining sleep
+C3531218	C0000786	LEVONORGESTREL 13.5MG INSERT SA, INTRAUTERINE	Miscarriage
+C0775892	C0026827	TUBOCURARINE CHLORIDE 3MG/ML INJ	Poor muscle tone
+C3883338	C0036429	DOXYCYCLINE HYCLATE 20MG CAP/TAB	Sclerosis
+C0980651	C0041657	THIOBUTABARBITAL NA 0.5GM/AMP INJ	Unconscious
+C1572397	C0016382	NIASPAN STARTER PACK	Face goes red
+C0010582	C0026961	Cyclopentolate	Dilated pupil
+C2341699	C0021603	OXYMORPHONE HCL 7.5MG TAB,SA	Disorders of initiating and maintaining sleep
+C0982238	C0042963	IPECAC FLUIDEXTRACT	Finding of vomiting
+C2341695	C0021603	OXYMORPHONE HCL 15MG TAB,SA	Disorders of initiating and maintaining sleep
+C2341697	C0021603	OXYMORPHONE HCL 30MG TAB,SA	Disorders of initiating and maintaining sleep
+C0876716	C0026827	RAPACURONIUM	Poor muscle tone
+C3152807	C0016382	NIACIN (NIASPAN) 750MG TAB,SA	Face goes red
+C3152805	C0016382	NIACIN (NIASPAN) 500MG TAB,SA	Face goes red
+C3152803	C0016382	NIACIN (NIASPAN) 1000MG TAB,SA	Face goes red
+C0069632	C0026827	Rocuronium bromide	Poor muscle tone
+C0065642	C0677050	Manganese chloride	Poisoning by manganese
+C0689461	C0021603	Meperidine hydrochloride 100mg tablet	Disorders of initiating and maintaining sleep
+C0689464	C0021603	Meperidine hydrochloride 50mg tablet	Disorders of initiating and maintaining sleep
+C3268012	C0043352	GLYCOPYRROLATE 1.5MG TAB	Reduced salivation
+C0030310	C0026827	Pancuronium	Poor muscle tone
+C0030311	C0026827	Pancuronium bromide	Poor muscle tone
+C0022180	C0041657	Isoflurane	Unconscious
+C0022180	C0085605	Isoflurane	Hepatic failure
+C0694191	C0022660	SEVOFLURANE LIQUID,INHL	Acute renal failure syndrome
+C0694191	C0023895	SEVOFLURANE LIQUID,INHL	Disease of liver
+C0694191	C0024591	SEVOFLURANE LIQUID,INHL	Malignant hyperpyrexia due to anesthetic
+C0694191	C0036659	SEVOFLURANE LIQUID,INHL	Sensation Disorders
+C0694191	C0041657	SEVOFLURANE LIQUID,INHL	Unconscious
+C2344619	C0036429	Doxycycline 150mg delayed release tablet	Sclerosis
+C0066621	C0041657	Mivacurium	Unconscious
+C0066621	C0522224	Mivacurium	Paralysis
+C1876499	C0036429	DOXYCYCLINE MONOHYDRATE 75MG CAP	Sclerosis
+C2937334	C0043352	HYOSCYAMINE SO4 0.125MG TAB,SUBLINGUAL	Reduced salivation
+C2937334	C0152020	HYOSCYAMINE SO4 0.125MG TAB,SUBLINGUAL	Gastric atonia
+C2723479	C0026961	PHENYLEPHRINE HCL 160MCG/ML NACL 0.9% INJ,BAG,250ML	Dilated pupil
+C1962182	C0032961	Choriogonadotropin alfa 250micrograms solution for injection 0.5mL prefilled syringe	Pregnancy
+C0700451	C0036429	Doxycycline monohydrate	Sclerosis
+C0978319	C0011991	MAGNESIUM OXIDE 250MG TAB	Diarrhea symptom
+C0978318	C0011991	MAGNESIUM HYDROXIDE 325MG TAB	Diarrhea symptom
+C0978317	C0011991	MAGNESIUM HYDROXIDE 311MG TAB,CHEWABLE	Diarrhea symptom
+C0977348	C0041657	HALOTHANE 100% LIQUID,INHL	Unconscious
+C0977348	C0085605	HALOTHANE 100% LIQUID,INHL	Hepatic failure
+C0355587	C0021603	Pentazocine hydrochloride	Disorders of initiating and maintaining sleep
+C3816989	C0020523	ALLERGENIC EXTRACT,RAGWITEK 12UNIT TAB,SL	IgE-mediated allergic disorder
+C0978313	C0011991	MAGNESIUM CITRATE LIQUID,ORAL	Diarrhea symptom
+C1260605	C0021368	MUMPS SKIN TEST	Inflammation
+C1614627	C0041657	NITRIC OXIDE 100PPM GAS	Unconscious
+C3883335	C0036429	DOXYCYCLINE MONOHYDRATE 50MG CAP/TAB	Sclerosis
+C0872758	C0041657	Levobupivacaine 5mg/mL injection solution 10mL ampule	Unconscious
+C0715444	C0011991	NIACIN (SLO-NIACIN) 750MG TAB,SA	Diarrhea symptom
+C0715444	C0016382	NIACIN (SLO-NIACIN) 750MG TAB,SA	Face goes red
+C0689986	C0151699	PHENYLPROPANOLAMINE HCL 75MG CAP,SA	Intracranial hemorrhage
+C0774481	C0043352	Glycopyrrolate 600micrograms/3mL injection	Reduced salivation
+C0995028	C0041657	THIOPENTAL NA 2.5GM KIT INJ	Unconscious
+C1724245	C0021603	Oxymorphone 10mg m/r tablet	Disorders of initiating and maintaining sleep
+C1724247	C0021603	Oxymorphone 40mg m/r tablet	Disorders of initiating and maintaining sleep
+C1724246	C0021603	Oxymorphone 20mg m/r tablet	Disorders of initiating and maintaining sleep
+C3883334	C0036429	DOXYCYCLINE MONOHYDRATE 75MG CAP/TAB	Sclerosis
+C1724248	C0021603	Oxymorphone 5mg m/r tablet	Disorders of initiating and maintaining sleep
+C0982865	C0002622	SCOPOLAMINE HBR 0.43MG/0.5ML INJ	Amnesia
+C0982865	C0026961	SCOPOLAMINE HBR 0.43MG/0.5ML INJ	Dilated pupil
+C0982900	C0041657	THIAMYLAL NA 5GM/VIL INJ	Unconscious
+C0789407	C0020523	ASPERGILLUS FUMIGATUS 1:500 INJ	IgE-mediated allergic disorder
+C0692341	C0020500	ASCORBIC ACID 250MG TAB	Hyperoxaluria
+C0692463	C0011991	Niacin 250mg tablet	Diarrhea symptom
+C0692463	C0016382	Niacin 250mg tablet	Face goes red
+C0114872	C0041657	Doxacurium chloride	Unconscious
+C0114872	C0522224	Doxacurium chloride	Paralysis
+C0774477	C0043352	HYOSCYAMINE SO4 0.13MG TAB	Reduced salivation
+C0774477	C0152020	HYOSCYAMINE SO4 0.13MG TAB	Gastric atonia
+C0774475	C0043352	Hyoscyamine sulfate 0.5mg/mL injection	Reduced salivation
+C0774475	C0152020	Hyoscyamine sulfate 0.5mg/mL injection	Gastric atonia
+C0872506	C0026827	RAPACURONIUM BROMIDE 20MG/ML INJ	Poor muscle tone
+C0980642	C0041657	THIAMYLAL NA 10GM/VIL INJ	Unconscious
+C0980643	C0041657	THIAMYLAL NA 1GM/VIL INJ	Unconscious
+C0030873	C0021603	Pentazocine	Disorders of initiating and maintaining sleep
+C1612968	C0041657	NITRIC OXIDE 800PPM GAS	Unconscious
+C0724660	C0026961	phenylephrine tannate	Dilated pupil
+C0981485	C0043352	Hyoscyamine sulfate 0.125mg/mL solution	Reduced salivation
+C0981485	C0152020	Hyoscyamine sulfate 0.125mg/mL solution	Gastric atonia
+C0353148	C0021603	Meperidine hydrochloride	Disorders of initiating and maintaining sleep
+C0778556	C0025637	Methylene blue 1% injection solution 5 mL vial	Increased methemoglobin
+C0981569	C0011991	MILK OF MAGNESIA,30ML	Diarrhea symptom
+C4025981	C0011991	MAGNESIUM 192MG TAB	Diarrhea symptom
+C3888048	C0036429	DOXYCYCLINE HYCLATE 150MG TAB	Sclerosis
+C0774558	C0026961	Phenylephrine hydrochloride 1% (10mg/mL) injection solution 5mL vial	Dilated pupil
+C0034131	C0020523	Tuberculin purified protein derivative	IgE-mediated allergic disorder
+C0031470	C0026961	Phenylephrine hydrochloride	Dilated pupil
+C0974646	C0026961	ATROPINE SO4 0.5% INHL	Dilated pupil
+C0974646	C0043352	ATROPINE SO4 0.5% INHL	Reduced salivation
+C0974654	C0026961	ATROPINE SO4 2MG/0.7ML INJ	Dilated pupil
+C0974654	C0043352	ATROPINE SO4 2MG/0.7ML INJ	Reduced salivation
+C0974655	C0026961	Atropine sulfate 2mg/1mL injection	Dilated pupil
+C0974655	C0043352	Atropine sulfate 2mg/1mL injection	Reduced salivation
+C0040976	C0162316	Trientine	Iron deficiency anemia
+C0974650	C0026961	ATROPINE SO4 0.6MG TAB,SOLUBLE	Dilated pupil
+C0974650	C0043352	ATROPINE SO4 0.6MG TAB,SOLUBLE	Reduced salivation
+C0974651	C0026961	Atropine sulfate 1% eye ointment	Dilated pupil
+C0974651	C0043352	Atropine sulfate 1% eye ointment	Reduced salivation
+C0980899	C0020523	Tuberculin, purified protein 5unt/dos injection	IgE-mediated allergic disorder
+C0980898	C0020523	Tuberculin, purified protein 50unt/cc injection	IgE-mediated allergic disorder
+C0993224	C0020598	Medronate Disodium	Hypocalcemia
+C0023586	C0021603	Levorphanol	Disorders of initiating and maintaining sleep
+C0980893	C0020523	Tuberculin PPD 1:10,000(10units/mL) injection solution 1mL ampule	IgE-mediated allergic disorder
+C0981747	C0026961	Tropicamide 1% eye drops	Dilated pupil
+C0980897	C0020523	Tuberculin, purified protein 250unt/cc injection	IgE-mediated allergic disorder
+C0071102	C0026827	Pipecuronium	Poor muscle tone
+C1735418	C0036429	Doxycycline 40mg m/r capsule	Sclerosis
+C4026742	C0036429	DOXYCYCLINE HYCLATE 50MG TAB,EC	Sclerosis
+C0689546	C0038814	Methoxsalen 1% lotion	Sunburn, unspecified
+C0030054	C0035344	Oxygen	Retinopathy of prematurity
+C1724053	C0021603	Oxymorphone 10mg tablet	Disorders of initiating and maintaining sleep
+C0775901	C0522224	Atracurium besylate 10mg/mL injection solution 25mL vial	Paralysis
+C1724059	C0021603	Oxymorphone 5mg tablet	Disorders of initiating and maintaining sleep
+C0994469	C0021603	MEPERIDINE HCL 25MG/ML INJ,TUBEX,2ML	Disorders of initiating and maintaining sleep
+C3264776	C0011991	MAGNESIUM CITRATE CAP/TAB	Diarrhea symptom
+C1532137	C0000786	Levonorgestrel 1.5mg tablet	Miscarriage
+C0872988	C0041657	Levobupivacaine 2.5mg/mL injection solution 10mL ampule	Unconscious
+C0731939	C0002622	Scopolamine 1.5mg/unt patch	Amnesia
+C0731939	C0026961	Scopolamine 1.5mg/unt patch	Dilated pupil
+C0982792	C0021603	Meperidine hydrochloride 50mg/5mL injection	Disorders of initiating and maintaining sleep
+C0003968	C0020500	Vitamin C preparation	Hyperoxaluria
+C0030903	C0014544	Pentylenetetrazol	Epileptic seizure
+C0126774	C0011991	Magnesium citrate	Diarrhea symptom
+C0689341	C0021603	Levorphanol tartrate 2mg tablet	Disorders of initiating and maintaining sleep
+C1177631	C0036429	Doxycycline 75mg tablet	Sclerosis
+C0936052	C0020500	Ascorbic acid 500mg tablet	Hyperoxaluria
+C0062922	C0026961	Homatropine	Dilated pupil
+C0062923	C0026961	Homatropine methylbromide	Dilated pupil
+C0937296	C0043352	HYOSCYAMINE SO4 0.125MG TAB,ORAL DISINTEGRATING	Reduced salivation
+C0937296	C0152020	HYOSCYAMINE SO4 0.125MG TAB,ORAL DISINTEGRATING	Gastric atonia
+C0063252	C0041657	Desflurane	Unconscious
+C0974579	C0020500	ASCORBIC ACID 250MG/5ML SOLN,ORAL	Hyperoxaluria
+C0974578	C0020500	Ascorbic acid 250mg orange chewable tablet	Hyperoxaluria
+C0017970	C0043352	Glycopyrrolate	Reduced salivation
+C0974577	C0020500	ASCORBIC ACID 222MG/ML INJ	Hyperoxaluria
+C0974573	C0020500	ASCORBIC ACID 1GM TAB,SA	Hyperoxaluria
+C0710846	C0041657	Enflurane 99.9% liquid	Unconscious
+C0710846	C0456511	Enflurane 99.9% liquid	Sleep paralysis
+C0774413	C0026827	Succinylcholine chloride 1000mg/10mL injection solution 10mL vial	Poor muscle tone
+C0004034	C0020523	Aspergillus	IgE-mediated allergic disorder
+C0004037	C0020523	Aspergillus fumigatus	IgE-mediated allergic disorder
+C0041190	C0026961	Tropicamide	Dilated pupil
+C3505230	C0026961	ATROPINE SO4 0.4G/ML INJ,SYRINGE,2ML	Dilated pupil
+C3505230	C0043352	ATROPINE SO4 0.4G/ML INJ,SYRINGE,2ML	Reduced salivation
+C0058731	C0036429	Doxycycline hyclate	Sclerosis
+C0978320	C0011991	MAGNESIUM OXIDE 420MG TAB	Diarrhea symptom
+C0978137	C0021603	Levomethadyl acetate hydrochloride 10mg/mL oral solution	Disorders of initiating and maintaining sleep
+C0700559	C0041657	Thiamylal sodium	Unconscious
+C0700554	C0021603	Pentazocine lactate	Disorders of initiating and maintaining sleep
+C3883339	C0036429	DOXYCYCLINE HYCLATE 100MG CAP/TAB	Sclerosis
+C2719981	C0021603	Meperidine hydrochloride 50mg/mL injection solution ampule	Disorders of initiating and maintaining sleep
+C0991838	C0042963	IPECAC ALKALOIDS	Finding of vomiting
+C0872757	C0041657	Levobupivacaine 7.5mg/mL injection solution 10mL ampule	Unconscious
+C0783076	C0026961	Atropine sulfate 3mg/10mL injection	Dilated pupil
+C0783076	C0043352	Atropine sulfate 3mg/10mL injection	Reduced salivation
+C3887716	C0036429	Doxycycline hyclate 50mg capsule	Sclerosis
+C3887715	C0036429	Doxycycline hyclate 200mg powder for injection solution vial	Sclerosis
+C3887713	C0036429	Doxycycline hyclate 100mg capsule	Sclerosis
+C0025376	C0021603	Meperidine	Disorders of initiating and maintaining sleep
+C0977490	C0026961	Homatropine methylbromide 5mg tablet	Dilated pupil
+C1298492	C0026961	Phenylephrine hydrochloride 10mg tablet	Dilated pupil
+C0065533	C0011991	Magnesium trisilicate	Diarrhea symptom
+C0065533	C0022661	Magnesium trisilicate	End stage renal disease
+C0981155	C0041657	XENON 5% GAS	Unconscious
+C0978429	C0021603	MEPERIDINE HCL 25MG/ML INJ,TUBEX,1ML	Disorders of initiating and maintaining sleep
+C0978428	C0021603	Meperidine hydrochloride 25mg/1mL injection	Disorders of initiating and maintaining sleep
+C0978426	C0021603	MEPERIDINE HCL 10MG/ML INJ,SYRINGE,30ML	Disorders of initiating and maintaining sleep
+C0978423	C0021603	MEPERIDINE HCL 100MG/ML INJ,TUBEX,1ML	Disorders of initiating and maintaining sleep
+C0978422	C0021603	Meperidine hydrochloride 100mg/mL injection solution ampule	Disorders of initiating and maintaining sleep
+C0006945	C0026205	Carbachol	Persistent miosis
+C0776544	C0015967	PLAGUE VACCINE INJ	Body temperature above reference range
+C0776544	C0018681	PLAGUE VACCINE INJ	Headache
+C0976553	C0036429	Doxycycline calcium 50mg/5mL syrup	Sclerosis
+C0976554	C0036429	Doxycycline hyclate 100mg powder for injection solution vial	Sclerosis
+C0976557	C0036429	Doxycycline 50mg tablet	Sclerosis
+C0786180	C0020500	ASCORBIC ACID 200MG/ML INJ	Hyperoxaluria
+C0022614	C0041657	Ketamine	Unconscious
+C0018549	C0041657	Halothane	Unconscious
+C0018549	C0085605	Halothane	Hepatic failure
+C0057558	C0000786	Desogestrel preparation	Miscarriage
+C0691934	C0020500	ASCORBIC ACID 1GM TAB	Hyperoxaluria
+C0691713	C0151699	PHENYLPROPANOLAMINE HCL 75MG TAB,SA	Intracranial hemorrhage
+C0691712	C0151699	PHENYLPROPANOLAMINE HCL 50MG TAB	Intracranial hemorrhage
+C0596008	C0021603	Levorphanol tartrate	Disorders of initiating and maintaining sleep
+C0596005	C0026961	Atropine sulfate	Dilated pupil
+C0596005	C0043352	Atropine sulfate	Reduced salivation
+C1096766	C0026827	Cisatracurium	Poor muscle tone
+C1096766	C0041657	Cisatracurium	Unconscious
+C0974648	C0026961	Atropine sulfate 0.5% eye drops	Dilated pupil
+C0974648	C0043352	Atropine sulfate 0.5% eye drops	Reduced salivation
+C0978962	C0016382	Niacin 250mg extended release tablet	Face goes red
+C0024476	C0011991	Magnesium hydroxide	Diarrhea symptom
+C0982508	C0020523	ALLERGENIC EXTRACT 1.5ML INJ	IgE-mediated allergic disorder
+C0982054	C0020523	CANDIDA ANTIGEN	IgE-mediated allergic disorder
+C0978959	C0011991	NIACIN 125MG TAB,SA	Diarrhea symptom
+C0978959	C0016382	NIACIN 125MG TAB,SA	Face goes red
+C0978958	C0011991	NIACIN 125MG CAP,SA	Diarrhea symptom
+C0978958	C0016382	NIACIN 125MG CAP,SA	Face goes red
+C0978957	C0011991	NIACIN 125MG CAP	Diarrhea symptom
+C0978957	C0016382	NIACIN 125MG CAP	Face goes red
+C0783691	C0011991	NIACIN 100MG/ML INJ	Diarrhea symptom
+C0783691	C0016382	NIACIN 100MG/ML INJ	Face goes red
+C0978955	C0011991	Nicotinic acid 1000mg m/r tablet	Diarrhea symptom
+C0978955	C0016382	Nicotinic acid 1000mg m/r tablet	Face goes red
+C0978950	C0011991	NIACIN (NIACOR) 500MG TAB	Diarrhea symptom
+C0978950	C0016382	NIACIN (NIACOR) 500MG TAB	Face goes red
+C3816990	C0020523	ALLERGENIC EXTRACT,GRASTEK 2800UNIT TAB,SL	IgE-mediated allergic disorder
+C0693058	C0026961	Atropine sulfate 600micrograms tablet	Dilated pupil
+C0693058	C0043352	Atropine sulfate 600micrograms tablet	Reduced salivation
+C1585349	C0043352	Hyoscyamine sulfate 0.125mg/5mL elixir	Reduced salivation
+C1585349	C0152020	Hyoscyamine sulfate 0.125mg/5mL elixir	Gastric atonia
+C3642620	C0036429	DOXYCYCLINE HYCLATE 200MG TAB,EC	Sclerosis
+C0977689	C0043352	Hyoscyamine sulfate 125micrograms tablet	Reduced salivation
+C0977689	C0152020	Hyoscyamine sulfate 125micrograms tablet	Gastric atonia
+C1164336	C0036429	DOXYCYCLINE HYCLATE 75MG CAP,EC	Sclerosis
+C0702329	C0041657	Doxacurium chloride 5mg/5mL solution	Unconscious
+C0702329	C0522224	Doxacurium chloride 5mg/5mL solution	Paralysis
+C3817022	C0020523	ALLERGENIC EXTRACT, ORALAIR 300 IR TAB,SL STARTER PACK,3	IgE-mediated allergic disorder
+C0688977	C0043352	Glycopyrrolate 1mg tablet	Reduced salivation
+C0039855	C0041657	Thiamylal	Unconscious
+C0688978	C0043352	Glycopyrrolate 2mg tablet	Reduced salivation
+C0304448	C0041657	Methohexital sodium	Unconscious
+C0692578	C0026827	CISATRACURIUM BESYLATE 10MG/ML INJ,SOLN	Poor muscle tone
+C0692578	C0041657	CISATRACURIUM BESYLATE 10MG/ML INJ,SOLN	Unconscious
+C0692577	C0026827	Cisatracurium besylate 2mg/mL injection solution 5 mL ampule	Poor muscle tone
+C0692577	C0041657	Cisatracurium besylate 2mg/mL injection solution 5 mL ampule	Unconscious
+C0692181	C0036429	Doxycycline monohydrate 50mg capsule	Sclerosis
+C0692180	C0036429	Doxycycline monohydrate 100mg capsule	Sclerosis
+C3883337	C0036429	DOXYCYCLINE HYCLATE 50MG CAP/TAB	Sclerosis
+C3883336	C0036429	DOXYCYCLINE MONOHYDRATE 100MG CAP/TAB	Sclerosis
+C3883331	C0036429	DOXYCYCLINE MONOHYDRATE 150MG CAP/TAB	Sclerosis
+C3883333	C0036429	DOXYCYCLINE HYCLATE 150MG CAP/TAB	Sclerosis
+C0774462	C0043352	Atropine sulfate 400micrograms/1mL injection	Reduced salivation
+C0016972	C0026827	Gallamine triethiodide	Poor muscle tone
+C0980655	C0041657	THIOPENTAL NA 2.5GM/VIL INJ	Unconscious
+C0975266	C0001127	CARBON DIOXIDE 100% GAS	Respiratory acidosis
+C0975266	C0004044	CARBON DIOXIDE 100% GAS	Suffocating
+C0975266	C0013404	CARBON DIOXIDE 100% GAS	Difficulty breathing
+C0975266	C0016736	CARBON DIOXIDE 100% GAS	Frostbite
+C0975266	C0018681	CARBON DIOXIDE 100% GAS	Headache
+C0975266	C0040822	CARBON DIOXIDE 100% GAS	Tremor
+C0774468	C0043352	Atropine sulfate 1mg/1mL injection	Reduced salivation
+C1177061	C0020500	ASCORBIC ACID 90MG/ML SOLN	Hyperoxaluria
+C0042435	C0026827	Vecuronium bromide	Poor muscle tone
+C0978856	C0021368	MUMPS SKIN TEST (MSTA) ANTIGEN INJ	Inflammation
+C0976556	C0036429	Doxycycline 20mg capsule	Sclerosis
+C0242531	C0026827	Vecuronium	Poor muscle tone
+C0690307	C0002622	SCOPOLAMINE HBR 1MG/ML INJ	Amnesia
+C0690307	C0026961	SCOPOLAMINE HBR 1MG/ML INJ	Dilated pupil
+C0690306	C0002622	Hyoscine hydrobromide 400micrograms/mL injection solution ampule	Amnesia
+C0690306	C0026961	Hyoscine hydrobromide 400micrograms/mL injection solution ampule	Dilated pupil
+C0688656	C0016382	Disulfiram 500mg tablet	Face goes red
+C0688656	C0018681	Disulfiram 500mg tablet	Headache
+C0688656	C0020649	Disulfiram 500mg tablet	Low blood pressure
+C0688656	C0027497	Disulfiram 500mg tablet	Nausea
+C0688656	C0042571	Disulfiram 500mg tablet	Subjective vertigo
+C0688656	C0042963	Disulfiram 500mg tablet	Finding of vomiting
+C0974649	C0026961	Atropine sulfate 500micrograms/1mL injection	Dilated pupil
+C0974649	C0043352	Atropine sulfate 500micrograms/1mL injection	Reduced salivation
+C0688655	C0016382	Disulfiram 250mg tablet	Face goes red
+C0688655	C0018681	Disulfiram 250mg tablet	Headache
+C0688655	C0020649	Disulfiram 250mg tablet	Low blood pressure
+C0688655	C0027497	Disulfiram 250mg tablet	Nausea
+C0688655	C0042571	Disulfiram 250mg tablet	Subjective vertigo
+C0688655	C0042963	Disulfiram 250mg tablet	Finding of vomiting
+C0974647	C0026961	Atropine sulfate 0.5% eye ointment	Dilated pupil
+C0974647	C0043352	Atropine sulfate 0.5% eye ointment	Reduced salivation
+C0282372	C0026827	Tubocurarine chloride	Poor muscle tone
+C0974644	C0026961	ATROPINE SO4 0.4MG TAB,SOLUBLE	Dilated pupil
+C0974644	C0043352	ATROPINE SO4 0.4MG TAB,SOLUBLE	Reduced salivation
+C0031469	C0026961	Phenylephrine	Dilated pupil
+C0689750	C0011991	Niacin 500mg tablet	Diarrhea symptom
+C0689750	C0016382	Niacin 500mg tablet	Face goes red
+C0689751	C0011991	NIACINAMIDE 500MG TAB	Diarrhea symptom
+C0689751	C0016204	NIACINAMIDE 500MG TAB	Flatulence symptom
+C0689751	C0016382	NIACINAMIDE 500MG TAB	Face goes red
+C1591322	C0041657	DESFLURANE SOLN,INHL	Unconscious
+C0774410	C0026827	Succinylcholine chloride 50mg/ml injection	Poor muscle tone
+C0774412	C0026827	SUCCINYLCHOLINE CHLORIDE 500MG/VIL INJ	Poor muscle tone
+C0981617	C0011991	NIACIN 250MG CAP,SA	Diarrhea symptom
+C0981617	C0016382	NIACIN 250MG CAP,SA	Face goes red
+C0774414	C0026827	Succinylcholine chloride 20mg/mL injection solution 5mL vial	Poor muscle tone
+C0709894	C0041657	THIOPENTAL NA 5GM KIT INJ	Unconscious
+C0973956	C0020523	ALLERGENIC EXTRACT 4.98ML INJ	IgE-mediated allergic disorder
+C0981995	C0020523	ALLERGENIC EXTRACT, YELLOW JACKET, WHOLE BODY	IgE-mediated allergic disorder
+C0025668	C0041657	Methohexital	Unconscious
+C0980382	C0026827	SUCCINYLCHOLINE CHLORIDE 1000MG/VIL INJ	Poor muscle tone
+C0974932	C0020523	BENZYLPENICILLOYL POLYLYSINE INJ	IgE-mediated allergic disorder
+C0703562	C0038587	Flumazenil 100micrograms/mL injection solution 5mL ampule	Withdrawal syndrome
+C0795367	C0011991	MAGNESIUM HYDROXIDE 405MG/5ML LIQUID	Diarrhea symptom
+C1587940	C0041657	Isoflurane 99.9% liquid	Unconscious
+C1587940	C0085605	Isoflurane 99.9% liquid	Hepatic failure
+C0033487	C0035229	Propofol	Respiratory insufficiency
+C0033487	C0041657	Propofol	Unconscious
+C0979217	C0035344	OXYGEN 99% GAS	Retinopathy of prematurity
+C0979216	C0035344	OXYGEN 98.5% GAS	Retinopathy of prematurity
+C0013090	C0036429	Doxycycline	Sclerosis
+C1572402	C0011991	MAGNESIUM HYDROXIDE 405MG/5ML SUSP,ORAL	Diarrhea symptom
+C1572401	C0011991	MAGNESIUM HYDROXIDE 390MG/5ML SUSP,ORAL	Diarrhea symptom
+C0980110	C0002622	Hyoscine hydrobromide 0.25% eye drops	Amnesia
+C0980110	C0026961	Hyoscine hydrobromide 0.25% eye drops	Dilated pupil
+C0980112	C0002622	SCOPOLAMINE HBR 0.5MG PELLET	Amnesia
+C0980112	C0026961	SCOPOLAMINE HBR 0.5MG PELLET	Dilated pupil
+C0979218	C0035344	Oxygen 99.5% liquid	Retinopathy of prematurity
+C3249245	C0026961	Phenylephrine 0.25% solution nasal	Dilated pupil
+C3249244	C0026961	PHENYLEPHRINE HCL 0.5% SOLN,NASAL,SPRAY	Dilated pupil
+C3249241	C0026961	Phenylephrine hydrochloride 10% solution	Dilated pupil
+C0690872	C0026827	Rocuronium bromide 10mg/mL injection solution 5mL vial	Poor muscle tone
+C3249243	C0026961	Phenylephrine hydrochloride 2.5% single-use eye drops	Dilated pupil
+C0974587	C0020500	ASCORBIC ACID 500MG CAP,SA	Hyperoxaluria
+C0974588	C0020500	ASCORBIC ACID 500MG TAB,SA	Hyperoxaluria
+C0039925	C0041657	Thiopentone	Unconscious
+C1964287	C0036429	DOXYCYCLINE MONOHYDRATE 150MG CAP	Sclerosis
+C2343873	C0026961	PHENYLEPHRINE 40MCG/ML INJ,SYRINGE,10ML	Dilated pupil
+C0778320	C0026827	Vecuronium bromide 20mg/20mL powder for injection 20mL vial	Poor muscle tone
+C2911973	C0011991	MAGNESIUM CITRATE POWDER	Diarrhea symptom
+C0937589	C0036429	Doxycycline 20mg tablet	Sclerosis
+C0026782	C0020523	Mumps live virus vaccine	IgE-mediated allergic disorder
+C0025746	C0025637	Methylene blue stain	Increased methemoglobin
+C0074414	C0022660	Sevoflurane	Acute renal failure syndrome
+C0074414	C0023895	Sevoflurane	Disease of liver
+C0074414	C0024591	Sevoflurane	Malignant hyperpyrexia due to anesthetic
+C0074414	C0036659	Sevoflurane	Sensation Disorders
+C0074414	C0041657	Sevoflurane	Unconscious
+C0980180	C0020500	Sodium ascorbate 250mg/mL injection solution ampule	Hyperoxaluria
+C0700541	C0041657	Ketamine hydrochloride	Unconscious
+C0058716	C0041657	Doxacurium	Unconscious
+C0058716	C0522224	Doxacurium	Paralysis
+C0012792	C0026827	Succinylcholine chloride	Poor muscle tone
+C0887557	C0020500	Sodium ascorbate preparation	Hyperoxaluria
+C0974124	C0020523	ALLERGENIC EXTRACT, ANTIGENS, MIXED	IgE-mediated allergic disorder
+C0014277	C0041657	Enflurane	Unconscious
+C0014277	C0456511	Enflurane	Sleep paralysis
+C0974584	C0020500	ASCORBIC ACID 25MG TAB	Hyperoxaluria
+C1591670	C0032961	Choriogonadotropin alfa 250micrograms injection powder for reconstitution+solvent	Pregnancy
+C0978140	C0021603	Levorphanol tartrate 2mg/mL injection solution 2mL vial	Disorders of initiating and maintaining sleep
+C0981221	C0026961	Atropine sulfate 1% eye drops	Dilated pupil
+C0981221	C0043352	Atropine sulfate 1% eye drops	Reduced salivation
+C0981220	C0026961	ATROPINE SO4 0.2% INHL	Dilated pupil
+C0981220	C0043352	ATROPINE SO4 0.2% INHL	Reduced salivation
+C0028215	C0027497	Nitrous oxide	Nausea
+C0028215	C0041657	Nitrous oxide	Unconscious
+C0028215	C0042963	Nitrous oxide	Finding of vomiting
+C0975231	C0026205	Carbachol 0.01% solution	Persistent miosis
+C0770458	C0026961	Homatropine hydrobromide	Dilated pupil
+C0975233	C0026205	Carbachol 1.5% eye drops	Persistent miosis
+C0978321	C0011991	MAGNESIUM OXIDE 500MG TAB	Diarrhea symptom
+C0975235	C0026205	Carbachol 3% eye drops	Persistent miosis
+C0975234	C0026205	Carbachol 2.25% solution	Persistent miosis
+C0019654	C0020523	Histoplasmin	IgE-mediated allergic disorder
+C3887869	C0036429	DOXYCYCLINE HYCLATE 75MG TAB	Sclerosis
+C2343236	C0026961	PHENYLEPHRINE HCL 0.1MG/ML/NACL 0.9% INJ,SYRINGE,10ML	Dilated pupil
+C0596004	C0043352	Hyoscyamine	Reduced salivation
+C0596004	C0152020	Hyoscyamine	Gastric atonia
+C0993202	C0020523	Alternaria alternata diagnostic allergen extract	IgE-mediated allergic disorder
+C0043339	C0041657	Xenon	Unconscious
+C0991853	C0011991	NICOTINAMIDE HYDRIODIDE	Diarrhea symptom
+C0991853	C0016382	NICOTINAMIDE HYDRIODIDE	Face goes red
+C0023566	C0000786	Levonorgestrel preparation	Miscarriage
+C2365787	C0026961	PHENYLEPHRINE HCL 80MCG/ML NACL 0.9% INJ,BAG,250ML	Dilated pupil
+C0981769	C0041657	Thiopental sodium 20mg/mL injection	Unconscious
+C0007047	C0000786	Carboprost	Miscarriage
+C0979489	C0026961	PHENYLEPHRINE HCL 0.25% SUPP,RTL	Dilated pupil
+C2242151	C0000786	LEVONORGESTREL 0.75MG TAB,PKG,2	Miscarriage
+C0978560	C0027709	METHOXYFLURANE 99.9% INHL	Nephrocalcinosis
+C0978560	C0032708	METHOXYFLURANE 99.9% INHL	Porphyrinopathy
+C0978560	C0036659	METHOXYFLURANE 99.9% INHL	Sensation Disorders
+C0978560	C0041657	METHOXYFLURANE 99.9% INHL	Unconscious
+C0978560	C0085605	METHOXYFLURANE 99.9% INHL	Hepatic failure
+C0978561	C0027709	METHOXYFLURANE INHL	Nephrocalcinosis
+C0978561	C0032708	METHOXYFLURANE INHL	Porphyrinopathy
+C0978561	C0036659	METHOXYFLURANE INHL	Sensation Disorders
+C0978561	C0041657	METHOXYFLURANE INHL	Unconscious
+C0978561	C0085605	METHOXYFLURANE INHL	Hepatic failure
+C0030073	C0021603	Oxymorphone product	Disorders of initiating and maintaining sleep
+C0689565	C0025637	Methylene blue 65mg tablet	Increased methemoglobin
+C0979484	C0026961	PHENYLEPHRINE HCL 0.12% SOLN,OPH	Dilated pupil
+C0024477	C0011991	Magnesium oxide	Diarrhea symptom
+C0689545	C0038814	Methoxsalen 10mg capsule	Sunburn, unspecified
+C0753790	C0026827	Rapacuronium bromide	Poor muscle tone
+C0773473	C0020500	ASCORBIC ACID PWDR	Hyperoxaluria
+C0978960	C0011991	NIACIN 200MG TAB,SA	Diarrhea symptom
+C0978960	C0016382	NIACIN 200MG TAB,SA	Face goes red
+C0978966	C0011991	NIACIN 500MG CAP,SA	Diarrhea symptom
+C0978966	C0016382	NIACIN 500MG CAP,SA	Face goes red
+C0978967	C0016382	Nicotinic acid 500mg m/r tablet	Face goes red
+C2586585	C0041657	NITRIC OXIDE CAP/TAB	Unconscious
+C0978965	C0011991	NIACIN 400MG CAP,SA	Diarrhea symptom
+C0978965	C0016382	NIACIN 400MG CAP,SA	Face goes red
+C1585598	C0035344	OXYGEN 100% GAS	Retinopathy of prematurity
+C0022046	C0042963	Ipecacuanha	Finding of vomiting
+C0687951	C0043352	Atropine sulfate 800micrograms/1mL injection	Reduced salivation
+C0977368	C0021268	HELIUM 99% GAS	Inert Gas Narcosis
+C0977368	C0042940	HELIUM 99% GAS	Problem;voice
+C0973953	C0020523	ALLERGENIC EXTRACT 0.744ML INJ	IgE-mediated allergic disorder
+C0036442	C0002622	Scopolamine	Amnesia
+C0036442	C0026961	Scopolamine	Dilated pupil
+C0036444	C0026961	Scopolamine hydrobromide	Dilated pupil
+C0973954	C0020523	ALLERGENIC EXTRACT 0.996ML INJ	IgE-mediated allergic disorder
+C0973955	C0020523	ALLERGENIC EXTRACT 1 UNT/ML INJ	IgE-mediated allergic disorder
+C0973959	C0020523	ALLERGENIC EXTRACT INJ	IgE-mediated allergic disorder
+C2343909	C0036429	DOXYCYCLINE HYCLATE 10% SUSP,SUBGINGIVAL,SA	Sclerosis
+C0977695	C0043352	Hyoscyamine sulfate 375micrograms m/r capsule	Reduced salivation
+C0977695	C0152020	Hyoscyamine sulfate 375micrograms m/r capsule	Gastric atonia
+C0977696	C0152020	Hyoscyamine sulfate 375micrograms m/r tablet	Gastric atonia
+C0693888	C0002622	Scopolamine hydrobromide 400micrograms tablet	Amnesia
+C0693888	C0026961	Scopolamine hydrobromide 400micrograms tablet	Dilated pupil
+C0691633	C0011991	NIACIN 100MG TAB	Diarrhea symptom
+C0691633	C0016382	NIACIN 100MG TAB	Face goes red
+C1363288	C0036429	DOXYCYCLINE HYCLATE 100MG TAB,EC	Sclerosis
+C3184486	C0026961	ATROPINE SO4 3% SOLN,OPH	Dilated pupil
+C3184486	C0043352	ATROPINE SO4 3% SOLN,OPH	Reduced salivation
+C3244525	C0020523	ALLERGENIC EXTRACT,MIXED ANTIGENS PATCH	IgE-mediated allergic disorder
+C0688686	C0036429	Doxycycline 100mg tablet	Sclerosis
+C0981598	C0011991	MAGNESIUM OXIDE 200MG TAB	Diarrhea symptom
+C0980666	C0041657	THIOPENTAL NA 5GM/VIL INJ	Unconscious
+C0936206	C0041657	Droperidol 2.5mg/mL injection solution 5mL vial	Unconscious
+C0705278	C0026961	Atropine sulfate 400micrograms tablet	Dilated pupil
+C0705278	C0043352	Atropine sulfate 400micrograms tablet	Reduced salivation
+C2926696	C0043352	GLYCOPYRROLATE 1MG/5ML SOLN,ORAL	Reduced salivation
+C0028158	C0016736	Nitrogen	Frostbite
+C0028158	C0021268	Nitrogen	Inert Gas Narcosis
+C0980668	C0041657	THIOPENTAL NA 6.25GM/VIL INJ	Unconscious
+C0991722	C0011991	NIACINAMIDE 100MG/ML INJ	Diarrhea symptom
+C0991722	C0016204	NIACINAMIDE 100MG/ML INJ	Flatulence symptom
+C0991722	C0016382	NIACINAMIDE 100MG/ML INJ	Face goes red
+C0703109	C0020523	METOCURINE IODIDE 2MG/ML INJ	IgE-mediated allergic disorder
+C0703109	C0041657	METOCURINE IODIDE 2MG/ML INJ	Unconscious
+C0975272	C0001127	CARBON DIOXIDE 99% GAS	Respiratory acidosis
+C0975272	C0004044	CARBON DIOXIDE 99% GAS	Suffocating
+C0975272	C0013404	CARBON DIOXIDE 99% GAS	Difficulty breathing
+C0975272	C0016736	CARBON DIOXIDE 99% GAS	Frostbite
+C0975272	C0018681	CARBON DIOXIDE 99% GAS	Headache
+C0975272	C0040822	CARBON DIOXIDE 99% GAS	Tremor
+C0770325	C0162316	Trientine hydrochloride	Iron deficiency anemia
+C0774251	C0021603	Meperidine hydrochloride 75mg/1mL injection	Disorders of initiating and maintaining sleep
+C0591789	C0011991	MILK OF MAGNESIA	Diarrhea symptom
+C0004235	C0522224	Atracurium besylate	Paralysis
+C0980961	C0026827	VECURONIUM BROMIDE 2MG/ML INJ	Poor muscle tone
+C0691919	C0020500	ASCORBIC ACID 1.5GM/ROSE HIPS TAB	Hyperoxaluria
+C0981329	C0026961	Cyclopentolate hydrochloride 0.5% single-use eye drops	Dilated pupil
+C0778013	C0026827	PIPECURONIUM BR 10MG/VIL INJ	Poor muscle tone
+C0053327	C0020523	Benzylpenicilloyl polylysine	IgE-mediated allergic disorder
+C0991813	C0020523	COCCIDIODIN ANTIGEN	IgE-mediated allergic disorder
+C2718123	C0026961	ATROPINE SO4 0.1MG/ML INJ	Dilated pupil
+C2718123	C0043352	ATROPINE SO4 0.1MG/ML INJ	Reduced salivation
+C0128603	C0041657	Mivacurium chloride	Unconscious
+C0128603	C0522224	Mivacurium chloride	Paralysis
+C0981215	C0020500	ASCORBIC ACID 500MG TAB,CHEWABLE	Hyperoxaluria
+C0981601	C0011991	NIACIN 25MG TAB	Diarrhea symptom
+C0981601	C0016382	NIACIN 25MG TAB	Face goes red
+C0975800	C0020523	COCCIDIODIN 1:10 SKIN TEST	IgE-mediated allergic disorder
+C0975801	C0020523	COCCIDIODIN 1:100 SKIN TEST	IgE-mediated allergic disorder
+C0978440	C0021603	MEPERIDINE HCL 75MG/ML INJ,TUBEX,1ML	Disorders of initiating and maintaining sleep
+C0781756	C0020523	MUMPS VIRUS VACCINE,LIVE INJ	IgE-mediated allergic disorder
+C0038627	C0026827	Succinylcholine	Poor muscle tone
+C0206049	C0026827	Pipecuronium bromide	Poor muscle tone
+C3888301	C0036429	DOXYCYCLINE HYCLATE 100MG TAB	Sclerosis
+C0691595	C0011991	MAGNESIUM OXIDE 400MG TAB	Diarrhea symptom
+C0691592	C0011991	MAGNESIUM OXIDE 140MG CAP	Diarrhea symptom
+C0875292	C0011991	NIACIN (SLO-NIACIN) 500MG TAB,SA	Diarrhea symptom
+C0875292	C0016382	NIACIN (SLO-NIACIN) 500MG TAB,SA	Face goes red
+C0301459	C0021368	Mumps skin test antigen	Inflammation
+C0979219	C0035344	OXYGEN 99.6% GAS	Retinopathy of prematurity
+C0979040	C0027497	NITROUS OXIDE 99% GAS	Nausea
+C0979040	C0041657	NITROUS OXIDE 99% GAS	Unconscious
+C0979040	C0042963	NITROUS OXIDE 99% GAS	Finding of vomiting
+C0979041	C0027497	NITROUS OXIDE 99.9% GAS	Nausea
+C0979041	C0041657	NITROUS OXIDE 99.9% GAS	Unconscious
+C0979041	C0042963	NITROUS OXIDE 99.9% GAS	Finding of vomiting
+C0004234	C0522224	Atracurium	Paralysis
+C0026783	C0020523	Mumps virus	IgE-mediated allergic disorder
+C0691691	C0026961	PHENYLEPHRINE HCL 0.25% SOLN,NASAL,SPRAY	Dilated pupil
+C0018880	C0021268	Helium	Inert Gas Narcosis
+C0018880	C0042940	Helium	Problem;voice
+C0994389	C0043352	Hyoscyamine 150micrograms tablet	Reduced salivation
+C0994389	C0152020	Hyoscyamine 150micrograms tablet	Gastric atonia
+C0032066	C0015967	Plague vaccine	Body temperature above reference range
+C0032066	C0018681	Plague vaccine	Headache
+C0936073	C0041657	Thiopental sodium	Unconscious
+C0979220	C0035344	OXYGEN 99.9% GAS	Retinopathy of prematurity
+C0979224	C0021603	Oxymorphone hydrochloride 5mg suppository	Disorders of initiating and maintaining sleep
+C0974593	C0020500	Sodium ascorbate 500mg/mL injection solution ampule	Hyperoxaluria
+C0974596	C0020500	Ascorbic acid 50mg tablet	Hyperoxaluria
+C0974599	C0020500	ASCORBIC ACID 60MG TAB,CHEW	Hyperoxaluria
+C1331798	C0036429	DOXYCYCLINE HYCLATE 75MG TAB,EC	Sclerosis
+C0013136	C0041657	Droperidol	Unconscious
+C0004261	C0043352	Hyoscyamine sulfate	Reduced salivation
+C0004261	C0152020	Hyoscyamine sulfate	Gastric atonia
+C0282232	C0021603	Levomethadyl acetate hydrochloride	Disorders of initiating and maintaining sleep
+C0772342	C0021603	Levomethadyl	Disorders of initiating and maintaining sleep
+C0775767	C0026961	Phenylephrine 0.5% solution nasal	Dilated pupil
+C0978303	C0011991	MAGALDRATE 540MG/5ML SUSP	Diarrhea symptom
+C0978300	C0011991	MAGALDRATE 480MG/5ML SUSP,ORAL	Diarrhea symptom
+C0128170	C0026961	Atropine methonitrate	Dilated pupil
+C0128170	C0043352	Atropine methonitrate	Reduced salivation
+C0076448	C0041657	Thiobutabarbital	Unconscious
+C0011782	C0151699	Phenyl propanolamine hydrochloride	Intracranial hemorrhage
+C0353473	C0000786	LEVONORGESTREL 36MG/CAP X 6 IMPLANT	Miscarriage
+C0015131	C0041657	Etomidate	Unconscious
+C2962739	C0026961	PHENYLEPHRINE HCL 1% SOLN,NASAL,SPRAY	Dilated pupil
+C0530105	C0026827	Cisatracurium besylate	Poor muscle tone
+C0530105	C0041657	Cisatracurium besylate	Unconscious
+C0031364	C0022660	Phenacetin	Acute renal failure syndrome
+C0788926	C0011991	NIACIN 500MG CAP	Diarrhea symptom
+C0788926	C0016382	NIACIN 500MG CAP	Face goes red
+C1814029	C0026961	Atropine sulfate 500micrograms/5mL prefilled syringe	Dilated pupil
+C1814029	C0043352	Atropine sulfate 500micrograms/5mL prefilled syringe	Reduced salivation
+C0304428	C0026961	Phenylephrine bitartrate	Dilated pupil
+C0304422	C0043352	Hyoscyamine hydrobromide	Reduced salivation
+C0304422	C0152020	Hyoscyamine hydrobromide	Gastric atonia
+C1814027	C0026961	Atropine sulfate 1mg/10mL prefilled syringe	Dilated pupil
+C1814027	C0043352	Atropine sulfate 1mg/10mL prefilled syringe	Reduced salivation
+C0028368	C0000786	Norgestrel preparation	Miscarriage
+C0015117	C0000786	Etynodiol diacetate	Miscarriage
+C3857851	C0020523	ALLERGENIC EXTRACT, ORALAIR 100 IR TAB,SL STARTER PACK,3	IgE-mediated allergic disorder
+C0981259	C0020500	ASCORBIC ACID 100MG TAB,CHEWABLE	Hyperoxaluria
+C0979832	C0035229	Propofol 10mg/mL injection emulsion 50mL vial	Respiratory insufficiency
+C0979832	C0041657	Propofol 10mg/mL injection emulsion 50mL vial	Unconscious
+C1164335	C0036429	DOXYCYCLINE HYCLATE 100MG CAP,EC	Sclerosis
+C3887736	C0036429	Doxycycline monohydrate 25mg/5mL suspension	Sclerosis
+C0065512	C0011991	Magaldrate	Diarrhea symptom
+C0991717	C0041657	Mivacurium chloride 2mg/mL injection solution 5 mL ampule	Unconscious
+C0991717	C0522224	Mivacurium chloride 2mg/mL injection solution 5 mL ampule	Paralysis
+C0774285	C0021603	Oxymorphone hydrochloride 1.5mg/mL injection solution ampule	Disorders of initiating and maintaining sleep
+C0774284	C0021603	Oxymorphone hydrochloride 1mg/mL injection solution ampule	Disorders of initiating and maintaining sleep
+C0782220	C0026961	PHENYLEPHRINE HCL 0.5% JELLY,NASAL	Dilated pupil
+C0357664	C0026961	Cyclopentolate hydrochloride	Dilated pupil
+C1740872	C0011991	NIACIN (SLO-NIACIN) 250MG TAB,SA	Diarrhea symptom
+C1740872	C0016382	NIACIN (SLO-NIACIN) 250MG TAB,SA	Face goes red
+C0041345	C0026827	Tubocurarine	Poor muscle tone
+C0282155	C0036429	Doxycycline calcium	Sclerosis
+C0014994	C0042963	Ether	Finding of vomiting
+C0775765	C0026961	PHENYLEPHRINE HCL 0.16% SOLN,NASAL	Dilated pupil
+C0775764	C0026961	Phenylephrine 0.125% solution nasal drops	Dilated pupil
+C0028027	C0016382	Niacinamide preparation	Face goes red
+C0993216	C0020523	COCCIDIODIN	IgE-mediated allergic disorder
+C0012772	C0016382	Disulfiram	Face goes red
+C0012772	C0018681	Disulfiram	Headache
+C0012772	C0020649	Disulfiram	Low blood pressure
+C0012772	C0027497	Disulfiram	Nausea
+C0012772	C0042571	Disulfiram	Subjective vertigo
+C0012772	C0042963	Disulfiram	Finding of vomiting
+C0774142	C0041657	Ketamine 50mg/mL injection solution 10mL vial	Unconscious
+C0774140	C0041657	Ketamine hydrochloride 10mg/mL injection solution vial	Unconscious
+C0774141	C0041657	Ketamine 100mg/mL injection solution 10mL vial	Unconscious
+C0775768	C0026961	Phenylephrine 1% solution nasal	Dilated pupil
+C0980887	C0026961	Tropicamide 0.5% eye drops	Dilated pupil
+C0981771	C0041657	THIOPENTAL NA 2GM KIT SUSP,RTL	Unconscious
+C0981770	C0041657	Thiopental sodium 500mg powder for injection solution vial	Unconscious
+C0705766	C0011991	NIACIN 50MG/5ML ELIXIR	Diarrhea symptom
+C0705766	C0016382	NIACIN 50MG/5ML ELIXIR	Face goes red
+C3887742	C0036429	DOXYCYCLINE HYCLATE 50MG TAB	Sclerosis

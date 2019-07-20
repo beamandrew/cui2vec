@@ -1,0 +1,50 @@
+CUI	Type	String
+C0004352	Concept	Autistic Disorder
+C0004936	Concept	Mental disorders
+C0151898	Concept	Schizophrenic reaction
+C2603372	Concept	Infantile psychosis
+C0338984	Concept	Residual infantile autism
+C0236792	Concept	Asperger Syndrome
+C0033975	Concept	Psychotic Disorders
+C0566156	Association	Unable to respond to communication by others
+C0566158	Association	Does not respond to communication by others
+C0023012	Association	Language Delay
+C1836840	Association	Decreased eye contact
+C1445953	Association	Poor eye contact
+C4062279	Association	Absence of eye contact
+C0566060	Association	Unable to make conversation
+C0566062	Association	Does not make conversation
+C0566063	Association	Difficulty making conversation
+C0566066	Association	Unable to initiate conversation
+C0566068	Association	Does not initiate conversation
+C0566069	Association	Difficulty initiating conversation
+C0566078	Association	Unable to join in conversation
+C0566080	Association	Does not join in conversation
+C0566081	Association	Difficulty joining in conversation
+C0566090	Association	Unable to maintain conversation
+C0566092	Association	Does not maintain conversation
+C0566093	Association	Difficulty maintaining conversation
+C0424246	Association	Repetitive routines
+C1718276	Association	Repetitive verbalizations
+C1827547	Association	Repetitious behavior
+C3806732	Association	Repetitive movements
+C4060656	Association	Repetitive actions
+C1839336	Association	Reduction or loss of acquired skills (e.g., purposeful hand use, speech)
+C0424246	Association	Repetitive routines
+C4064178	Association	routines/rituals insists on following routines
+C1837653	Association	Inflexible adherence to routines or rituals
+C1976715	Association	Does not adjust easily to change in routines
+C0020517	Association	Hypersensitivity
+C0423522	Association	Sensitive hearing
+C0423580	Association	Sensitive to touch
+C0439822	Association	Highly sensitive
+C0520947	Association	Clumsiness - motor delay
+C3887611	Association	Restlessness
+C3275465	Association	Lack of speech or poor speech
+C3646115	Association	speech articulation incomprehensible speech
+C3810081	Association	Poor speech or no speech
+C0009460	Association	Communication impairment
+C0241210	Association	Speech Delay
+C0542371	Association	problems with speech
+C0542223	Association	Loss of speech
+C0395016	Association	Speech problem

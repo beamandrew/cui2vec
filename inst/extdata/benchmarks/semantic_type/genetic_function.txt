@@ -1,0 +1,2722 @@
+CUI	String
+C0002345	Alternate Splicing
+C0007622	Cell Transformation, Viral
+C0010366	Genetic crossing over
+C0012899	DNA repair
+C0013057	dosage compensation
+C0014431	Enzyme induction
+C0015219	Evolution
+C0015249	Excision Repair
+C0015353	Extra chromosomal inheritance
+C0017255	gene activation
+C0017256	Gene amplification
+C0017259	gene conversion
+C0017260	Gene deletion
+C0017261	Genetic Duplication Process
+C0017262	Gene expression
+C0017263	regulation of gene expression
+C0017287	Gene re-arrangement
+C0017288	Gene re-arrangement, alpha chain, T cell antigen receptor
+C0017289	Gene re-arrangement, B lymphocyte
+C0017290	Gene re-arrangement, B lymphocyte, heavy chain
+C0017291	Gene re-arrangement, B lymphocyte, light chain
+C0017292	Gene re-arrangement, beta chain, T cell antigen receptor
+C0017293	Gene re-arrangement, gamma chain, T cell antigen receptor
+C0017295	Gene re-arrangement, T lymphocyte
+C0017393	Genetic marker
+C0020202	Hybridization
+C0026882	Genetic mutation
+C0028303	Genetic non disjunction
+C0032219	Pleomorphism
+C0032529	Genetic polymorphism
+C0033461	provirus excision
+C0034865	Genetic recombination
+C0035380	reverse transcription
+C0035684	posttranscriptional RNA processing
+C0035687	RNA splicing
+C0036576	Genetic selection
+C0037211	Sister chromatid exchange
+C0037703	SOS response
+C0040624	Genetic transactivation
+C0040649	Genetic transcription
+C0040667	Genetic transduction
+C0040683	Bacterial transformation
+C0040684	Genetic transformation
+C0043297	dosage compensation by inactivation of X chromosome
+C0079868	Insertional Mutagenesis
+C0079870	Targeted Mutation
+C0162493	Transcriptional Activation
+C0162759	prenylation
+C0162782	RNA editing
+C0178622	enzyme induction/repression
+C0178654	gene complementation
+C0178656	gene induction/repression
+C0206071	isotype switching
+C0206530	germline mutation
+C0237817	Genetic Recessiveness
+C0241764	X-linked inheritance
+C0242614	Genomic Imprinting
+C0282572	translational frameshifting
+C0314611	Gene type
+C0314613	Linked gene
+C0314615	Immunoglobulin gene idiotype
+C0314616	Immunoglobulin gene allotype
+C0314623	REU gene
+C0314624	RRNA operon gene
+C0314625	LAC operon gene
+C0314627	Gene function
+C0314630	Gene template
+C0314632	Multiple alleles
+C0314633	Allelic exclusion
+C0314634	Silent alleles
+C0314635	Chromosomal inheritance
+C0314637	Genetic linkage equilibrium
+C0314638	Genetic linkage disequilibrium
+C0314639	Genetic behavior
+C0314641	Genetic transfection
+C0314643	Genetic sequence homology
+C0314644	Homology region
+C0314645	Genetic dosage effect
+C0314646	Genetic independent segregation
+C0314648	Allotype
+C0314654	Genetic mosaic
+C0314664	Post-translational genetic protein processing
+C0314665	Post-translational genetic RNA processing
+C0314666	Transcriptional RNA splicing
+C0333692	Haplodiploidy
+C0376437	protein splicing
+C0441748	Autosomal recessive inheritance
+C0443147	Autosomal dominant inheritance
+C0443976	Monoclonal gene rearrangement
+C0443977	Polyclonal gene rearrangement
+C0524550	nucleotide-excision repair
+C0524869	Loss of Heterozygosity
+C0544917	Barr body absent, nuclear sex male
+C0596336	chromosome movement
+C0596456	DNA replication origin
+C0596609	Gene-Environment Interaction
+C0596610	gene interaction
+C0596611	Gene mutation
+C0597099	nucleic acid methylation
+C0597257	pleiotropism
+C0597360	receptor expression
+C0597415	RNA methylation
+C0597600	Transcription Termination
+C0598175	chromosome segregation
+C0598312	DNA replication
+C0598316	DNA Replication Fork
+C0598496	gene silencing
+C0599155	Missense Mutation
+C0599176	7-methylguanosine mRNA capping
+C0599773	Homologous Recombination
+C0600599	Multifactorial inheritance
+C0678919	genetics and heredity
+C0678939	spontaneous mutation
+C0678942	dominant inheritance
+C0678943	recessive inheritance
+C0678945	polygene
+C0678951	gene polymorphism
+C0678952	Selective Breeding
+C0678953	hereditary factors
+C0683142	DNA metabolic process
+C0683143	RNA metabolic process
+C0683225	Cytogenetic Map
+C0683227	dna genetics
+C0683230	DNA amplification
+C0683231	mendelian inheritance
+C0814045	Y-linked inheritance
+C0815328	sex-linked inheritance
+C0872089	transfection/expression vector
+C0872177	gene delivery
+C0887912	Horizontal Gene Transfer
+C0887941	mitochondrion inheritance
+C0917892	Genetic Drift
+C0920533	Transcriptional Repression
+C0949764	RNA 3'-end processing
+C1136026	Oligogenic inheritance
+C1136031	posttranscriptional gene silencing
+C1136375	inheritance patterns
+C1148471	human inbreeding
+C1148552	Polygenic inheritance
+C1148672	nucleic acid binding
+C1148673	DNA binding
+C1148674	AT DNA binding
+C1148675	bent DNA binding
+C1148676	centromeric DNA binding
+C1148677	chromatin binding
+C1148679	damaged DNA binding
+C1148680	deoxyribodipyrimidine photo-lyase activity
+C1148681	DNA N-glycosylase activity
+C1148682	alkylbase DNA N-glycosylase activity
+C1148683	DNA-3-methyladenine glycosylase activity
+C1148684	mismatch base pair DNA N-glycosylase activity
+C1148685	purine-specific mismatch base pair DNA N-glycosylase activity
+C1148686	pyrimidine-specific mismatch base pair DNA N-glycosylase activity
+C1148687	oxidized base lesion DNA N-glycosylase activity
+C1148690	pyrimidine dimer DNA N-glycosylase activity
+C1148691	uracil DNA N-glycosylase activity
+C1148692	single-strand selective uracil DNA N-glycosylase activity
+C1148693	DNA-(apurinic or apyrimidinic site) lyase activity
+C1148694	excinuclease ABC activity
+C1148695	methylated-DNA-[protein]-cysteine S-methyltransferase activity
+C1148696	polynucleotide 3'-phosphatase activity
+C1148698	deoxyribonuclease activity
+C1148700	endodeoxyribonuclease activity
+C1148701	endodeoxyribonuclease activity, producing 5'-phosphomonoesters
+C1148702	deoxyribonuclease I activity
+C1148703	deoxyribonuclease IV (phage-T4-induced) activity
+C1148704	Type I site-specific deoxyribonuclease activity
+C1148705	Type II site-specific deoxyribonuclease activity
+C1148706	Type III site-specific deoxyribonuclease activity
+C1148707	endodeoxyribonuclease activity, producing 3'-phosphomonoesters
+C1148708	crossover junction endodeoxyribonuclease activity
+C1148709	deoxyribonuclease II activity
+C1148712	5'-flap endonuclease activity
+C1148713	restriction endodeoxyribonuclease activity
+C1148714	single-stranded DNA endodeoxyribonuclease activity
+C1148715	site-specific endodeoxyribonuclease activity, specific for altered base
+C1148716	exodeoxyribonuclease activity
+C1148717	exodeoxyribonuclease activity, producing 5'-phosphomonoesters
+C1148718	3'-5'-exodeoxyribonuclease activity
+C1148719	double-stranded DNA 3'-5' exodeoxyribonuclease activity
+C1148720	single-stranded DNA 3'-5' exodeoxyribonuclease activity
+C1148721	double-stranded DNA exodeoxyribonuclease activity
+C1148722	exodeoxyribonuclease I activity
+C1148723	exodeoxyribonuclease III activity
+C1148724	exodeoxyribonuclease V activity
+C1148725	exodeoxyribonuclease VII activity
+C1148726	exodeoxyribonuclease X activity
+C1148728	oligonucleotidase activity
+C1148729	ribonuclease R activity
+C1148730	single-stranded DNA exodeoxyribonuclease activity
+C1148731	single-stranded DNA 5'-3' exodeoxyribonuclease activity
+C1148733	DNA clamp loader activity
+C1148734	DNA end binding
+C1148735	DNA helicase activity
+C1148736	ATP-dependent DNA helicase activity
+C1148738	DNA replication origin binding
+C1148739	DNA secondary structure binding
+C1148741	double-stranded DNA binding
+C1148743	double-stranded telomeric DNA binding
+C1148744	recombinase activity
+C1148745	site-specific recombinase activity
+C1148747	left-handed Z-DNA binding
+C1148748	methyl-CpG binding
+C1148749	P-element binding
+C1148751	random coil DNA binding
+C1148753	satellite DNA binding
+C1148754	single-stranded DNA binding
+C1148755	telomeric DNA binding
+C1148756	telomerase activity
+C1148757	telomeric template RNA reverse transcriptase activity
+C1148758	template for synthesis of G-rich strand of telomere DNA activity
+C1148764	RNA polymerase II transcription cofactor activity
+C1148772	9-cis retinoic acid receptor activity
+C1148791	sigma factor activity
+C1148793	sigma factor antagonist activity
+C1148804	triplex DNA binding
+C1148805	unmethylated CpG binding
+C1148806	nuclease activity
+C1148807	endonuclease activity
+C1148809	endoribonuclease activity
+C1148810	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters
+C1148811	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+C1148812	endoribonuclease activity, producing 5'-phosphomonoesters
+C1148813	RNA-DNA hybrid ribonuclease activity
+C1148815	ribonuclease III activity
+C1148816	bidentate ribonuclease III activity
+C1148817	ribonuclease P activity
+C1148818	RNA lariat debranching enzyme activity
+C1148819	endoribonuclease activity, producing 3'-phosphomonoesters
+C1148820	Enterobacter ribonuclease activity
+C1148821	ribonuclease A activity
+C1148822	tRNA-intron endonuclease activity
+C1148824	exonuclease activity
+C1148825	3'-5' exonuclease activity
+C1148826	3'-5'-exoribonuclease activity
+C1148827	exoribonuclease II activity
+C1148828	5'-3' exonuclease activity
+C1148829	5'-3' exoribonuclease activity
+C1148832	exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters
+C1148833	exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+C1148835	exoribonuclease activity, producing 3'-phosphomonoesters
+C1148836	exoribonuclease activity, producing 5'-phosphomonoesters
+C1148837	exoribonuclease H activity
+C1148838	poly(A)-specific ribonuclease activity
+C1148839	phosphodiesterase I activity
+C1148840	ribonuclease activity
+C1148841	ribonuclease E activity
+C1148842	ribonuclease G activity
+C1148843	ribonuclease MRP activity
+C1148844	ribonuclease T1 activity
+C1148845	tRNA-specific ribonuclease activity
+C1148846	RNA binding
+C1148849	7S RNA binding
+C1148850	AU-rich element binding
+C1148851	double-stranded RNA binding
+C1148852	double-stranded RNA adenosine deaminase activity
+C1148853	mRNA binding
+C1148854	iron-responsive element binding
+C1148855	mRNA 3'-UTR binding
+C1148856	poly(A) binding
+C1148864	poly-pyrimidine tract binding
+C1148865	uridine-rich cytoplasmic polyadenylylation element binding
+C1148866	RNA cap binding
+C1148867	RNA 7-methylguanosine cap binding
+C1148868	RNA cap 4 binding
+C1148869	RNA trimethylguanosine cap binding
+C1148870	RNA helicase activity
+C1148871	ATP-dependent RNA helicase activity
+C1148872	RNA modification guide activity
+C1148873	RNA 2'-O-ribose methylation guide activity
+C1148874	rRNA 2'-O-ribose methylation guide activity
+C1148875	snRNA 2'-O-ribose methylation guide activity
+C1148876	tRNA 2'-O-ribose methylation guide activity
+C1148877	RNA pseudouridylation guide activity
+C1148878	rRNA pseudouridylation guide activity
+C1148879	snRNA pseudouridylation guide activity
+C1148880	tRNA pseudouridylation guide activity
+C1148881	rRNA modification guide activity
+C1148882	snRNA modification guide activity
+C1148883	tRNA modification guide activity
+C1148884	rRNA binding
+C1148885	rRNA primary transcript binding
+C1148886	single-stranded RNA binding
+C1148887	poly(C) RNA binding
+C1148888	poly(U) RNA binding
+C1148889	snoRNA binding
+C1148890	snRNA binding
+C1148891	U1 snRNA binding
+C1148892	U11 snRNA binding
+C1148893	U12 snRNA binding
+C1148894	U2 snRNA binding
+C1148895	U4 snRNA binding
+C1148896	U4atac snRNA binding
+C1148897	U5 snRNA binding
+C1148898	U6 snRNA binding
+C1148899	U6 snRNA 3'-end binding
+C1148900	U6atac snRNA binding
+C1148901	tRNA binding
+C1148902	translation factor activity, RNA binding
+C1148907	translation activator activity
+C1148908	translation elongation factor activity
+C1148909	translation initiation factor activity
+C1148910	translation repressor activity, nucleic acid binding
+C1148911	translation termination factor activity
+C1148912	translation release factor activity
+C1148914	translation release factor activity, codon nonspecific
+C1148915	translation release factor activity, codon specific
+C1148924	2'-5'-oligoadenylate synthetase activity
+C1148927	ATP-dependent helicase activity
+C1148928	single-stranded DNA-dependent ATP-dependent DNA helicase activity
+C1148930	RNA-dependent ATPase activity
+C1149004	DNA translocase activity
+C1149297	eukaryotic initiation factor 4E binding
+C1149363	snoRNP binding
+C1149367	transcription factor binding
+C1149370	transcription cofactor activity
+C1149371	transcription coactivator activity
+C1149372	cAMP response element binding protein binding
+C1149373	ligand-dependent nuclear receptor transcription coactivator activity
+C1149375	transcription corepressor activity
+C1149627	helicase activity
+C1149630	NAD-dependent histone deacetylase activity
+C1149631	NAD-independent histone deacetylase activity
+C1149734	tRNA-specific adenosine deaminase activity
+C1150028	RNA glycosylase activity
+C1150029	rRNA N-glycosylase activity
+C1150297	prophage integrase activity
+C1150386	DNA topoisomerase activity
+C1150388	DNA topoisomerase type I activity
+C1150567	eukaryotic translation initiation factor 2alpha kinase activity
+C1150729	alanine-tRNA ligase activity
+C1150731	arginine-tRNA ligase activity
+C1150732	asparagine-tRNA ligase activity
+C1150733	aspartate-tRNA ligase activity
+C1150734	cysteine-tRNA ligase activity
+C1150735	glutamate-tRNA ligase activity
+C1150736	glutamine-tRNA ligase activity
+C1150737	glycine-tRNA ligase activity
+C1150738	histidine-tRNA ligase activity
+C1150739	isoleucine-tRNA ligase activity
+C1150740	leucine-tRNA ligase activity
+C1150741	lysine-tRNA ligase activity
+C1150742	methionine-tRNA ligase activity
+C1150743	phenylalanine-tRNA ligase activity
+C1150744	proline-tRNA ligase activity
+C1150745	serine-tRNA ligase activity
+C1150746	threonine-tRNA ligase activity
+C1150747	tryptophan-tRNA ligase activity
+C1150748	tyrosine-tRNA ligase activity
+C1150749	valine-tRNA ligase activity
+C1150775	DNA ligase activity
+C1150776	DNA ligase (ATP) activity
+C1150777	DNA ligase (NAD+) activity
+C1150778	RNA ligase activity
+C1150780	RNA ligase (ATP) activity
+C1150852	DNA photolyase activity
+C1150853	DNA (6-4) photolyase activity
+C1151662	glutamyl-tRNA reductase activity
+C1151855	tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity
+C1151914	leucyltransferase activity
+C1151944	ribosomal-protein-alanine N-acetyltransferase activity
+C1152067	tRNA-uridine aminocarboxypropyltransferase activity
+C1152154	tRNA-queuosine beta-mannosyltransferase activity
+C1152198	queuine tRNA-ribosyltransferase activity
+C1152265	DNA (cytosine-5-)-methyltransferase activity
+C1152266	DNA-methyltransferase activity
+C1152268	site-specific DNA-methyltransferase (cytosine-N4-specific) activity
+C1152276	methionyl-tRNA formyltransferase activity
+C1152312	mRNA (nucleoside-2'-O-)-methyltransferase activity
+C1152324	mRNA methyltransferase activity
+C1152326	rRNA methyltransferase activity
+C1152327	rRNA (adenine) methyltransferase activity
+C1152328	rRNA (adenine-N6,N6-)-dimethyltransferase activity
+C1152329	rRNA (adenine-N6-)-methyltransferase activity
+C1152332	rRNA (guanine) methyltransferase activity
+C1152333	rRNA (guanine-N1-)-methyltransferase activity
+C1152334	rRNA (guanine-N2-)-methyltransferase activity
+C1152335	rRNA (uridine) methyltransferase activity
+C1152337	tRNA methyltransferase activity
+C1152338	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase activity
+C1152339	tRNA (adenine) methyltransferase activity
+C1152340	tRNA (adenine-N1-)-methyltransferase activity
+C1152341	tRNA (adenine-N6-)-methyltransferase activity
+C1152342	tRNA (cytosine) methyltransferase activity
+C1152343	tRNA (cytosine-5-)-methyltransferase activity
+C1152344	tRNA (guanine) methyltransferase activity
+C1152346	tRNA (guanine-N7-)-methyltransferase activity
+C1152370	DNA nucleotidylexotransferase activity
+C1152371	DNA-directed DNA polymerase activity
+C1152375	DNA polymerase processivity factor activity
+C1152388	DNA-directed RNA polymerase activity
+C1152389	DNA primase activity
+C1152394	FMN adenylyltransferase activity
+C1152406	polynucleotide adenylyltransferase activity
+C1152407	polyribonucleotide nucleotidyltransferase activity
+C1152408	RNA guanylyltransferase activity
+C1152409	mRNA guanylyltransferase activity
+C1152410	tRNA guanylyltransferase activity
+C1152411	RNA-directed DNA polymerase activity
+C1152412	RNA-directed RNA polymerase activity
+C1152414	sulfate adenylyltransferase activity
+C1152417	tRNA adenylyltransferase activity
+C1152418	tRNA cytidylyltransferase activity
+C1152419	tRNA nucleotidyltransferase activity
+C1152425	[protein-PII] uridylyltransferase activity
+C1152484	L-seryl-tRNASec selenium transferase activity
+C1152516	tRNA 2'-phosphotransferase activity
+C1152519	tRNA dihydrouridine synthase activity
+C1152559	DNA topoisomerase (ATP-hydrolyzing) inhibitor activity
+C1152916	structural constituent of chromatin
+C1152945	translation regulator activity
+C1152946	translation factor activity, non-nucleic acid binding
+C1152947	translation repressor activity, non-nucleic acid binding
+C1152948	translation repressor activity
+C1153653	deoxynucleotide transmembrane transporter activity
+C1153703	triplet codon-amino acid adaptor activity
+C1154508	suppression by virus of expression of host genes with introns
+C1154509	modification by virus of host mRNA processing
+C1154511	suppression by virus of host mRNA splicing
+C1154578	DNA protection
+C1154594	regulation of transcription by pheromones
+C1154595	negative regulation of transcription by pheromones
+C1154596	negative regulation of transcription from RNA polymerase II promoter by pheromones
+C1154597	positive regulation of transcription by pheromones
+C1154598	positive regulation of transcription from RNA polymerase II promoter by pheromones
+C1154600	regulation of transcription from RNA polymerase II promoter by pheromones
+C1155299	telomere maintenance
+C1155300	telomere maintenance via telomerase
+C1155302	telomere capping
+C1155647	DNA-dependent DNA replication
+C1155648	DNA endoreduplication
+C1155649	DNA ligation
+C1155650	DNA replication initiation
+C1155652	DNA replication termination
+C1155654	DNA strand elongation involved in DNA replication
+C1155655	lagging strand elongation
+C1155656	leading strand elongation
+C1155657	DNA topological change
+C1155660	DNA replication proofreading
+C1155661	mismatch repair
+C1155665	regulation of DNA replication
+C1155666	regulation of DNA-dependent DNA replication initiation
+C1155667	negative regulation of DNA replication
+C1155669	premeiotic DNA replication
+C1155670	RNA-dependent DNA replication
+C1155671	plasmid maintenance
+C1155753	regulation of transcription during mitosis
+C1155754	negative regulation of transcription during mitosis
+C1155755	negative regulation of transcription from RNA polymerase I promoter during mitosis
+C1155756	negative regulation of transcription from RNA polymerase II promoter during mitosis
+C1155757	negative regulation of transcription from RNA polymerase III promoter during mitosis
+C1155758	positive regulation of transcription during mitosis
+C1155759	positive regulation of transcription from RNA polymerase I promoter during mitosis
+C1155760	positive regulation of transcription from RNA polymerase II promoter during mitosis
+C1155761	positive regulation of transcription from RNA polymerase III promoter during mitosis
+C1155762	regulation of transcription from RNA polymerase I promoter, mitotic
+C1155763	regulation of transcription from RNA polymerase II promoter, mitotic
+C1155764	regulation of transcription from RNA polymerase III promoter, mitotic
+C1155770	positive regulation of centriole replication
+C1155793	meiotic DNA double-strand break formation
+C1155794	meiotic DNA double-strand break processing
+C1155795	meiotic DNA recombinase assembly
+C1155799	meiotic DNA repair synthesis
+C1155800	meiotic joint molecule formation
+C1155801	meiotic mismatch repair
+C1155803	resolution of meiotic recombination intermediates
+C1155823	meiotic gene conversion
+C1155824	meiotic heteroduplex formation
+C1155825	meiotic strand displacement
+C1156152	rRNA processing
+C1156187	chromatin organization
+C1156188	chromatin assembly or disassembly
+C1156189	nucleosome assembly
+C1156191	DNA replication-independent nucleosome assembly
+C1156197	chromatin modification
+C1156198	covalent chromatin modification
+C1156210	chromatin remodeling
+C1156211	chromatin insulator sequence binding
+C1156212	chromatin silencing
+C1156213	chromatin silencing at rDNA
+C1157408	alanyl-tRNA aminoacylation
+C1157410	arginyl-tRNA aminoacylation
+C1157411	asparaginyl-tRNA aminoacylation
+C1157412	aspartyl-tRNA aminoacylation
+C1157413	cysteinyl-tRNA aminoacylation
+C1157414	glutaminyl-tRNA aminoacylation
+C1157415	glutamyl-tRNA aminoacylation
+C1157416	glycyl-tRNA aminoacylation
+C1157417	histidyl-tRNA aminoacylation
+C1157418	isoleucyl-tRNA aminoacylation
+C1157419	leucyl-tRNA aminoacylation
+C1157420	lysyl-tRNA aminoacylation
+C1157421	methionyl-tRNA aminoacylation
+C1157422	phenylalanyl-tRNA aminoacylation
+C1157423	prolyl-tRNA aminoacylation
+C1157424	seryl-tRNA aminoacylation
+C1157425	threonyl-tRNA aminoacylation
+C1157426	tryptophanyl-tRNA aminoacylation
+C1157427	tyrosyl-tRNA aminoacylation
+C1157428	valyl-tRNA aminoacylation
+C1157429	charged-tRNA amino acid modification
+C1157430	conversion of lysyl-tRNA to pyrrolysyl-tRNA
+C1157432	conversion of seryl-tRNAsec to selenocys-tRNAsec
+C1157520	negative regulation of translation
+C1157521	positive regulation of translation
+C1157525	negative regulation of oskar mRNA translation
+C1157526	negative regulation of translational elongation
+C1157527	negative regulation of translational fidelity
+C1157530	negative regulation of translational termination
+C1157533	positive regulation of oskar mRNA translation
+C1157536	positive regulation of translational initiation
+C1157537	positive regulation of translational initiation by iron
+C1157538	positive regulation of translational termination
+C1157546	translational attenuation
+C1157549	selenocysteine incorporation
+C1157562	translational elongation
+C1157565	formation of translation initiation ternary complex
+C1157566	formation of translation preinitiation complex
+C1157567	translational termination
+C1157894	DNA catabolic process
+C1157895	DNA catabolic process, endonucleolytic
+C1157896	gene conversion at mating-type locus, DNA double-strand break formation
+C1157897	DNA catabolic process, exonucleolytic
+C1157898	DNA double-strand break processing
+C1158008	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+C1158009	deadenylation-dependent decapping of nuclear-transcribed mRNA
+C1158010	nuclear-transcribed mRNA catabolic process, exonucleolytic
+C1158012	nuclear-transcribed mRNA catabolic process, endonucleolytic cleavage-dependent decay
+C1158013	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+C1158014	RNA fragment catabolic process
+C1158016	rRNA catabolic process
+C1158017	snoRNA catabolic process
+C1158018	snRNA catabolic process
+C1158019	tRNA catabolic process
+C1158478	DNA integration
+C1158479	DNA modification
+C1158480	depurination
+C1158481	depyrimidination
+C1158482	DNA ADP-ribosylation
+C1158483	DNA alkylation
+C1158484	DNA deamination
+C1158485	DNA restriction-modification system
+C1158486	DNA packaging
+C1158489	intron homing
+C1158490	homing of group II introns
+C1158491	movement of group I intron
+C1158501	mitotic recombination
+C1158502	gene conversion at mating-type locus
+C1158503	DNA recombinase assembly
+C1158504	gene conversion at mating-type locus, DNA repair synthesis
+C1158505	heteroduplex formation
+C1158506	removal of nonhomologous ends
+C1158508	recombination within rDNA repeats
+C1158512	recombinational repair
+C1158513	double-strand break repair via homologous recombination
+C1158514	double-strand break repair via break-induced replication
+C1158517	strand displacement
+C1158521	plasmid recombination
+C1158523	negative regulation of DNA recombination
+C1158524	positive regulation of DNA recombination
+C1158525	RNA-mediated DNA recombination
+C1158526	somatic cell DNA recombination
+C1158528	somatic hypermutation of immunoglobulin genes
+C1158530	base-excision repair
+C1158531	base-excision repair, AP site formation
+C1158532	base-excision repair, base-free sugar-phosphate removal
+C1158533	base-excision repair, DNA ligation
+C1158534	base-excision repair, gap-filling
+C1158535	translesion synthesis
+C1158536	DNA dealkylation involved in DNA repair
+C1158537	double-strand break repair
+C1158539	double-strand break repair via single-strand annealing
+C1158540	DNA strand renaturation
+C1158541	double-strand break repair via single-strand annealing, removal of nonhomologous ends
+C1158546	non-recombinational repair
+C1158547	nucleotide-excision repair, DNA damage recognition
+C1158548	transcription-coupled nucleotide-excision repair, DNA damage recognition
+C1158549	nucleotide-excision repair, DNA damage removal
+C1158550	nucleotide-excision repair, DNA duplex unwinding
+C1158551	nucleotide-excision repair, DNA gap filling
+C1158552	nucleotide-excision repair, DNA incision, 3'-to lesion
+C1158553	nucleotide-excision repair, DNA incision, 5'-to lesion
+C1158554	nucleotide-excision repair, preincision complex assembly
+C1158555	nucleotide-excision repair, preincision complex stabilization
+C1158556	pyrimidine dimer repair by nucleotide-excision repair
+C1158557	transcription-coupled nucleotide-excision repair
+C1158558	postreplication repair
+C1158559	pyrimidine dimer repair
+C1158560	photoreactive repair
+C1158563	positive regulation of DNA repair
+C1158564	single strand break repair
+C1158565	viral DNA repair
+C1158566	recruitment of helicase-primase complex to DNA lesions
+C1158567	production of siRNA involved in RNA interference
+C1158568	targeting of mRNA for destruction involved in RNA interference
+C1158708	negative regulation of bicoid mRNA localization
+C1158709	positive regulation of bicoid mRNA localization
+C1158712	negative regulation of pole plasm oskar mRNA localization
+C1158723	mRNA metabolic process
+C1158724	histone mRNA metabolic process
+C1158725	histone mRNA 3'-end processing
+C1158726	mRNA cleavage
+C1158727	Polyadenylation of mRNA
+C1158728	RNA processing
+C1158730	mRNA modification
+C1158737	mRNA splice site selection
+C1158739	spliceosomal tri-snRNP complex assembly
+C1158744	RNA modification
+C1158745	pseudouridine synthesis
+C1158746	base conversion or substitution editing
+C1158747	adenosine to inosine editing
+C1158748	cytidine to uridine editing
+C1158749	uridine to cytidine editing
+C1158755	tRNA methylation
+C1158756	rRNA modification
+C1158757	snRNA modification
+C1158758	tRNA modification
+C1158762	tRNA processing
+C1158763	tRNA 3'-terminal CCA addition
+C1158764	tRNA 5'-leader removal
+C1158765	RNA repair
+C1158766	rRNA metabolic process
+C1158767	snoRNA metabolic process
+C1158768	snRNA metabolic process
+C1158769	tRNA metabolic process
+C1158770	Transcriptional Regulation
+C1158772	negative regulation of transcription, DNA-templated
+C1158773	carbon catabolite repression of transcription
+C1158774	negative regulation of transcription by glucose
+C1158775	negative regulation of transcription from RNA polymerase I promoter
+C1158776	negative regulation of transcription from RNA polymerase II promoter
+C1158779	negative regulation of transcription from RNA polymerase III promoter
+C1158782	positive regulation of transcription, DNA-templated
+C1158783	carbon catabolite activation of transcription
+C1158784	positive regulation of transcription by glucose
+C1158785	positive regulation of transcription from RNA polymerase I promoter
+C1158786	positive regulation of transcription from RNA polymerase II promoter
+C1158789	positive regulation of transcription from RNA polymerase III promoter
+C1158791	regulation of transcription, DNA-templated
+C1158792	carbon catabolite regulation of transcription
+C1158793	regulation of transcription by glucose
+C1158794	regulation of transcription from RNA polymerase I promoter
+C1158795	regulation of transcription from RNA polymerase II promoter
+C1158798	regulation of transcription from RNA polymerase III promoter
+C1158799	regulation of mating-type specific transcription, DNA-templated
+C1158801	transcription, DNA-templated
+C1158802	antisense RNA transcription
+C1158804	snoRNA transcription
+C1158805	transcription from mitochondrial promoter
+C1158806	transcription elongation from mitochondrial promoter
+C1158807	termination of mitochondrial transcription
+C1158808	transcription initiation from mitochondrial promoter
+C1158809	transcription from RNA polymerase I promoter
+C1158810	transcription elongation from RNA polymerase I promoter
+C1158811	rRNA transcription
+C1158812	transcription initiation from RNA polymerase I promoter
+C1158813	termination of RNA polymerase I transcription
+C1158814	transcription from RNA polymerase II promoter
+C1158815	phosphorylation of RNA polymerase II C-terminal domain
+C1158816	mRNA transcription
+C1158817	viral transcription
+C1158818	middle viral transcription
+C1158820	late viral transcription
+C1158821	transcription elongation from RNA polymerase II promoter
+C1158822	snRNA transcription
+C1158823	transcription initiation from RNA polymerase II promoter
+C1158824	termination of RNA polymerase II transcription
+C1158825	transcription from RNA polymerase III promoter
+C1158826	transcription elongation from RNA polymerase III promoter
+C1158827	transcription initiation from RNA polymerase III promoter
+C1158828	termination of RNA polymerase III transcription
+C1158829	tRNA transcription
+C1158830	Transcription Initiation
+C1159251	protein-DNA covalent cross-linking via peptidyl-tyrosine
+C1159252	protein-DNA covalent cross-linking via the 3'-end to peptidyl-tyrosine
+C1160148	establishment of posterior gap gene boundaries
+C1160151	establishment of terminal gap gene boundary
+C1160153	positive regulation of central gap gene transcription
+C1160154	establishment of central gap gene boundaries
+C1160179	genetic transfer
+C1160455	dosage compensation by hyperactivation of X chromosome
+C1160457	dosage compensation by hypoactivation of X chromosome
+C1160461	negative regulation of gene expression, epigenetic
+C1160463	positive regulation of gene expression, epigenetic
+C1160704	negative regulation of viral genome replication
+C1160705	positive regulation of viral genome replication
+C1160706	single stranded viral RNA replication via double stranded DNA intermediate
+C1160708	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate
+C1160709	positive regulation of single stranded viral RNA replication via double stranded DNA intermediate
+C1171362	protein expression
+C1176301	RNA capping
+C1257756	RNA catabolic process
+C1257759	mRNA catabolic process
+C1257780	DNA Replication Timing
+C1257794	chromatin disassembly
+C1315049	gene translocation
+C1317175	Clonal CCND1 Gene Rearrangement
+C1323280	single-stranded telomeric DNA binding
+C1323281	5S rRNA binding
+C1323282	5S rRNA primary transcript binding
+C1323283	BRE binding
+C1323284	mRNA 5'-UTR binding
+C1323285	pre-mRNA 3'-splice site binding
+C1323286	pre-mRNA 5'-splice site binding
+C1323287	pre-mRNA branch point binding
+C1323602	flap endonuclease activity
+C1323603	3'-flap endonuclease activity
+C1324623	first spliceosomal transesterification activity
+C1324626	second spliceosomal transesterification activity
+C1325006	5,10-methylenetetrahydrofolate-dependent tRNA (m5U54) methyltransferase activity
+C1325029	mRNA (N6-adenosine)-methyltransferase activity
+C1325030	rRNA (adenosine-2'-O-)-methyltransferase activity
+C1325032	tRNA (m5U54) methyltransferase activity
+C1326116	sperm chromatin condensation
+C1326131	isotype switching to IgA isotypes
+C1326132	regulation of isotype switching to IgA isotypes
+C1326134	positive regulation of isotype switching to IgA isotypes
+C1326135	isotype switching to IgD isotypes
+C1326136	regulation of isotype switching to IgD isotypes
+C1326137	negative regulation of isotype switching to IgD isotypes
+C1326138	positive regulation of isotype switching to IgD isotypes
+C1326139	isotype switching to IgE isotypes
+C1326140	regulation of isotype switching to IgE isotypes
+C1326142	positive regulation of isotype switching to IgE isotypes
+C1326143	isotype switching to IgG isotypes
+C1326145	negative regulation of isotype switching to IgG isotypes
+C1326146	positive regulation of isotype switching to IgG isotypes
+C1326192	replication of extrachromosomal circular DNA involved in replicative cell aging
+C1326293	nucleosome mobilization
+C1326294	regulation of histone acetylation
+C1326295	negative regulation of histone acetylation
+C1326296	positive regulation of histone acetylation
+C1326297	ATP-dependent chromatin remodeling
+C1326298	chromatin silencing at centromere
+C1326299	chromatin-mediated maintenance of transcription
+C1326303	polytene chromosome puffing
+C1326306	maintenance of rDNA
+C1326315	replication fork arrest
+C1326316	mitochondrial DNA replication
+C1326317	replication of extrachromosomal circular DNA
+C1326433	regulation of transcription factor import into nucleus
+C1326434	negative regulation of transcription factor import into nucleus
+C1326436	positive regulation of transcription factor import into nucleus
+C1326437	splicing factor protein import into nucleus
+C1326535	DNA methylation involved in embryo development
+C1326749	DNA methylation involved in gamete generation
+C1326750	dosage compensation complex assembly
+C1326753	siRNA loading onto RISC involved in RNA interference
+C1326999	amino acid adenylylation by nonribosomal peptide synthase
+C1327000	tRNA aminoacylation for nonribosomal peptide biosynthetic process
+C1327001	tRNA aminoacylation
+C1327002	tRNA aminoacylation for protein translation
+C1327153	formation of extrachromosomal circular DNA
+C1327212	long-term maintenance of gene activation
+C1327239	antisense RNA metabolic process
+C1327242	alternative mRNA splicing, via spliceosome
+C1327243	intergenic mRNA trans splicing
+C1327244	regulation of alternative mRNA splicing, via spliceosome
+C1327260	mRNA trans splicing, SL addition
+C1327261	formation of quadruple SL/U4/U5/U6 snRNP
+C1327262	trans assembly of SL-containing precatalytic spliceosome
+C1327274	spliceosomal conformational changes to generate catalytic conformation
+C1327275	generation of catalytic spliceosome for first transesterification step
+C1327276	generation of catalytic spliceosome for second transesterification step
+C1327277	spliceosome conformational change to release U4 (or U4atac) and U1 (or U11)
+C1327279	cis assembly of pre-catalytic spliceosome
+C1327280	mRNA 3'-splice site recognition
+C1327281	mRNA 5'-splice site recognition
+C1327282	mRNA branch site recognition
+C1327284	regulation of mRNA processing
+C1327285	negative regulation of mRNA processing
+C1327286	positive regulation of mRNA processing
+C1327287	mRNA stabilization
+C1327288	RNA destabilization
+C1327289	RNA splicing, via endonucleolytic cleavage and ligation
+C1327290	RNA exon ligation
+C1327291	tRNA-type intron splice site recognition and cleavage
+C1327292	RNA splicing, via transesterification reactions
+C1327293	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+C1327294	Group II intron splicing
+C1327295	Group III intron splicing
+C1327296	RNA splicing, via transesterification reactions with guanosine as nucleophile
+C1327297	Group I intron splicing
+C1327298	tRNA 3'-end processing
+C1327299	tRNA 3'-trailer cleavage
+C1327300	tRNA end turnover
+C1327302	positive regulation of viral transcription
+C1327303	mRNA transcription from RNA polymerase II promoter
+C1327304	5S class rRNA transcription from RNA polymerase III type 1 promoter
+C1327305	rRNA transcription from mitochondrial promoter
+C1327306	rRNA transcription from plastid promoter
+C1327307	transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+C1327308	snRNA transcription from RNA polymerase II promoter
+C1327309	snRNA transcription from RNA polymerase III promoter
+C1327310	transcription from plastid promoter
+C1327313	tRNA transcription from RNA polymerase III promoter
+C1327534	DNA damage response, signal transduction resulting in transcription
+C1328949	RNA replication
+C1371458	DNA Replication Alteration
+C1371459	DNA Integrity Alteration
+C1371859	Decreased RNA Integrity
+C1371860	Decreased RNA Replication
+C1371876	Decreased Reverse Transcription to DNA
+C1372274	Increased DNA Integrity
+C1372275	Increased DNA Replication
+C1372542	Increased RNA Integrity
+C1372543	Increased RNA Replication
+C1372559	Increased Reverse Transcription to DNA
+C1372746	Mitosis Alteration
+C1372762	Nucleic Acid Replication Alteration
+C1372763	Nucleic Acid Transcription Alteration
+C1372806	Post Translation Protein Modification Alteration
+C1372852	RNA Integrity Alteration
+C1372853	RNA Replication Alteration
+C1372871	Reverse Transcription to DNA Alteration
+C1372924	Transcription to RNA Alteration
+C1372925	Translation Alteration
+C1456459	chromatin assembly
+C1511066	Base Pair Miscoding
+C1511112	Beta Radiation Effect
+C1511658	DNA-Protein Interaction
+C1511669	DNA Groove Binding
+C1511672	DNA Intercalation
+C1511673	DNA Interstrand Cross-Link Repair
+C1511676	DNA Maintenance Process
+C1511677	DNA Major Groove Binding
+C1511679	DNA Methylation Inhibition
+C1511683	DNA Minor Groove Binding
+C1511688	DNA Repair Inhibition
+C1511691	DNA Replication Induction
+C1511692	DNA Replication Inhibition
+C1511694	DNA Sequence Alteration Process
+C1511695	DNA Sequence Rearrangement
+C1511700	DNA Synthesis Induction
+C1511701	DNA Synthesis Inhibition
+C1511702	DNA Synthesis Rescue
+C1511703	DNA Topology Regulation
+C1511760	Deletion Mutation
+C1512167	Ectopic Expression
+C1512315	Hop Pathway in Cardiac Development
+C1512554	Hypermethylation
+C1512581	The information-processing pathway at the IFN-beta enhancer
+C1512666	Immunoglobulin Gene Rearrangement
+C1512667	Immunoglobulin Class Switch Recombination
+C1512710	Induced Mutation
+C1512775	Inhibition of Huntington's disease neurodegeneration by histone deacetylase inhibitors
+C1512796	Insertion Mutation
+C1513089	Melanocyte Development and Pigmentation Pathway
+C1513340	Role of Mitochondria in Apoptotic Signaling
+C1513776	Mutate
+C1513779	Mutation Fixation
+C1513838	NF-kB Signaling Pathway
+C1514247	Post-Replication Modification
+C1514248	Post-Transcriptional Regulation
+C1514559	Protein Overexpression
+C1514661	RNA-Protein Interaction
+C1514664	RNA folding
+C1514665	Antisense Pathway
+C1514666	RNA Polyadenylation Inhibition
+C1514667	RNA Polyadenylation Regulation
+C1514670	RNA Proof-Reading
+C1514671	RNA Synthesis Induction
+C1514672	RNA Synthesis Inhibition
+C1514673	RNA Transcription Inhibition
+C1514682	Radiation-Induced Gene Expression
+C1514849	Replication-Associated Process
+C1514852	Replication Licensing
+C1514925	transposition, RNA-mediated
+C1514931	Reverse Transcription Induction
+C1514932	Reverse Transcription Inhibition
+C1515122	Role of Tob in T-cell activation
+C1515260	Telomere Length Maintenance
+C1515262	Telomere Recombination
+C1515618	Double Stranded RNA Induced Gene Expression
+C1515669	mRNA Export
+C1515670	mRNA Expression
+C1515671	mRNA Surveillance
+C1515691	rRNA Biosynthesis Pathway
+C1515697	snRNP Biogenesis
+C1515700	tRNA Biosynthesis Pathway
+C1515818	uCalpain and friends in Cell spread
+C1516233	Role of BRCA1, BRCA2 and ATR in Cancer Susceptibility
+C1516808	Elongation by Telomerase
+C1516890	Induced Gene Mutation
+C1516924	Epigenetic Process
+C1517486	Gene Expression Process
+C1517487	Control of Gene Expression by Vitamin D Receptor
+C1517508	Genetic Information Processing Pathway
+C1518103	MAPKinase Signaling Pathway
+C1518143	Downregulated of MTA-3 in ER-negative Breast Tumors
+C1518387	nuclear-transcribed mRNA catabolic process, non-stop decay
+C1518406	double-strand break repair via nonhomologous end joining
+C1518445	Nucleic Acid Cleavage
+C1518460	Nucleotide Excision Repair Inhibition
+C1518464	Nucleotide Synthesis Inhibition
+C1518805	Mechanism of Gene Regulation by Peroxisome Proliferators via PPARa(alpha)
+C1519323	Silent Mutation
+C1519478	Splice-Site Mutation
+C1519516	Tissue-Specific Gene Expression
+C1519517	Tissue-Specific Splicing
+C1519591	Transcription Elongation
+C1519592	Transcription Process
+C1519613	translational initiation
+C1519614	translation
+C1519616	Translational Activation
+C1519619	Translational Repression
+C1519877	V(D)J recombination
+C1520006	Viral Reverse Transcription
+C1522742	sister chromatid segregation
+C1522762	DNA replication, synthesis of RNA primer
+C1522791	non-photoreactive DNA repair
+C1522794	maintenance of DNA methylation
+C1523057	nucleic acid transmembrane transporter activity
+C1523058	RNA transmembrane transporter activity
+C1523059	tRNA transmembrane transporter activity
+C1523062	regulation of transcription during meiosis
+C1523063	negative regulation of transcription during meiosis
+C1523064	positive regulation of transcription during meiosis
+C1523077	regulation of DNA metabolic process
+C1523078	negative regulation of DNA metabolic process
+C1523079	positive regulation of DNA metabolic process
+C1523084	NF-kappaB binding
+C1523125	regulation of DNA binding
+C1523129	regulation of DNA ligation
+C1523130	positive regulation of DNA ligation
+C1523131	negative regulation of DNA ligation
+C1523233	RNA virus induced gene silencing
+C1523234	DNA virus induced gene silencing
+C1523251	maintenance of RNA location
+C1523266	regulation of RNA metabolic process
+C1523267	negative regulation of RNA metabolic process
+C1523268	positive regulation of RNA metabolic process
+C1523290	chromosome organization
+C1523393	non-intein-mediated protein splicing
+C1523438	Tat protein binding
+C1523463	mismatched DNA binding
+C1523523	gene silencing by RNA
+C1523524	chromatin silencing by small RNA
+C1523526	dsRNA fragmentation
+C1523528	primary miRNA processing
+C1523529	pre-miRNA processing
+C1523530	chromatin remodeling at centromere
+C1523545	intronic snoRNA processing
+C1523560	nuclear-transcribed mRNA catabolic process, deadenylation-independent decay
+C1523561	deadenylation-independent decapping of nuclear-transcribed mRNA
+C1523643	posttranscriptional gene silencing by RNA
+C1523644	gene silencing by miRNA
+C1523645	production of miRNAs involved in gene silencing by miRNA
+C1523646	siRNA binding
+C1523647	miRNA binding
+C1523727	mRNA cleavage involved in gene silencing by miRNA
+C1523783	DNA replication, removal of RNA primer
+C1523784	3'-5' DNA helicase activity
+C1523785	5'-3' DNA helicase activity
+C1523786	ATP-dependent 3'-5' DNA helicase activity
+C1523787	ATP-dependent 5'-3' DNA helicase activity
+C1523788	single-stranded DNA-dependent ATPase activity
+C1523790	snoRNA processing
+C1523791	snoRNA 3'-end cleavage
+C1523802	chromatin remodeling in response to cation stress
+C1523885	telomere maintenance in response to DNA damage
+C1563774	Cytoplasmic inheritance
+C1621259	rDNA binding
+C1621403	snoRNA 3'-end processing
+C1621479	positive regulation of mRNA cleavage
+C1621480	negative regulation of mRNA 3'-end processing
+C1621486	negative regulation of mRNA cleavage
+C1621517	wybutosine biosynthetic process
+C1621524	heterochromatin assembly
+C1621533	telomeric loop formation
+C1621615	telomeric 3' overhang formation
+C1621617	protection from non-homologous end joining at telomere
+C1621671	5'-3' exodeoxyribonuclease activity
+C1621788	negative regulation of DNA binding
+C1622030	gene conversion at mating-type locus, DNA double-strand break processing
+C1622060	polycistronic mRNA processing
+C1622091	transcription antitermination
+C1622107	pericentric heterochromatin assembly
+C1622368	spliceosomal complex disassembly
+C1622530	snRNA pseudouridine synthesis
+C1622613	positive regulation of mRNA 3'-end processing
+C1622642	mitotic DNA replication checkpoint
+C1622662	rDNA spacer replication fork barrier binding
+C1623057	mRNA 3'-end processing
+C1623058	rRNA 3'-end processing
+C1623076	rRNA methylation
+C1623116	replication fork processing
+C1623141	regulation of mRNA cleavage
+C1623143	chloroplast RNA processing
+C1623158	chromatin DNA binding
+C1623159	nucleosome binding
+C1623161	nucleosomal DNA binding
+C1623176	regulation of DNA-templated transcription, termination
+C1623179	transcriptional attenuation
+C1623188	telomeric heterochromatin assembly
+C1623415	RNA biosynthetic process
+C1623476	regulation of mRNA stability
+C1623485	positive regulation of DNA damage response, signal transduction by p53 class mediator
+C1623505	MRF binding
+C1623507	regulation of RNA splicing
+C1623519	structure-specific DNA binding
+C1624022	histone exchange
+C1624027	RNA stabilization
+C1624040	bHLH transcription factor binding
+C1624043	mitochondrial DNA repair
+C1624045	maintenance of CRISPR repeat elements
+C1624609	sequence-specific DNA binding
+C1625140	regulation of RNA stability
+C1625153	maintenance of DNA repeat elements
+C1654946	regulation of chromatin silencing
+C1656424	replication fork arrest at rDNA repeats
+C1657120	chromosome decondensation
+C1657144	meiotic S phase
+C1657235	NFAT protein binding
+C1658122	metaphase plate congression
+C1658145	chromosome separation
+C1658146	chromosome movement towards spindle pole
+C1659105	tRNA acetylation
+C1659166	DNA (cytosine-5-)-methyltransferase activity, acting on CpG substrates
+C1659167	DNA (cytosine-5-)-methyltransferase activity, acting on CpN substrates
+C1659168	DNA (cytosine-5-)-methyltransferase activity, acting on CpNpG substrates
+C1659170	positive regulation of chromatin silencing
+C1659201	negative regulation of chromatin silencing
+C1659583	chloroplast mRNA processing
+C1660170	kinetochore organization
+C1660269	regulation of mRNA 3'-end processing
+C1660777	rRNA pseudouridine synthesis
+C1662584	tRNA pseudouridine synthesis
+C1707931	Epigenetic Silencing
+C1749515	apoptotic DNA fragmentation
+C1749524	mRNA processing
+C1749527	translational readthrough
+C1749564	positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response
+C1749780	positive regulation of posterior gap gene transcription
+C1749781	positive regulation of terminal gap gene transcription
+C1749800	mating type switching
+C1749846	oxidized purine nucleobase lesion DNA N-glycosylase activity
+C1749862	attachment of spindle microtubules to kinetochore
+C1750296	early viral transcription
+C1751140	chromatin silencing at silent mating-type cassette
+C1751194	DNA damage checkpoint
+C1752410	spermatogenesis, exchange of chromosomal proteins
+C1752419	miRNA loading onto RISC involved in gene silencing by miRNA
+C1752433	strand invasion
+C1752442	error-free postreplication DNA repair
+C1752443	error-prone translesion synthesis
+C1752902	double-strand break repair via synthesis-dependent strand annealing
+C1752995	meiotic strand invasion
+C1753045	regulation of mRNA splicing, via spliceosome
+C1755622	mRNA splicing, via spliceosome
+C1816375	telomere maintenance via recombination
+C1816450	G-quadruplex DNA binding
+C1816462	double-stranded DNA 5'-3' exodeoxyribonuclease activity
+C1816562	regulation of chromosome segregation
+C1816563	positive regulation of chromosome segregation
+C1816564	negative regulation of chromosome segregation
+C1817262	DNA biosynthetic process
+C1817270	transposition, DNA-mediated
+C1817366	tRNA wobble base modification
+C1817367	tRNA wobble uridine modification
+C1817368	tRNA wobble guanine modification
+C1817369	tRNA wobble adenosine to inosine editing
+C1817370	tRNA wobble cytosine modification
+C1817377	gene conversion of immunoglobulin genes
+C1817526	production of ta-siRNAs involved in RNA interference
+C1817725	peripheral B cell receptor editing
+C1817824	somatic recombination of immunoglobulin gene segments
+C1817902	B cell receptor editing
+C1817963	central B cell receptor editing
+C1818452	regulation of transcription from RNA polymerase II promoter involved in forebrain neuron fate commitment
+C1818484	regulation of transcription from RNA polymerase II promoter involved in spinal cord motor neuron fate specification
+C1818485	regulation of transcription from RNA polymerase II promoter involved in ventral spinal cord interneuron specification
+C1818490	regulation of transcription from RNA polymerase II promoter involved in somatic motor neuron fate commitment
+C1818492	regulation of transcription from RNA polymerase II promoter involved in spinal cord association neuron specification
+C1818648	DNA strand elongation
+C1818650	ribonucleoprotein complex assembly
+C1818676	somatic diversification of immune receptors via germline recombination within a single locus
+C1818677	somatic diversification of immune receptors via alternate splicing
+C1818678	alternate splicing of immunoglobulin genes
+C1818679	somatic diversification of immune receptors via gene conversion
+C1818795	somatic recombination of T cell receptor gene segments
+C1818891	mitochondrial DNA metabolic process
+C1818892	mitochondrial DNA catabolic process
+C1818907	negative regulation of translation in response to stress
+C1818918	Type IV site-specific deoxyribonuclease activity
+C1819021	alkylated DNA binding
+C1819022	O6-alkylguanine-DNA binding
+C1819025	DNA insertion or deletion binding
+C1819027	adenine/cytosine mispair binding
+C1819028	guanine/thymine mispair binding
+C1819029	single base insertion or deletion binding
+C1819031	dinucleotide insertion or deletion binding
+C1819033	single adenine insertion binding
+C1819034	single cytosine insertion binding
+C1819035	single guanine insertion binding
+C1819036	single thymine insertion binding
+C1819079	dinucleotide repeat insertion binding
+C1819099	reverse transcription involved in RNA-mediated transposition
+C1819101	telomere maintenance via semi-conservative replication
+C1819107	regulation of telomere maintenance
+C1819108	negative regulation of telomere maintenance
+C1819109	positive regulation of telomere maintenance
+C1819110	regulation of telomere maintenance via recombination
+C1819111	negative regulation of telomere maintenance via recombination
+C1819112	positive regulation of telomere maintenance via recombination
+C1819113	regulation of telomere maintenance via telomerase
+C1819114	negative regulation of telomere maintenance via telomerase
+C1819115	positive regulation of telomere maintenance via telomerase
+C1819116	regulation of telomere maintenance via semi-conservative replication
+C1819117	negative regulation of telomere maintenance via semi-conservative replication
+C1819118	positive regulation of telomere maintenance via semi-conservative replication
+C1819202	double-stranded RNA-specific ribonuclease activity
+C1819203	negative regulation of DNA-dependent DNA replication initiation
+C1819204	positive regulation of DNA-dependent DNA replication initiation
+C1819269	oxidized DNA binding
+C1819270	oxidized purine DNA binding
+C1819271	oxidized pyrimidine DNA binding
+C1819306	DNA geometric change
+C1819335	purine-rich negative regulatory element binding
+C1819337	regulation of mismatch repair
+C1819338	negative regulation of mismatch repair
+C1819339	positive regulation of mismatch repair
+C1819363	DNA hairpin binding
+C1819424	DNA duplex unwinding
+C1819598	DNA methylation on adenine
+C1819600	DNA methylation on cytosine
+C1819610	regulation of DNA-templated transcription, elongation
+C1819612	negative regulation of DNA-templated transcription, elongation
+C1819615	positive regulation of DNA-templated transcription, elongation
+C1819645	sterol response element binding
+C1819679	miRNA metabolic process
+C1819954	regulation of transcription from RNA polymerase II promoter in response to stress
+C1819955	regulation of transcription from RNA polymerase II promoter in response to oxidative stress
+C1819956	regulation of DNA-templated transcription in response to stress
+C1819963	ncRNA 3'-end processing
+C1819968	polyadenylation-dependent ncRNA catabolic process
+C1820098	four-way junction DNA binding
+C1820099	open form four-way junction DNA binding
+C1820100	crossed form four-way junction DNA binding
+C1820101	Y-form DNA binding
+C1820102	heteroduplex DNA loop binding
+C1820103	bubble DNA binding
+C1820104	double-strand/single-strand DNA junction binding
+C1820106	regulation of transcription by galactose
+C1820107	negative regulation of transcription by galactose
+C1820108	positive regulation of transcription by galactose
+C1820126	carbon catabolite regulation of transcription from RNA polymerase II promoter
+C1820127	regulation of transcription from RNA polymerase II promoter by glucose
+C1820128	regulation of transcription from RNA polymerase II promoter by galactose
+C1820129	positive regulation of transcription from RNA polymerase II promoter by glucose
+C1820130	negative regulation of transcription from RNA polymerase II promoter by glucose
+C1820131	negative regulation of transcription from RNA polymerase II promoter by galactose
+C1820132	positive regulation of transcription from RNA polymerase II promoter by galactose
+C1820133	carbon catabolite activation of transcription from RNA polymerase II promoter
+C1820138	oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity
+C1820371	transposition
+C1848046	HEMATOPOIETIC STEM CELL KINETICS, CONTROL OF
+C1850104	PA POLYMORPHISM OF ALPHA-2-GLOBULIN
+C1854633	EARLY RESPONSE TO NEURAL INDUCTION GENE
+C1881206	Inframe Mutation
+C1881249	Intron Splice Region Mutation
+C1881250	Intronic Mutation
+C1883632	3' Flank Mutation
+C1883643	5' Flank Mutation
+C1956002	Indel Mutation
+C2244293	regulation of transcription from RNA polymerase II promoter involved in spinal cord anterior-posterior patterning
+C2244553	maturation of SSU-rRNA
+C2244928	termination of RNA polymerase II transcription, poly(A)-coupled
+C2244929	termination of RNA polymerase II transcription, exosome-dependent
+C2245021	SREBP signaling pathway
+C2245267	transcriptional attenuation by ribosome
+C2245400	negative regulation of translational initiation in response to stress
+C2245412	positive regulation of translational initiation in response to osmotic stress
+C2245431	regulation of Type III site-specific deoxyribonuclease activity
+C2245535	tRNA(Ile)-lysidine synthase activity
+C2245743	mitochondrial translation
+C2245744	plastid translation
+C2245746	deoxyribonucleoside binding
+C2245747	purine deoxyribonucleoside binding
+C2245748	pyrimidine deoxyribonucleoside binding
+C2245750	purine ribonucleoside binding
+C2245754	purine deoxyribonucleotide binding
+C2245756	pyrimidine deoxyribonucleotide binding
+C2245760	guanyl deoxyribonucleotide binding
+C2245761	guanyl ribonucleotide binding
+C2245774	5'-3' RNA helicase activity
+C2245775	ATP-dependent 5'-3' RNA helicase activity
+C2246197	regulation of DNA endoreduplication
+C2246198	negative regulation of DNA endoreduplication
+C2246200	positive regulation of DNA endoreduplication
+C2246230	negative regulation of viral transcription
+C2246297	negative regulation of translation in response to oxidative stress
+C2246347	positive regulation of transcription elongation from RNA polymerase II promoter
+C2246516	negative regulation of RNA splicing
+C2246517	positive regulation of RNA splicing
+C2246518	regulation of purine nucleotide catabolic process
+C2246525	negative regulation of histone phosphorylation
+C2246553	immunoglobulin V(D)J recombination
+C2246554	T cell receptor V(D)J recombination
+C2246569	conversion of ds siRNA to ss siRNA involved in RNA interference
+C2246570	histone H3-K9 demethylation
+C2246571	protein-DNA loading ATPase activity
+C2246584	regulation of histone ubiquitination
+C2246586	positive regulation of histone ubiquitination
+C2246610	ribonuclease P RNA binding
+C2246625	regulation of transcription from RNA polymerase II promoter in response to iron ion starvation
+C2246635	dsRNA transport
+C2246668	plastid DNA metabolic process
+C2246669	plastid DNA replication
+C2246729	meiotic DNA replication checkpoint
+C2246823	UUU codon-amino acid adaptor activity
+C2246824	UUC codon-amino acid adaptor activity
+C2246825	UUA codon-amino acid adaptor activity
+C2246826	UUG codon-amino acid adaptor activity
+C2246827	UCU codon-amino acid adaptor activity
+C2246828	UCC codon-amino acid adaptor activity
+C2246829	UCA codon-amino acid adaptor activity
+C2246830	UCG codon-amino acid adaptor activity
+C2246831	UAU codon-amino acid adaptor activity
+C2246832	UAC codon-amino acid adaptor activity
+C2246833	UAA codon-amino acid adaptor activity
+C2246834	UAG codon-amino acid adaptor activity
+C2246835	UGU codon-amino acid adaptor activity
+C2246836	UGC codon-amino acid adaptor activity
+C2246837	UGA codon-amino acid adaptor activity
+C2246838	UGG codon-amino acid adaptor activity
+C2246839	CUU codon-amino acid adaptor activity
+C2246840	CUC codon-amino acid adaptor activity
+C2246841	CUA codon-amino acid adaptor activity
+C2246842	CUG codon-amino acid adaptor activity
+C2246843	CCU codon-amino acid adaptor activity
+C2246844	CCC codon-amino acid adaptor activity
+C2246845	CCA codon-amino acid adaptor activity
+C2246846	CCG codon-amino acid adaptor activity
+C2246847	CAU codon-amino acid adaptor activity
+C2246848	CAC codon-amino acid adaptor activity
+C2246849	CAA codon-amino acid adaptor activity
+C2246850	CAG codon-amino acid adaptor activity
+C2246851	CGU codon-amino acid adaptor activity
+C2246852	CGC codon-amino acid adaptor activity
+C2246853	CGA codon-amino acid adaptor activity
+C2246854	CGG codon-amino acid adaptor activity
+C2246855	AUU codon-amino acid adaptor activity
+C2246856	AUC codon-amino acid adaptor activity
+C2246857	AUA codon-amino acid adaptor activity
+C2246858	AUG codon-amino acid adaptor activity
+C2246859	ACU codon-amino acid adaptor activity
+C2246860	ACC codon-amino acid adaptor activity
+C2246861	ACA codon-amino acid adaptor activity
+C2246862	ACG codon-amino acid adaptor activity
+C2246863	AAU codon-amino acid adaptor activity
+C2246864	AAC codon-amino acid adaptor activity
+C2246865	AAA codon-amino acid adaptor activity
+C2246866	AAG codon-amino acid adaptor activity
+C2246867	AGU codon-amino acid adaptor activity
+C2246868	AGC codon-amino acid adaptor activity
+C2246869	AGA codon-amino acid adaptor activity
+C2246870	AGG codon-amino acid adaptor activity
+C2246871	GUU codon-amino acid adaptor activity
+C2246872	GUC codon-amino acid adaptor activity
+C2246873	GUA codon-amino acid adaptor activity
+C2246874	GUG codon-amino acid adaptor activity
+C2246875	GCU codon-amino acid adaptor activity
+C2246876	GCC codon-amino acid adaptor activity
+C2246877	GCA codon-amino acid adaptor activity
+C2246878	GCG codon-amino acid adaptor activity
+C2246879	GAU codon-amino acid adaptor activity
+C2246880	GAC codon-amino acid adaptor activity
+C2246881	GAA codon-amino acid adaptor activity
+C2246882	GAG codon-amino acid adaptor activity
+C2246883	GGU codon-amino acid adaptor activity
+C2246884	GGC codon-amino acid adaptor activity
+C2246885	GGA codon-amino acid adaptor activity
+C2246886	GGG codon-amino acid adaptor activity
+C2246987	co-transcriptional gene silencing by RNA interference machinery
+C2246992	DNA replication, Okazaki fragment processing
+C2247018	RNA strand annealing activity
+C2247049	activating transcription factor binding
+C2247059	nuclear-transcribed mRNA catabolic process, meiosis-specific transcripts
+C2247126	double-stranded DNA-dependent ATPase activity
+C2247127	DNA/RNA helicase activity
+C2247128	5'-3' DNA/RNA helicase activity
+C2247129	3'-5' DNA/RNA helicase activity
+C2247130	ATP-dependent DNA/RNA helicase activity
+C2247131	ATP-dependent 3'-5' DNA/RNA helicase activity
+C2247132	ATP-dependent 5'-3' DNA/RNA helicase activity
+C2247133	nucleotide-excision repair, DNA incision
+C2247159	DNA 5'-adenosine monophosphate hydrolase activity
+C2247307	DNA beta-glucosyltransferase activity
+C2247365	nucleoside bisphosphate catabolic process
+C2247380	ribonucleoside bisphosphate metabolic process
+C2247395	ribonuclease D activity
+C2247396	CC-preferring endodeoxyribonuclease activity
+C2247397	deoxyribonuclease (pyrimidine dimer) activity
+C2247398	ribonuclease IV activity
+C2247399	ribonuclease P4 activity
+C2247400	ribonuclease [poly-(U)-specific] activity
+C2247401	ribonuclease IX activity
+C2247402	ribonuclease T2 activity
+C2247406	Bacillus subtilis ribonuclease activity
+C2247407	ribonuclease U2 activity
+C2247408	ribonuclease F activity
+C2247409	ribonuclease V activity
+C2247410	rRNA endonuclease activity
+C2247481	DNA-deoxyinosine glycosylase activity
+C2247482	deoxyribodipyrimidine endonucleosidase activity
+C2247501	box C/D snoRNA metabolic process
+C2247513	box H/ACA snoRNA metabolic process
+C2247571	ribonucleoside bisphosphate catabolic process
+C2247575	purine ribonucleoside bisphosphate metabolic process
+C2247576	purine ribonucleoside bisphosphate biosynthetic process
+C2247578	8-oxo-7,8-dihydroguanine DNA N-glycosylase activity
+C2247581	5-formyluracil DNA N-glycosylase activity
+C2247582	5-hydroxymethyluracil DNA N-glycosylase activity
+C2247586	poly(G) binding
+C2247624	estrogen response element binding
+C2247625	RNA strand-exchange activity
+C2247629	DNA polymerase activity
+C2247634	stress granule assembly
+C2247636	replication fork processing at rDNA locus
+C2247659	CENP-A containing nucleosome assembly
+C2247811	regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation
+C2247814	tRNA thio-modification
+C2247830	regulation of transcription elongation from RNA polymerase II promoter
+C2247832	negative regulation of transcription elongation from RNA polymerase II promoter
+C2247836	mitochondrial RNA polymerase binding promoter specificity activity
+C2247838	snoRNA splicing
+C2247937	misfolded RNA binding
+C2247967	RNA pyrophosphohydrolase activity
+C2248021	endonucleolytic cleavage of tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2248022	endonucleolytic cleaveage between 4.5S rRNA and 5S rRNA of tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2248023	endonucleolytic cleaveage between LSU-rRNA and 4.5S rRNA of tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2248024	endonucleolytic cleaveage between SSU-rRNA and LSU-rRNA of tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2248025	generation of mature 3'-end of 5S rRNA generated by RNA polymerase III
+C2248026	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA,5S)
+C2248027	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA,5S)
+C2248028	cotranscriptional mitochondrial rRNA nucleotide insertion
+C2248065	negative regulation of translation involved in gene silencing by miRNA
+C2248096	negative regulation of translation, ncRNA-mediated
+C2248583	regulation of translational initiation in response to osmotic stress
+C2248589	conversion of glutamyl-tRNA to glutaminyl-tRNA
+C2248590	conversion of aspartyl-tRNA to asparaginyl-tRNA
+C2248632	DNA-3-methylbase glycosylase activity
+C2248633	DNA-N1-methyladenine dioxygenase activity
+C2248637	deoxyribonuclease V activity
+C2248641	G/U mismatch-specific uracil-DNA glycosylase activity
+C2248669	T/G mismatch-specific endonuclease activity
+C2248731	phosphoserine-tRNA(Cys) ligase activity
+C2248737	ribonuclease M5 activity
+C2248741	tRNA (adenine-57, 58-N(1)-) methyltransferase activity
+C2248743	tRNA 2-selenouridine synthase activity
+C2248769	excinuclease cho activity
+C2248781	anti-sigma factor antagonist activity
+C2249752	negative regulation of mating-type specific transcription, DNA-templated
+C2249756	positive regulation of mating-type specific transcription, DNA-templated
+C2249936	regulation of translation, ncRNA-mediated
+C2249937	positive regulation of translation, ncRNA-mediated
+C2253559	negative regulation of mRNA splicing, via spliceosome
+C2253563	positive regulation of mRNA splicing, via spliceosome
+C2257074	RNA polymerase I activity
+C2257075	RNA polymerase II activity
+C2257076	RNA polymerase III activity
+C2257146	DNA topoisomerase type II (ATP-hydrolyzing) activity
+C2262742	nucleobase-containing small molecule metabolic process
+C2262915	viral gene silencing in virus induced gene silencing
+C2262916	host gene silencing in virus induced gene silencing
+C2262917	regulation of posttranscriptional gene silencing
+C2262918	positive regulation of posttranscriptional gene silencing
+C2262920	viral triggering of virus induced gene silencing
+C2262969	regulation of antisense RNA transcription
+C2262970	negative regulation of antisense RNA transcription
+C2262971	positive regulation of antisense RNA transcription
+C2263055	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263057	cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263059	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)
+C2263060	cleavage of bicistronic rRNA transcript (SSU-rRNA, LSU-rRNA)
+C2263061	rRNA 2'-O-methylation
+C2263062	snoRNA guided rRNA 2'-O-methylation
+C2263063	enzyme-directed rRNA 2'-O-methylation
+C2263064	snoRNA guided rRNA pseudouridine synthesis
+C2263065	enzyme-directed rRNA pseudouridine synthesis
+C2263067	endonucleolytic cleavage between SSU-rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)
+C2263068	endonucleolytic cleavage between LSU-rRNA and 5S rRNA of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)
+C2263069	exonucleolytic trimming involved in rRNA processing
+C2263070	maturation of 5.8S rRNA
+C2263071	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263073	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263074	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263075	endonucleolytic cleavage in ITS1 upstream of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263077	exonucleolytic trimming to generate mature 5'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263078	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263079	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263080	generation of mature 3'-end of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263175	positive regulation of transcription on exit from mitosis
+C2263176	positive regulation of transcription on exit from mitosis, from RNA polymerase I promoter
+C2263177	positive regulation of transcription on exit from mitosis, from RNA polymerase II promoter
+C2263178	positive regulation of transcription on exit from mitosis, from RNA polymerase III promoter
+C2263181	mitotic G2 DNA damage checkpoint
+C2263194	positive regulation of transcription of Notch receptor target
+C2263204	eggshell chorion gene amplification
+C2263384	cleavage involved in rRNA processing
+C2263385	maturation of LSU-rRNA
+C2263386	endonucleolytic cleavage in 3'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263387	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263389	maturation of LSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263390	maturation of SSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263391	maturation of 2S rRNA
+C2263392	maturation of 4.5S rRNA
+C2263393	generation of mature 5'-end of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263396	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263397	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263400	maturation of 5S rRNA
+C2263401	maturation of 5S rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+C2263402	endonucleolytic cleavage of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263403	cleavage between SSU-rRNA and 5.8S rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263404	cleavage between 2S rRNA and LSU-rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263405	cleavage between 5.8S rRNA and 2S rRNA of tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263406	maturation of 5.8S rRNA from tetracistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, 2S rRNA, LSU-rRNA)
+C2263407	maturation of LSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2263408	maturation of SSU-rRNA from tetracistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 4.5S-rRNA, 5S-rRNA)
+C2263410	box C/D snoRNP assembly
+C2263412	box C/D snoRNA 3'-end processing
+C2263413	box H/ACA snoRNA 3'-end processing
+C2263414	base pairing with DNA
+C2265221	four-way junction helicase activity
+C2265275	base pairing with rRNA
+C2265276	base pairing with snRNA
+C2265277	base pairing with tRNA
+C2265513	double-stranded methylated DNA binding
+C2265553	DNA methylation on cytosine within a CG sequence
+C2265554	DNA methylation on cytosine within a CNG sequence
+C2265555	DNA methylation on cytosine within a CHH sequence
+C2265635	RNA secondary structure unwinding
+C2265658	regulation of transposition, RNA-mediated
+C2265661	regulation of transposition
+C2265662	negative regulation of transposition
+C2265663	positive regulation of transposition
+C2315666	Mitochondrial mutation
+C2610186	mRNA cis splicing, via spliceosome
+C2610225	wobble base cytosine methylation
+C2610226	tRNA nucleoside ribose methylation
+C2610227	wobble position guanine ribose methylation
+C2610228	wobble position ribose methylation
+C2610229	wobble position cytosine ribose methylation
+C2610230	wobble position uridine ribose methylation
+C2610234	wobble base lysidine biosynthesis
+C2610382	regulation of transcription initiation from RNA polymerase II promoter
+C2610383	positive regulation of transcription initiation from RNA polymerase II promoter
+C2610528	regulation of single-stranded telomeric DNA binding
+C2610530	regulation of DNA strand elongation
+C2610647	regulation of transcription by carbon monoxide
+C2610660	telomeric RNA binding
+C2610662	purine NTP-dependent helicase activity
+C2610664	rRNA (pseudouridine) methyltransferase activity
+C2610665	rRNA (pseudouridine-N3-)-methyltransferase activity
+C2610693	mRNA splicing, via endonucleolytic cleavage and ligation
+C2610694	HAC1-type intron splice site recognition and cleavage
+C2610697	tRNA gene clustering
+C2610779	mitochondrial translational initiation
+C2610780	mitochondrial translational elongation
+C2610781	mitochondrial translational termination
+C2610782	tRNA aminoacylation for mitochondrial protein translation
+C2610785	negative regulation of mitochondrial translation
+C2610786	positive regulation of mitochondrial translation
+C2610798	mitochondrial alanyl-tRNA aminoacylation
+C2610799	mitochondrial arginyl-tRNA aminoacylation
+C2610800	mitochondrial asparaginyl-tRNA aminoacylation
+C2610801	mitochondrial aspartyl-tRNA aminoacylation
+C2610802	mitochondrial cysteinyl-tRNA aminoacylation
+C2610803	mitochondrial glutaminyl-tRNA aminoacylation
+C2610804	mitochondrial glutamyl-tRNA aminoacylation
+C2610805	mitochondrial glycyl-tRNA aminoacylation
+C2610806	mitochondrial histidyl-tRNA aminoacylation
+C2610807	mitochondrial isoleucyl-tRNA aminoacylation
+C2610808	mitochondrial leucyl-tRNA aminoacylation
+C2610809	mitochondrial lysyl-tRNA aminoacylation
+C2610810	mitochondrial methionyl-tRNA aminoacylation
+C2610811	mitochondrial phenylalanyl-tRNA aminoacylation
+C2610812	mitochondrial prolyl-tRNA aminoacylation
+C2610813	mitochondrial seryl-tRNA aminoacylation
+C2610814	mitochondrial threonyl-tRNA aminoacylation
+C2610836	large ribosomal subunit rRNA binding
+C2610837	small ribosomal subunit rRNA binding
+C2610839	mitochondrial tryptophanyl-tRNA aminoacylation
+C2610840	mitochondrial tyrosyl-tRNA aminoacylation
+C2610841	mitochondrial valyl-tRNA aminoacylation
+C2610967	RES complex
+C2611022	negative regulation of translation in response to nitrogen starvation
+C2611045	flap-structured DNA binding
+C2611046	3'-flap-structured DNA binding
+C2611047	5'-flap-structured DNA binding
+C2611082	mitochondrial light strand promoter anti-sense binding
+C2611083	mitochondrial heavy strand promoter anti-sense binding
+C2611084	mitochondrial light strand promoter sense binding
+C2611085	mitochondrial heavy strand promoter sense binding
+C2611131	DNA cytosine deamination
+C2611243	rRNA base methylation
+C2611244	rRNA (guanine-N7)-methylation
+C2611246	nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay
+C2611247	nuclear-transcribed mRNA catabolic process, 5'-3' exonucleolytic nonsense-mediated decay
+C2611248	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay
+C2611300	threonylcarbamoyladenosine biosynthetic process
+C2611689	mRNA methylation
+C2611800	tRNA splicing, via endonucleolytic cleavage and ligation
+C2611845	nuclear-transcribed mRNA poly(A) tail shortening
+C2611863	long-distance posttranscriptional gene silencing
+C2611882	miRNA catabolic process
+C2611894	production of lsiRNA involved in RNA interference
+C2611903	posttranscriptional regulation of gene expression
+C2611904	mRNA localization resulting in posttranscriptional regulation of gene expression
+C2611905	regulation of mRNA stability involved in response to stress
+C2611915	negative regulation of transcription by transcription factor catabolism
+C2611916	negative regulation of transcription by transcription factor localization
+C2611923	positive regulation of gene expression
+C2611924	negative regulation of gene expression
+C2611925	regulation of transcription, start site selection
+C2611968	regulation of transcription from RNA polymerase II promoter during meiosis
+C2611969	positive regulation of transcription from RNA polymerase II promoter during meiosis
+C2611970	negative regulation of transcription from RNA polymerase II promoter during meiosis
+C2611974	negative regulation of cellular carbohydrate metabolic process by negative regulation of transcription, DNA-templated
+C2611984	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+C2611985	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to chemical stimulus
+C2611986	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to stress
+C2611987	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to nutrient levels
+C2612001	meiotic DNA double-strand break processing involved in meiotic gene conversion
+C2612002	meiotic DNA double-strand break processing involved in reciprocal meiotic recombination
+C2612005	heteroduplex formation involved in gene conversion at mating-type locus
+C2612006	heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing
+C2612022	positive regulation of transcription from RNA polymerase II promoter in response to iron
+C2612034	positive regulation of transcription via serum response element binding
+C2612035	serum response element binding
+C2612067	regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
+C2612071	meiotic DNA recombinase assembly involved in reciprocal meiotic recombination
+C2612072	meiotic DNA recombinase assembly involved in meiotic gene conversion
+C2612073	meiotic strand invasion involved in reciprocal meiotic recombination
+C2612074	meiotic strand invasion involved in meiotic gene conversion
+C2612075	meiotic mismatch repair involved in meiotic gene conversion
+C2612076	meiotic mismatch repair involved in reciprocal meiotic recombination
+C2612077	meiotic DNA repair synthesis involved in reciprocal meiotic recombination
+C2612078	meiotic DNA repair synthesis involved in meiotic gene conversion
+C2612079	meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+C2612080	meiotic DNA double-strand break formation involved in meiotic gene conversion
+C2612090	DNA double-strand break processing involved in repair via synthesis-dependent strand annealing
+C2612091	DNA double-strand break processing involved in repair via single-strand annealing
+C2612132	telomere maintenance via telomere lengthening
+C2612143	recombination hotspot binding
+C2612250	negative regulation of transcription by competitive promoter binding
+C2612278	mRNA trans splicing, via spliceosome
+C2612382	nuclear-transcribed mRNA catabolic process
+C2612383	mitochondrial RNA catabolic process
+C2612384	mitochondrial mRNA catabolic process
+C2612385	mitochondrial RNA metabolic process
+C2612389	mitochondrial RNA processing
+C2612390	mitochondrial RNA 5'-end processing
+C2612391	mitochondrial RNA 3'-end processing
+C2612392	RNA 5'-end processing
+C2612393	rRNA 5'-end processing
+C2612499	regulation of transcription from RNA polymerase II promoter in response to iron
+C2612500	negative regulation of transcription from RNA polymerase II promoter in response to iron
+C2612502	telomere localization
+C2612503	telomere tethering at nuclear periphery
+C2612506	chromatin organization involved in regulation of transcription
+C2612508	alignment of 3' and 5' splice sites of mRNA
+C2612509	nucleobase-containing small molecule biosynthetic process
+C2612519	tRNA 3'-trailer cleavage, endonucleolytic
+C2612521	tRNA 3'-trailer cleavage, exonucleolytic
+C2612532	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'
+C2612533	nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'
+C2612565	3'-5' RNA helicase activity
+C2612566	ATP-dependent 3'-5' RNA helicase activity
+C2612577	ncRNA processing
+C2612578	ncRNA 5'-end processing
+C2612579	snRNA 3'-end processing
+C2612580	U1 snRNA 3'-end processing
+C2612581	U2 snRNA 3'-end processing
+C2612582	U4 snRNA 3'-end processing
+C2612583	U5 snRNA 3'-end processing
+C2612584	U6 snRNA 3'-end processing
+C2612622	centromere complex assembly
+C2612625	U3 snoRNA binding
+C2612626	box C/D snoRNA binding
+C2612627	box H/ACA snoRNA binding
+C2612697	21U-RNA binding
+C2612698	piRNA binding
+C2612699	21U-RNA metabolic process
+C2612700	21U-RNA catabolic process
+C2612701	piRNA metabolic process
+C2612702	piRNA catabolic process
+C2612726	oligodeoxyribonucleotidase activity
+C2612727	oligoribonucleotidase activity
+C2612741	DNA recombinase assembly involved in gene conversion at mating-type locus
+C2612753	strand invasion involved in gene conversion at mating-type locus
+C2612772	nucleobase-containing compound biosynthetic process
+C2612774	nucleobase-containing small molecule catabolic process
+C2612778	ncRNA metabolic process
+C2612779	ncRNA catabolic process
+C2612877	DNA replication-dependent nucleosome organization
+C2612878	DNA replication-independent nucleosome organization
+C2613132	box C/D snoRNA processing
+C2613133	box H/ACA snoRNA processing
+C2613134	intronic box C/D snoRNA processing
+C2613135	intronic box H/ACA snoRNA processing
+C2613251	DNA-7-methylguanine glycosylase activity
+C2613257	negative regulation by host of viral transcription
+C2613260	exonucleolytic nuclear-transcribed mRNA catabolic process involved in endonucleolytic cleavage-dependent decay
+C2613261	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay
+C2613365	DNA hypermethylation
+C2613366	hypermethylation of CpG island
+C2613367	DNA hypomethylation
+C2613368	hypomethylation of CpG island
+C2752241	enhancer binding
+C2752286	selenocysteine insertion sequence binding
+C2752388	polyadenylation-dependent RNA catabolic process
+C2752506	transcription regulatory region DNA binding
+C2752507	intronic transcription regulatory region DNA binding
+C2752571	regulation of RNA polymerase II transcriptional preinitiation complex assembly
+C2752572	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly
+C2752594	tRNA wobble position uridine thiolation
+C2752607	G-quadruplex RNA binding
+C2752609	steroid receptor RNA activator RNA binding
+C2752690	positive regulation of transcription involved in egg activation
+C2752724	regulation of transcription from RNA polymerase II promoter involved in lung bud formation
+C2752790	positive regulation of DNA-templated transcription, termination
+C2752791	negative regulation of DNA-templated transcription, termination
+C2752824	regulation of transcription from RNA polymerase II promoter involved in mammary gland formation
+C2752856	regulation of homologous chromosome segregation
+C2753024	regulation of transcription involved in primary germ layer cell fate commitment
+C2753033	negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter
+C2753035	regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification
+C2753038	intracellular mRNA localization involved in pattern specification process
+C2753039	intracellular mRNA localization involved in anterior/posterior axis specification
+C2753040	orthodenticle mRNA localization
+C2753041	anterior mRNA localization involved in anterior/posterior axis specification
+C2753042	posterior mRNA localization involved in anterior/posterior axis specification
+C2753043	regulation of translation involved in anterior/posterior axis specification
+C2753044	random inactivation of X chromosome
+C2753045	inactivation of paternal X chromosome
+C2753046	inactivation of paternal X chromosome by genetic imprinting
+C2753047	inactivation of X chromosome by genetic imprinting
+C2753048	inactivation of X chromosome by heterochromatin assembly
+C2753049	inactivation of X chromosome by DNA methylation
+C2753077	regulation of transcription involved in lymphatic endothelial cell fate commitment
+C2753078	regulation of transcription involved in cell fate commitment
+C2753080	regulation of transcription involved in venous endothelial cell fate commitment
+C2753127	regulation of transcription involved in eye field cell fate commitment of camera-type eye
+C2753134	negative regulation of chromatin silencing by small RNA
+C2753136	plasmid copy number maintenance
+C2753137	regulation of DNA replication initiation involved in plasmid copy number maintenance
+C2753138	negative regulation of DNA replication initiation involved in plasmid copy number maintenance
+C2753189	regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+C2753190	positive regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+C2753191	regulation of gene silencing by miRNA
+C2753192	negative regulation of gene silencing by miRNA
+C2753193	regulation of gene silencing by RNA
+C2753194	negative regulation of gene silencing by RNA
+C2753195	regulation of gene silencing
+C2753196	negative regulation of gene silencing
+C2753221	regulation of transcription from RNA polymerase II promoter involved in kidney development
+C2753305	negative regulation of translation involved in RNA interference
+C2753307	endoribonuclease activity, cleaving siRNA-paired mRNA
+C2753337	rolling circle DNA replication
+C2753338	theta DNA replication
+C2753350	juvenile hormone response element binding
+C2753370	regulation of protein processing
+C2753399	vitamin D response element binding
+C2753406	nonfunctional rRNA decay
+C2753434	asparaginyl-tRNAAsn biosynthesis via transamidation
+C2753435	glutaminyl-tRNAGln biosynthesis via transamidation
+C2753463	RNA nucleotide insertion
+C2753464	RNA nucleotide deletion
+C2753465	RNA dinucleotide insertion
+C2753466	RNA cytidine insertion
+C2753467	RNA guanosine insertion
+C2753468	RNA uridine deletion
+C2753469	RNA adenosine-uridine insertion
+C2753470	RNA cytidine-uridine insertion
+C2753471	RNA guanosine-cytidine insertion
+C2753472	RNA guanosine-uridine insertion
+C2753475	poly-purine tract binding
+C2753654	regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation
+C2753655	positive regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation
+C2753656	regulation of transcription from RNA polymerase II promoter involved in endocardial precursor cell differentiation
+C2753837	regulation of transcription involved in G1/S transition of mitotic cell cycle
+C2753902	heterochromatin organization
+C2753937	RNA polymerase I core factor complex
+C2753947	heterochromatin organization involved in chromatin silencing
+C2753956	primary miRNA binding
+C2753961	pre-miRNA binding
+C2753969	E-box binding
+C2753974	transposon integration
+C2753975	regulation of transposon integration
+C2753976	negative regulation of transposon integration
+C2753978	positive regulation of transposon integration
+C2753981	RNA polymerase III transcriptional preinitiation complex assembly
+C2753982	mitochondrial tRNA wobble uridine modification
+C2753983	mitochondrial tRNA modification
+C2753984	mitochondrial tRNA methylation
+C2753985	mitochondrial tRNA pseudouridine synthesis
+C2753986	mitochondrial tRNA thio-modification
+C2753994	global genome nucleotide-excision repair
+C2753997	UV-damage excision repair
+C2754001	production of small RNA involved in gene silencing by RNA
+C2754002	production of siRNA involved in chromatin silencing by small RNA
+C2754003	regulation of production of small RNA involved in gene silencing by RNA
+C2754004	regulation of production of siRNA involved in chromatin silencing by small RNA
+C2754005	small RNA loading onto RISC
+C2754006	siRNA loading onto RISC involved in chromatin silencing by small RNA
+C2754007	heterochromatin assembly involved in chromatin silencing by small RNA
+C2754012	regulation of mRNA stability, ncRNA-mediated
+C2754013	trans-translation
+C2754018	CRD-mediated mRNA stabilization
+C2754019	3'-UTR-mediated mRNA stabilization
+C2754025	dephosphorylation of RNA polymerase II C-terminal domain
+C2754069	nuclear-transcribed mRNA catabolic process, no-go decay
+C2754091	error-free translesion synthesis
+C2754181	RNA surveillance
+C2754182	cytoplasmic RNA surveillance
+C2754183	nuclear RNA surveillance
+C2754184	nuclear mRNA surveillance
+C2754185	nuclear ncRNA surveillance
+C2754186	nuclear mRNA surveillance of spliceosomal pre-mRNA splicing
+C2754187	nuclear mRNA surveillance of mRNA 3'-end processing
+C2754188	nuclear mRNA surveillance of mRNP export
+C2754190	CUT catabolic process
+C2754191	nuclear polyadenylation-dependent rRNA catabolic process
+C2754192	nuclear polyadenylation-dependent snoRNA catabolic process
+C2754193	nuclear polyadenylation-dependent snRNA catabolic process
+C2754194	nuclear polyadenylation-dependent tRNA catabolic process
+C2754195	nuclear polyadenylation-dependent CUT catabolic process
+C2754196	nuclear polyadenylation-dependent antisense transcript catabolic process
+C2754197	antisense RNA transcript catabolic process
+C2754198	nuclear polyadenylation-dependent mRNA catabolic process
+C2754199	CUT metabolic process
+C2754200	histone mRNA catabolic process
+C2754201	nuclear histone mRNA catabolic process
+C2754202	nuclear polyadenylation-dependent ncRNA catabolic process
+C2754203	polyadenylation-dependent mRNA catabolic process
+C2754204	nuclear retention of unspliced pre-mRNA at the site of transcription
+C2754205	nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription
+C2754206	snoRNA polyadenylation
+C2754207	polyadenylation-dependent snoRNA 3'-end processing
+C2754252	RNA 3' uridylation
+C2754341	resolution of recombination intermediates
+C2754342	resolution of mitotic recombination intermediates
+C2754373	site-specific DNA replication termination
+C2754374	site-specific DNA replication termination at RTS1 barrier
+C2754409	histone pre-mRNA stem-loop binding
+C2754410	histone pre-mRNA DCP binding
+C2754411	U7 snRNA binding
+C2754463	regulation of translational initiation in response to starvation
+C2754464	negative regulation of translational initiation in response to starvation
+C2754465	positive regulation of translational initiation in response to starvation
+C2754642	regulation of histone H3-K14 acetylation
+C2754643	negative regulation of histone H3-K14 acetylation
+C2754645	positive regulation of histone H3-K14 acetylation
+C2754648	tDNA binding
+C2754721	genetic imprinting at mating-type locus
+C2754722	establishment of imprinting at mating-type locus
+C2754723	maintenance of imprinting at mating-type locus
+C2754824	phosphorylation of RNA polymerase II C-terminal domain serine 2 residues
+C2754825	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+C2754874	DNA/RNA hybrid binding
+C2754939	transcriptional activation by promoter-enhancer looping
+C2755228	regulation of transcription from RNA polymerase II promoter involved in metanephros development
+C2755325	5S rDNA binding
+C2755352	DNA demethylation
+C2755393	sucrose induced translational repression
+C2755408	replication fork arrest at tRNA locus
+C2755427	regulation of transcription involved in anterior neural plate formation
+C2755428	regulation of transcription involved in posterior neural plate formation
+C2755460	regulation of chromatin silencing at centromere
+C2755461	positive regulation of chromatin silencing at centromere
+C2755462	regulation of chromatin silencing at silent mating-type cassette
+C2755463	positive regulation of chromatin silencing at silent mating-type cassette
+C2755473	regulation of production of siRNA involved in RNA interference
+C2755486	translation regulator activity, nucleic acid binding
+C2755526	C-5 methylation on cytosine involved in chromatin silencing
+C2755527	C-5 methylation of cytosine
+C2755535	N-4 methylation of cytosine
+C2755550	mitochondrial DNA packaging
+C2755615	gene looping
+C2755616	transcriptional activation by promoter-terminator looping
+C2755655	regulation of transcription from RNA polymerase II promoter involved in somitogenesis
+C2755660	negative regulation of histone H4 acetylation
+C2755681	regulation of transcription-coupled nucleotide-excision repair
+C2755701	positive regulation of transcription involved in G2/M transition of mitotic cell cycle
+C2755712	nitrogen catabolite regulation of transcription
+C2755713	nitrogen catabolite activation of transcription
+C2755714	nitrogen catabolite repression of transcription
+C2755715	regulation of mitochondrial DNA replication
+C2755716	positive regulation of mitochondrial DNA replication
+C2755717	negative regulation of mitochondrial DNA replication
+C2755724	regulation of transcription involved in G2/M transition of mitotic cell cycle
+C2755824	spliceosomal snRNP assembly
+C2755884	regulation of chromatin silencing by small RNA
+C2755898	gene silencing involved in chronological cell aging
+C2755920	replication fork arrest at mating type locus
+C2755937	negative regulation of RNA polymerase II transcriptional preinitiation complex assembly
+C2755946	tRNA exon ligation
+C2755947	tRNA exon ligation utilizing ATP as source of linkage phosphate
+C2755948	tRNA exon ligation utilizing GTP as source of linkage phosphate
+C2755949	tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate
+C2755950	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery
+C2755951	posttranscriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+C2755980	signal transduction involved in regulation of gene expression
+C2757067	Reverse Transcriptase Inhibitors
+C2825089	immunoglobulin light chain V-J recombination
+C2980085	negative regulation of sequence-specific DNA binding transcription factor activity
+C2980086	positive regulation of sequence-specific DNA binding transcription factor activity
+C2986544	Nonpenetrance
+C3154983	somatic recombination of immunoglobulin genes involved in immune response
+C3154984	somatic hypermutation of immunoglobulin genes involved in immune response
+C3154985	gene conversion of immunoglobulin genes involved in immune response
+C3155058	regulation of sequence-specific DNA binding transcription factor activity
+C3155060	DNA ligation involved in DNA recombination
+C3155061	DNA ligation involved in DNA repair
+C3155062	DNA-dependent DNA replication DNA ligation
+C3155491	tRNA (cytosine-2'-O-)-methyltransferase activity
+C3155576	sequence-specific DNA binding transcription factor activity
+C3155686	mRNA destabilization
+C3155687	3'-UTR-mediated mRNA destabilization
+C3155717	negative regulation of chromatin silencing at silent mating-type cassette
+C3155718	regulation of chromatin silencing at rDNA
+C3155719	negative regulation of chromatin silencing at rDNA
+C3155747	regulation of transcription from RNA polymerase II promoter involved in mesonephros development
+C3155842	DNA strand renaturation involved in double-strand break repair
+C3155929	repressing transcription factor binding
+C3155933	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication
+C3156014	replication fork arrest involved in DNA replication termination
+C3156029	N-box binding
+C3156131	G-quadruplex DNA formation
+C3156142	negative regulation of transcription involved in G1/S transition of mitotic cell cycle
+C3156144	positive regulation of transcription involved in G1/S transition of mitotic cell cycle
+C3156146	replication fork reversal
+C3156159	cis-acting DNA replication termination
+C3156164	conversion of methionyl-tRNA to N-formyl-methionyl-tRNA
+C3156165	conversion of O-phosphoseryl-tRNA to cysteinyl-tRNA
+C3156302	rescue of stalled ribosome
+C3156321	regulation of glycolytic process by regulation of transcription from RNA polymerase II promoter
+C3156322	regulation of glycolytic process by negative regulation of transcription from RNA polymerase II promoter
+C3156323	regulation of glycolytic process by positive regulation of transcription from RNA polymerase II promoter
+C3156324	regulation of cellular ketone metabolic process by regulation of transcription from RNA polymerase II promoter
+C3156325	regulation of cellular ketone metabolic process by negative regulation of transcription from RNA polymerase II promoter
+C3156326	regulation of cellular ketone metabolic process by positive regulation of transcription from RNA polymerase II promoter
+C3156327	regulation of lipid transport by regulation of transcription from RNA polymerase II promoter
+C3156328	regulation of lipid transport by negative regulation of transcription from RNA polymerase II promoter
+C3156329	regulation of lipid transport by positive regulation of transcription from RNA polymerase II promoter
+C3156747	mitochondrial tRNA threonylcarbamoyladenosine modification
+C3156770	mitochondrial tRNA 3'-trailer cleavage, endonucleolytic
+C3156796	mitochondrial mRNA modification
+C3156890	DNA unwinding involved in DNA replication
+C3156896	DNA-templated transcription, initiation
+C3156897	DNA-templated transcription, termination
+C3156899	DNA-templated transcription, elongation
+C3156932	regulation of methylation-dependent chromatin silencing
+C3156953	regulation of DNA-dependent DNA replication
+C3156989	regulation of mRNA modification
+C3156991	positive regulation of mRNA modification
+C3156992	negative regulation of mRNA modification
+C3157000	negative regulation of transcription from RNA polymerase II promoter in response to iron ion starvation
+C3157084	replication fork progression beyond termination site
+C3157094	selenocysteinyl-tRNA(Sec) biosynthetic process
+C3157248	negative regulation of DNA-dependent DNA replication
+C3157249	positive regulation of DNA-dependent DNA replication
+C3157289	regulation of DNA-templated transcription, initiation
+C3157290	negative regulation of DNA-templated transcription, initiation
+C3157291	positive regulation of DNA-templated transcription, initiation
+C3157407	regulation of rRNA processing
+C3157409	negative regulation of rRNA processing
+C3157411	positive regulation of rRNA processing
+C3157413	regulation of tRNA processing
+C3157414	negative regulation of tRNA processing
+C3157415	positive regulation of tRNA processing
+C3157468	regulation of DNA biosynthetic process
+C3157923	regulation of histone H3-K9 acetylation
+C3157924	negative regulation of histone H3-K9 acetylation
+C3157925	positive regulation of histone H3-K9 acetylation
+C3157927	negative regulation of histone H4-K16 acetylation
+C3157929	regulation of DNA replication termination
+C3157936	regulation of miRNA metabolic process
+C3157937	negative regulation of miRNA metabolic process
+C3157938	positive regulation of miRNA metabolic process
+C3157939	regulation of pre-miRNA processing
+C3157940	negative regulation of pre-miRNA processing
+C3157941	positive regulation of pre-miRNA processing
+C3157942	regulation of primary miRNA processing
+C3157943	negative regulation of primary miRNA processing
+C3157944	positive regulation of primary miRNA processing
+C3157945	positive regulation of gene silencing by miRNA
+C3157999	regulation of transcription regulatory region DNA binding
+C3158074	pyrimidine-containing compound salvage
+C3158117	carbon catabolite repression of transcription from RNA polymerase II promoter
+C3158118	dimethylation involved in SSU-rRNA maturation
+C3158119	endonucleolytic cleavage involved in rRNA processing
+C3158126	DNA synthesis involved in DNA repair
+C3158152	dosage compensation complex assembly involved in dosage compensation by hyperactivation of X chromosome
+C3158153	TBP-class protein binding
+C3158196	regulatory region DNA binding
+C3158197	transcription regulatory region sequence-specific DNA binding
+C3158198	RNA polymerase II regulatory region sequence-specific DNA binding
+C3158199	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+C3158200	RNA polymerase II core promoter sequence-specific DNA binding
+C3158201	RNA polymerase II distal enhancer sequence-specific DNA binding
+C3158205	bacterial-type RNA polymerase regulatory region sequence-specific DNA binding
+C3158207	bacterial-type RNA polymerase core promoter sequence-specific DNA binding
+C3158208	bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding
+C3158209	core promoter proximal region sequence-specific DNA binding
+C3158214	polymerase III regulatory region sequence-specific DNA binding
+C3158219	mitochondrial RNA polymerase core promoter sequence-specific DNA binding
+C3158220	RNA polymerase III type 1 promoter transcriptional preinitiation complex assembly
+C3158223	RNA polymerase III type 1 promoter sequence-specific DNA binding
+C3158224	RNA polymerase III type 2 promoter sequence-specific DNA binding
+C3158229	RNA polymerase III type 3 promoter sequence-specific DNA binding
+C3158232	transcription from RNA polymerase III type 2 promoter
+C3158235	RNA polymerase II regulatory region DNA binding
+C3158236	RNA polymerase I regulatory region DNA binding
+C3158237	snoRNA transcription from a type 2 RNA polymerase III promoter
+C3158238	snoRNA transcription from an RNA polymerase II promoter
+C3158239	RNA polymerase III regulatory region DNA binding
+C3158240	bacterial-type RNA polymerase regulatory region DNA binding
+C3158241	mitochondrial RNA polymerase regulatory region DNA binding
+C3158242	plastid RNA polymerase regulatory region DNA binding
+C3158243	RNA polymerase III type 3 promoter transcriptional preinitiation complex assembly
+C3158244	RNA polymerase III type 2 promoter transcriptional preinitiation complex assembly
+C3158245	transcription initiation from RNA polymerase III type 1 promoter
+C3158246	transcription initiation from RNA polymerase III type 2 promoter
+C3158247	transcription initiation from RNA polymerase III type 3 promoter
+C3158248	RNA polymerase III transcription factor binding
+C3158256	RNA polymerase III type 1 promoter DNA binding
+C3158257	RNA polymerase III type 2 promoter DNA binding
+C3158258	RNA polymerase III type 3 promoter DNA binding
+C3158262	transcription from RNA polymerase III type 3 promoter
+C3158264	transcription initiation from RNA polymerase III hybrid type promoter
+C3158265	RNA polymerase III hybrid type promoter DNA binding
+C3158267	RNA polymerase III hybrid type promoter sequence-specific DNA binding
+C3158269	transcription from a RNA polymerase III hybrid type promoter
+C3158272	RNA polymerase III hybrid type promoter transcriptional preinitiation complex assembly
+C3158273	mitochondrial RNA polymerase regulatory region sequence-specific DNA binding
+C3158274	mitochondrial RNA polymerase core promoter proximal region sequence-specific DNA binding
+C3158275	core promoter sequence-specific DNA binding
+C3158276	core promoter binding
+C3158282	plastid sigma factor activity
+C3158283	RNA polymerase IV activity
+C3158284	RNA polymerase V activity
+C3158285	transcription from RNA polymerase IV promoter
+C3158286	transcription from RNA polymerase V promoter
+C3158287	bacterial-type RNA polymerase activity
+C3158288	plastid PEP-A RNA polymerase activity
+C3158289	plastid PEP-B RNA polymerase activity
+C3158290	single subunit type RNA polymerase activity
+C3158291	mitochondrial single subunit type RNA polymerase activity
+C3158292	plastid single subunit type RNA polymerase activity
+C3158293	regulatory region nucleic acid binding
+C3158294	transcription regulatory region RNA binding
+C3158295	regulatory region RNA binding
+C3158305	nitrogen catabolite regulation of transcription from RNA polymerase II promoter
+C3158306	nitrogen catabolite activation of transcription from RNA polymerase II promoter
+C3158307	nitrogen catabolite repression of transcription from RNA polymerase II promoter
+C3158311	RNA polymerase II transcription factor binding
+C3158317	RNA polymerase II basal transcription factor binding
+C3158318	TFIIA-class transcription factor binding
+C3158319	TFIIB-class transcription factor binding
+C3158320	TFIID-class transcription factor binding
+C3158321	TFIIE-class transcription factor binding
+C3158322	TFIIF-class transcription factor binding
+C3158323	TFIIH-class transcription factor binding
+C3158326	RNA polymerase II activating transcription factor binding
+C3158327	RNA polymerase II repressing transcription factor binding
+C3158328	RNA polymerase II transcription coactivator activity
+C3158329	RNA polymerase II transcription corepressor activity
+C3158331	promoter clearance during DNA-templated transcription
+C3158333	promoter clearance from RNA polymerase III promoter
+C3158334	promoter clearance from RNA polymerase II promoter
+C3158345	transcription from bacterial-type RNA polymerase promoter
+C3158346	promoter clearance from bacterial-type RNA polymerase promoter
+C3158347	transcription initiation from bacterial-type RNA polymerase promoter
+C3158348	transcription elongation from bacterial-type RNA polymerase promoter
+C3158349	transcription termination from bacterial-type RNA polymerase promoter
+C3158352	RNA polymerase II transcription coactivator activity involved in preinitiation complex assembly
+C3158377	UFP-specific transcription factor mRNA processing involved in endoplasmic reticulum unfolded protein response
+C3158425	mitochondrial RNA polymerase termination site sequence-specific DNA binding
+C3158427	transcription termination site sequence-specific DNA binding
+C3158428	bacterial-type RNA polymerase termination site sequence-specific DNA binding
+C3158430	bacterial-type RNA polymerase enhancer sequence-specific DNA binding
+C3158434	TFIIIB-class transcription factor binding
+C3158435	TFIIIA-class transcription factor binding
+C3158436	TFIIIC-class transcription factor binding
+C3158438	enhancer sequence-specific DNA binding
+C3158439	core promoter proximal region DNA binding
+C3158440	transcription termination site DNA binding
+C3158441	intronic transcription regulatory region sequence-specific DNA binding
+C3158442	RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding
+C3158443	RNA polymerase I regulatory region sequence-specific DNA binding
+C3158444	RNA polymerase I CORE element sequence-specific DNA binding
+C3158445	RNA polymerase I upstream control element sequence-specific DNA binding
+C3158447	RNA polymerase I enhancer sequence-specific DNA binding
+C3158452	transcription, RNA-templated
+C3158460	formation of extrachromosomal circular rDNA by homologous recombination involved in replicative cell aging
+C3158461	replication of extrachromosomal rDNA circles involved in replicative cell aging
+C3158462	formation of extrachromosomal circular DNA involved in replicative cell aging
+C3158552	nuclear DNA replication
+C3158654	adenine/adenine mispair binding
+C3158655	adenine/guanine mispair binding
+C3158657	cytosine/cytosine mispair binding
+C3158658	thymine/thymine mispair binding
+C3158659	cytosine/thymine mispair binding
+C3158660	guanine/guanine mispair binding
+C3158668	cAMP response element binding
+C3158681	DNA dealkylation
+C3158683	hydrolytic DNA demethylation
+C3158684	oxidative RNA demethylation
+C3158709	carbohydrate response element binding
+C3158727	oxidative single-stranded RNA demethylation
+C3158778	tRNA methylthiolation
+C3158795	RNA stem-loop binding
+C3158796	snRNA stem-loop binding
+C3158896	interleukin-4-dependent isotype switching to IgE isotypes
+C3158940	maintenance of DNA trinucleotide repeats
+C3158947	cytoplasmic polyadenylation-dependent rRNA catabolic process
+C3159023	short tract gene conversion
+C3159024	long tract gene conversion
+C3159025	reciprocal DNA recombination
+C3159129	dosage compensation complex assembly involved in dosage compensation by hypoactivation of X chromosome
+C3159135	purine-containing compound salvage
+C3159136	DNA synthesis involved in double-strand break repair via homologous recombination
+C3159137	DNA synthesis involved in double-strand break repair via single-strand annealing
+C3159203	retinoic acid-responsive element binding
+C3159204	regulation of transcription involved in anterior/posterior axis specification
+C3159227	DNA-dependent DNA replication maintenance of fidelity
+C3268328	cytoplasmic translational elongation
+C3268329	cytoplasmic translational initiation
+C3268330	cytoplasmic translational termination
+C3268334	translation reinitiation
+C3268336	cap-independent translational initiation
+C3268337	cap-dependent translational initiation
+C3268338	IRES-dependent translational initiation
+C3268341	2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine-tRNA biosynthesis
+C3268375	tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridine biosynthesis.
+C3268376	archaeosine-tRNA biosynthetic process
+C3268413	tRNA-specific adenosine-34 deaminase activity
+C3268415	apurinic/apyrimidinic endoribonuclease activity
+C3268418	apurinic/apyrimidinic endodeoxyribonuclease activity
+C3268434	tRNA (cytosine-3-)-methyltransferase activity
+C3268534	DNA-1,N6-ethenoadenine N-glycosylase activity
+C3268535	DNA-7-methyladenine glycosylase activity
+C3268536	DNA-3-methylguanine glycosylase activity
+C3268660	23S rRNA (adenine(1618)-N(6))-methyltransferase activity
+C3268664	18S rRNA (adenine(1779)-N(6)/adenine(1780)-N(6))-dimethyltransferase activity
+C3268666	23S rRNA (adenine(2085)-N(6))-dimethyltransferase activity
+C3268670	23S rRNA (guanine(745)-N(1))-methyltransferase activity
+C3268674	23S rRNA (guanine(748)-N(1))-methyltransferase activity
+C3268676	16S rRNA (guanine(966)-N(2))-methyltransferase activity
+C3268677	16S rRNA (guanine(1207)-N(2))-methyltransferase activity
+C3268678	23S rRNA (guanine(2445)-N(2))-methyltransferase activity
+C3268679	23S rRNA (guanine(1835)-N(2))-methyltransferase activity
+C3268697	CTP:tRNA cytidylyltransferase activity
+C3268737	regulation of transcription from RNA polymerase II promoter in response to osmotic stress
+C3268738	positive regulation of transcription from RNA polymerase II promoter in response to osmotic stress
+C3268739	regulation of transcription from RNA polymerase II promoter in response to arsenic-containing substance
+C3268740	positive regulation of transcription from RNA polymerase II promoter in response to arsenic-containing substance
+C3268741	regulation of transcription from RNA polymerase II promoter in response to copper ion
+C3268742	positive regulation of transcription from RNA polymerase II promoter in response to copper ion
+C3268743	negative regulation of transcription from RNA polymerase II promoter in response to copper ion
+C3268744	positive regulation of transcription from RNA polymerase II promoter in response to cobalt ion
+C3268745	positive regulation of transcription from RNA polymerase II promoter in response to calcium ion
+C3268746	positive regulation of transcription from RNA polymerase II promoter in response to a hypotonic environment
+C3268748	positive regulation of transcription from RNA polymerase II promoter in response to nitrosative stress
+C3268749	positive regulation of transcription from RNA polymerase II promoter in response to increased salt
+C3268750	positive regulation of transcription from RNA polymerase II promoter in response to hydrostatic pressure
+C3268751	positive regulation of transcription from RNA polymerase II promoter in response to glucose starvation
+C3268752	positive regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide
+C3268753	positive regulation of transcription from RNA polymerase II promoter in response to heat stress
+C3268754	positive regulation of transcription from RNA polymerase II promoter in response to freezing
+C3268755	positive regulation of transcription from RNA polymerase II promoter in response to ethanol
+C3268757	positive regulation of transcription from RNA polymerase II promoter in response to amino acid starvation
+C3268758	regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+C3268759	positive regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+C3268760	negative regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+C3268761	regulation of transcription from RNA polymerase II promoter in response to salt stress
+C3268762	negative regulation of transcription from RNA polymerase II promoter in response to oxidative stress
+C3268763	regulation of transcription from RNA polymerase II promoter in response to hypoxia
+C3268764	positive regulation of transcription from RNA polymerase II promoter in response to hypoxia
+C3268765	regulation of transcription from RNA polymerase II promoter in response to biotin starvation
+C3268766	positive regulation of transcription by oleic acid
+C3268768	positive regulation of sodium ion transport by positive regulation of transcription from RNA polymerase II promoter
+C3268769	positive regulation of peroxisome organization by positive regulation of transcription from RNA polymerase II promoter
+C3268770	positive regulation of ethanol catabolic process by positive regulation of transcription from RNA polymerase II promoter
+C3268771	positive regulation of sulfite transport by positive regulation of transcription from RNA polymerase II promoter
+C3268772	negative regulation of ceramide biosynthetic process by negative regulation of transcription from RNA Polymerase II promoter
+C3268773	negative regulation of transcription from RNA polymerase II promoter in response to hypoxia
+C3268774	positive regulation of transcription from RNA polymerase II promoter by oleic acid
+C3268777	regulation of transcription from RNA polymerase II promoter in response to methionine
+C3268779	regulation of replicative cell aging by regulation of transcription from RNA polymerase II promoter in response to caloric restriction
+C3268780	positive regulation of transcription from a mobile element promoter
+C3268868	initiation of premeiotic DNA replication
+C3268871	meiotic DNA replication initiation
+C3268872	chromatin silencing at centromere central core
+C3268876	regulation of DNA recombination at telomere
+C3269003	negative regulation of transcription involved in G2/M transition of mitotic cell cycle
+C3269044	DNA/RNA hybrid annealing activity
+C3269046	supercoiled DNA binding
+C3269104	pre-mRNA intronic binding
+C3269105	pre-mRNA intronic pyrimidine-rich binding
+C3269153	negative regulation of transcription from RNA polymerase II promoter in response to stress
+C3269167	guanosine tetraphosphate binding
+C3269177	mitochondrial mRNA polyadenylation
+C3269190	positive regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation
+C3269193	positive regulation of transcription from RNA polymerase II promoter in response to methylglyoxal
+C3269284	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex
+C3269305	regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+C3269393	spliceosomal complex assembly
+C3269420	positive regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+C3269515	regulation of transcription from RNA polymerase II promoter involved in determination of left/right symmetry
+C3269687	plastid DNA packaging
+C3269987	positive regulation of RNA-directed RNA polymerase activity
+C3270019	regulation of DNA-directed DNA polymerase activity
+C3270154	positive regulation of DNA-directed DNA polymerase activity
+C3270273	regulation of reverse transcription
+C3270275	positive regulation of reverse transcription
+C3270278	regulation of fatty acid biosynthetic process by regulation of transcription from RNA polymerase II promoter
+C3270312	positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation
+C3270338	positive regulation of protein processing
+C3270339	negative regulation of protein processing
+C3270349	regulation of termination of RNA polymerase I transcription
+C3270351	positive regulation of termination of RNA polymerase I transcription
+C3270375	positive regulation of chromatin silencing at rDNA
+C3270390	positive regulation of transcription from RNA polymerase II promoter involved in norepinephrine biosynthetic process
+C3270393	negative regulation of cytoplasmic translation
+C3270394	positive regulation of cytoplasmic translation
+C3270406	regulation of double-strand break repair
+C3270435	regulation of termination of RNA polymerase II transcription, poly(A)-coupled
+C3270437	negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled
+C3270440	positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled
+C3270450	regulation of mRNA stability involved in response to oxidative stress
+C3270456	regulation of nucleotide-excision repair
+C3270458	negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation
+C3270475	mitochondrial RNA surveillance
+C3270723	regulation of double-strand break repair via nonhomologous end joining
+C3270867	regulation of histone H2B ubiquitination
+C3270869	positive regulation of histone H2B ubiquitination
+C3270877	regulation of histone H2B conserved C-terminal lysine ubiquitination
+C3270885	positive regulation of histone H2B conserved C-terminal lysine ubiquitination
+C3270930	regulation of transcription elongation from RNA polymerase I promoter
+C3270931	negative regulation of transcription elongation from RNA polymerase I promoter
+C3270932	positive regulation of transcription elongation from RNA polymerase I promoter
+C3271110	nucleobase-containing small molecule interconversion
+C3271178	DNA-templated transcriptional start site selection
+C3271179	transcriptional start site selection at RNA polymerase II promoter
+C3271180	transcriptional start site selection at RNA polymerase III promoter
+C3271181	transcriptional start site selection at bacterial-type RNA polymerase promoter
+C3271182	regulation of transcriptional open complex formation at RNA polymerase II promoter
+C3271183	regulation of transcriptional start site selection at RNA polymerase II promoter
+C3271184	RNA polymerase I transcription factor binding
+C3271185	transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript
+C3271187	promoter clearance from RNA polymerase I promoter
+C3271188	transcription elongation from RNA polymerase I promoter for nuclear large rRNA transcript
+C3271189	promoter clearance from RNA polymerase I promoter for nuclear large rRNA transcript
+C3271190	termination of RNA polymerase I transcription from promoter for nuclear large rRNA transcript
+C3271197	maintenance of transcriptional fidelity during DNA-templated transcription elongation
+C3271198	maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase II promoter
+C3271199	maintenance of transcriptional fidelity during DNA-templated transcription elongation from bacterial-type RNA polymerase promoter
+C3271200	maintenance of transcriptional fidelity during DNA-templated transcription elongation from RNA polymerase III promoter
+C3271201	regulation of mating-type specific transcription from RNA polymerase II promoter
+C3271202	positive regulation of mating-type specific transcription from RNA polymerase II promoter
+C3271205	negative regulation of mating-type specific transcription from RNA polymerase II promoter
+C3271217	negative regulation of chromatin silencing involved in replicative cell aging
+C3271384	mRNA 3'-UTR AU-rich region binding
+C3271401	microsatellite binding
+C3271408	mitochondrial ncRNA surveillance
+C3271409	mitochondrial mRNA surveillance
+C3271410	regulation of gluconeogenesis by regulation of transcription from RNA polymerase II promoter
+C3271411	positive regulation of gluconeogenesis by positive regulation of transcription from RNA polymerase II promoter
+C3271413	positive regulation of gluconeogenesis by negative regulation of transcription from RNA polymerase II promoter
+C3271416	regulation of oligopeptide transport by regulation of transcription from RNA polymerase II promoter
+C3271417	positive regulation of oligopeptide transport by positive regulation of transcription from RNA polymerase II promoter
+C3271418	negative regulation of oligopeptide transport by negative regulation of transcription from RNA polymerase II promoter
+C3271421	positive regulation of dipeptide transport by positive regulation of transcription from RNA polymerase II promoter
+C3271422	negative regulation of dipeptide transport by negative regulation of transcription from RNA polymerase II promoter
+C3271424	regulation of starch catabolic process by regulation of transcription from RNA polymerase II promoter
+C3271426	positive regulation of starch catabolic process by positive regulation of transcription from RNA polymerase II promoter
+C3271428	regulation of glyoxylate cycle by regulation of transcription from RNA polymerase II promoter
+C3271430	positive regulation of glyoxylate cycle by positive regulation of transcription from RNA polymerase II promoter
+C3271431	regulation of ergosterol biosynthetic process by regulation of transcription from RNA polymerase II promoter
+C3271437	positive regulation of ergosterol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3271449	regulation of sterol import by regulation of transcription from RNA polymerase II promoter
+C3271450	positive regulation of sterol import by positive regulation of transcription from RNA polymerase II promoter
+C3271468	senescence-associated heterochromatin focus assembly
+C3271486	pre-mRNA binding
+C3271488	positive regulation of transcription from RNA polymerase II promoter in response to stress
+C3271517	recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex
+C3271573	positive regulation of unsaturated fatty acid biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3271576	positive regulation of transcription from RNA polymerase II promoter in response to iron ion starvation
+C3271582	positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress
+C3271586	positive regulation of invasive growth in response to glucose limitation by positive regulation of transcription from RNA polymerase II promoter
+C3271591	mature miRNA 3'-end processing
+C3271615	double-stranded DNA-dependent ATP-dependent DNA helicase activity
+C3271621	negative regulation of transcription from RNA polymerase II promoter in response to hydrogen peroxide
+C3271666	thiamine salvage
+C3271879	suppression by virus of host mRNA processing
+C3271949	DNA excision
+C3271956	clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine
+C3271957	regulation of rRNA stability
+C3271973	sequence-specific DNA binding, bending
+C3271975	RNA polymerase II complex localization to nucleus
+C3271976	RNA polymerase II core promoter proximal region sequence-specific DNA binding, bending
+C3271977	non-sequence-specific DNA binding, bending
+C3272061	regulation of mitochondrial mRNA stability
+C3272062	regulation of mitochondrial rRNA stability
+C3272365	Break-Induced Replication
+C3537096	Translational Regulation
+C3544836	positive regulation of telomeric RNA transcription from RNA pol II promoter
+C3544851	changes to DNA methylation involved in embryo development
+C3545197	gene expression involved in extracellular matrix organization
+C3545904	positive regulation of phosphatidylserine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3545905	positive regulation of flocculation via cell wall protein-carbohydrate interaction by positive regulation of transcription from RNA polymerase II promoter
+C3545959	positive regulation of sulfate assimilation by positive regulation of transcription from RNA polymerase II promoter
+C3546019	positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter
+C3546020	positive regulation of cellular alcohol catabolic process by positive regulation of transcription from RNA polymerase II promoter
+C3546023	positive regulation of purine nucleotide biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3546036	positive regulation of DNA repair by positive regulation of transcription from RNA polymerase II promoter
+C3546371	suppression by virus of host translation initiation factor activity
+C3546411	annealing activity
+C3546492	positive regulation of transcription from RNA polymerase II promoter involved in heart development
+C3546493	negative regulation of transcription from RNA polymerase II promoter involved in heart development
+C3546649	telomeric RNA transcription
+C3546681	intrachromosomal DNA recombination
+C3546689	DNA-5-methylcytosine glycosylase activity
+C3546698	5' deoxyribonuclease (pyrimidine dimer) activity
+C3546715	RNA polymerase III complex localization to nucleus
+C3546766	negative regulation of translation in response to endoplasmic reticulum stress
+C3546851	phosphorylation of RNA polymerase II C-terminal domain involved in recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex
+C3546852	positive regulation of exoribonuclease activity
+C3546853	negative regulation of exoribonuclease activity
+C3546854	regulation of exoribonuclease activity
+C3546911	positive regulation of mitochondrial DNA metabolic process
+C3546912	negative regulation of mitochondrial DNA metabolic process
+C3546913	regulation of mitochondrial DNA metabolic process
+C3546932	regulation of RNA polymerase I regulatory region sequence-specific DNA binding
+C3546933	positive regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+C3546934	negative regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+C3546935	regulation of transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+C3547048	regulation of dipeptide transmembrane transport by regulation of transcription from RNA polymerase II promoter
+C3547111	positive regulation of tRNA methylation in response to nitrogen starvation
+C3547112	regulation of tRNA methylation in response to nitrogen starvation
+C3547132	tRNA methylation in response to nitrogen starvation
+C3547159	negative regulation of double-strand break repair via break-induced replication
+C3547160	regulation of double-strand break repair via break-induced replication
+C3547168	negative regulation of telomeric RNA transcription from RNA pol II promoter
+C3547169	regulation of telomeric RNA transcription from RNA pol II promoter
+C3547207	positive regulation of DNA demethylation
+C3547208	negative regulation of DNA demethylation
+C3547209	regulation of DNA demethylation
+C3547219	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+C3547252	positive regulation of SREBP signaling pathway by negative regulation of transcription factor catabolic process in response to decreased oxygen levels
+C3547254	negative regulation of SREBP signaling pathway by positive regulation of transcription factor catabolic process in response to increased oxygen levels
+C3547255	negative regulation of SREBP signaling pathway by positive regulation of transcription factor catabolic process
+C3547256	positive regulation of transcription factor catabolic process
+C3547257	negative regulation of transcription factor catabolic process
+C3547258	regulation of transcription factor catabolic process
+C3547327	positive regulation of phosphorylation of RNA polymerase II C-terminal domain
+C3547328	negative regulation of phosphorylation of RNA polymerase II C-terminal domain
+C3547329	regulation of phosphorylation of RNA polymerase II C-terminal domain
+C3547421	negative regulation of sterol regulatory element binding protein cleavage
+C3547436	negative regulation of double-strand break repair via single-strand annealing
+C3547468	chloroplast rRNA processing
+C3547472	nucleotide-excision repair involved in interstrand cross-link repair
+C3547482	positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus
+C3547508	regulation of transcription from RNA polymerase II promoter involved in heart development
+C3547525	positive regulation of formation of translation preinitiation complex
+C3547526	negative regulation of formation of translation preinitiation complex
+C3547527	regulation of formation of translation preinitiation complex
+C3547528	positive regulation of formation of translation initiation ternary complex
+C3547529	negative regulation of formation of translation initiation ternary complex
+C3547530	regulation of formation of translation initiation ternary complex
+C3547828	chloroplast mRNA modification
+C3547834	chloroplast RNA modification
+C3547835	mitochondrial RNA modification
+C3548121	negative regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter
+C3548122	positive regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter
+C3548123	regulation of phenotypic switching by regulation of transcription from RNA polymerase II promoter
+C3548133	negative regulation of phosphatidylserine biosynthetic process by negative regulation of transcription from RNA polymerase II promoter
+C3548169	negative regulation of G1/S transition of mitotic cell cycle by negative regulation of transcription from RNA polymerase II promoter
+C3548170	positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter
+C3548171	negative regulation of mating type switching by negative regulation of transcription from RNA polymerase II promoter
+C3548172	negative regulation of phosphatidylcholine biosynthetic process by negative regulation of transcription from RNA polymerase II promoter
+C3548173	positive regulation of phosphatidylcholine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3548174	negative regulation of inositol biosynthetic process by negative regulation of transcription from RNA polymerase II promoter
+C3548178	positive regulation of arginine biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3548179	negative regulation of arginine catabolic process by negative regulation of transcription from RNA polymerase II promoter
+C3548180	negative regulation of cellular hyperosmotic salinity response by negative regulation of transcription from RNA polymerase II promoter
+C3548181	negative regulation of cellular response to alkaline pH by negative regulation of transcription from RNA polymerase II promoter
+C3548182	negative regulation of pseudohyphal growth by negative regulation of transcription from RNA polymerase II promoter
+C3548183	positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter
+C3548184	negative regulation of invasive growth in response to glucose limitation by negative regulation of transcription from RNA polymerase II promoter
+C3548194	regulation of pyrimidine nucleotide biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3548196	negative regulation of tRNA transcription from RNA polymerase III promoter
+C3548215	regulation of cellular response to oxidative stress by regulation of transcription from RNA polymerase II promoter
+C3548222	negative regulation of transmembrane transport by negative regulation of transcription from RNA polymerase II promoter
+C3548224	regulation of fungal-type cell wall biogenesis by regulation of transcription from RNA polymerase II promoter
+C3548225	regulation of cytokinesis by regulation of transcription from RNA polymerase II promoter
+C3548226	positive regulation of phospholipid biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3548227	regulation of histone methylation by regulation of transcription from RNA polymerase II promoter
+C3548228	regulation of histone acetylation by regulation of transcription from RNA polymerase II promoter
+C3548229	regulation of histone modification by regulation of transcription from RNA polymerase II promoter
+C3548233	regulation of conjugation with cellular fusion by regulation of transcription from RNA polymerase II promoter
+C3548235	negative regulation of cellular amino acid biosynthetic process by negative regulation of transcription from RNA polymerase II promoter
+C3548236	regulation of carbohydrate metabolic process by regulation of transcription from RNA polymerase II promoter
+C3548237	regulation of meiosis by regulation of transcription from RNA polymerase II promoter
+C3548238	regulation of iron ion import by regulation of transcription from RNA polymerase II promoter
+C3548243	regulation of iron ion transport by regulation of transcription from RNA polymerase II promoter
+C3548244	regulation of transport by negative regulation of transcription from RNA polymerase II promoter
+C3548245	regulation of cAMP-mediated signaling by regulation of transcription from RNA polymerase II promoter
+C3548247	regulation of glucose import by regulation of transcription from RNA polymerase II promoter
+C3548249	negative regulation of cell-cell adhesion by negative regulation of transcription from RNA polymerase II promoter
+C3548253	regulation of thiamine biosynthetic process by regulation of transcription from RNA polymerase II promoter
+C3548258	positive regulation of inositol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+C3548259	positive regulation of mating type switching by regulation of transcription from RNA polymerase II promoter
+C3548263	positive regulation of RNA interference
+C3548265	regulation of RNA interference
+C3548268	positive regulation of mRNA polyadenylation
+C3548269	negative regulation of mRNA polyadenylation
+C3548270	regulation of mRNA polyadenylation
+C3548364	replicative transposition, DNA-mediated
+C3548365	non-replicative transposition, DNA-mediated
+C3548366	viral DNA genome packaging, 5' extended cos packaging
+C3548367	viral DNA genome packaging, 3' extended cos packaging
+C3548368	viral DNA genome packaging via site-specific sequence recognition
+C3548388	viral DNA genome packaging, headful
+C3548453	telomeric RNA transcription from RNA pol II promoter
+C3548473	NAD-dependent histone deacetylase activity (H3-K18 specific)
+C3548487	protein localization to heterochromatin
+C3548496	zymogen inhibition
+C3548515	7SK snRNA binding
+C3548527	cap2 mRNA methylation
+C3548528	cap1 mRNA methylation
+C3548583	RNA phosphodiester bond hydrolysis, exonucleolytic
+C3548584	RNA phosphodiester bond hydrolysis, endonucleolytic
+C3548585	RNA phosphodiester bond hydrolysis
+C3548681	RNA-directed DNA methylation
+C3548691	entry of viral genome into host nucleus via retainment of capsid in nuclear pore complex and release of genome into nucleoplasm
+C3548692	entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome
+C3548693	entry of viral genome into host nucleus through nuclear pore complex via importin
+C3548699	centromere clustering at the nuclear envelope
+C3548723	SAGA complex localization to transcription regulatory region
+C3548780	DNA topoisomerase type II (ATP-independent) activity
+C3548781	DNA topoisomerase II activity
+C3548782	cyclic threonylcarbamoyladenosine biosynthetic process
+C3548797	DNA replication initiation from late origin
+C3548807	cytosolic valyl-tRNA aminoacylation
+C3548862	mitotic DNA damage checkpoint
+C3548885	3'-5'-exoribonuclease activity involved in mature miRNA 3'-end processing
+C3548901	hemi-methylated DNA-binding
+C3548902	DNA methylation or demethylation
+C3548903	DNA demethylation of male pronucleus
+C3548904	protection of DNA demethylation of female pronucleus
+C3548905	chromatin reprogramming in the zygote
+C3549055	suppression by virus of host poly(A)-binding protein activity
+C3549069	RNA translocase activity involved in viral RNA genome packaging
+C3549070	DNA translocase activity involved in viral DNA genome packaging
+C3549071	RNA translocase activity
+C3549090	suppression by virus of host translation initiation factor activity by induction of host protein dephosphorylation
+C3549092	suppression by virus of host translation initiation
+C3549093	TFIIB-class transcription factor binding involved in viral suppression of host transcription initiation from RNA polymerase II promoter
+C3549094	suppression by virus of host translation
+C3549095	TBP-class protein binding involved in viral suppression of host transcription initiation from RNA polymerase II promoter
+C3549098	cleavage by virus of host mRNA
+C3549103	endoribonuclease activity involved in viral induction of host mRNA catabolic process
+C3549127	suppression by virus of host STAT1 activity by inhibition of DNA binding
+C3549219	16S rRNA (guanine(1516)-N(2))-methyltransferase activity
+C3549220	23S rRNA (adenine(2030)-N(6))-methyltransferase activity
+C3549228	non-recombinational interstrand cross-link repair
+C3549229	recombinational interstrand cross-link repair
+C3549230	interstrand cross-link repair
+C3549234	DNA rewinding
+C3549242	positive regulation of transcription factor import into nucleus in response to oxidative stress
+C3549256	RNA (guanine-N7)-methylation
+C3549260	7-methylguanosine cap hypermethylation
+C3549268	positive regulation of transcription from RNA polymerase II promoter in response to menadione
+C3549269	positive regulation of transcription from RNA polymerase II promoter in response to salt stress
+C3549309	negative regulation of histone gene expression
+C3549310	positive regulation of histone gene expression
+C3549311	regulation of histone gene expression
+C3549389	tRNA C5-cytosine methylation
+C3549390	tRNA dihydrouridine synthesis
+C3549391	tRNA m2,2-guanine biosynthesis
+C3549393	tRNA N2-guanine methylation
+C3549394	tRNA N1-guanine methylation
+C3549395	tRNA guanine ribose methylation
+C3549396	tRNA 4-thiouridine biosynthesis
+C3549405	RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription
+C3549406	RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription
+C3549407	RNA polymerase II transcription corepressor binding
+C3549408	RNA polymerase II transcription coactivator binding
+C3549409	RNA polymerase II transcription cofactor binding
+C3549410	transcription coactivator binding
+C3549411	transcription corepressor binding
+C3549412	transcription cofactor binding
+C3549413	cadmium ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription
+C3549414	copper ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription
+C3549415	metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription
+C3549416	sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in negative regulation of transcription
+C3549417	sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in positive regulation of transcription
+C3549418	metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in positive regulation of transcription
+C3549419	metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in negative regulation of transcription
+C3549420	metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription
+C3549421	zinc ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription
+C3549422	copper ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in positive regulation of transcription
+C3549423	metal ion regulated sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription
+C3549424	metal ion regulated sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription
+C3549425	metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity
+C3549426	metal ion regulated sequence-specific DNA binding transcription factor activity
+C3820547	nucleoid DNA packaging
+C3820548	bacterial nucleoid DNA packaging
+C3820574	conversion of ds siRNA to ss siRNA
+C3820587	regulation of tRNA stability
+C3820588	tRNA stabilization
+C3820589	tRNA destabilization
+C3820619	polyuridylation-dependent decapping of nuclear-transcribed mRNA
+C3820621	cap mRNA methylation
+C3820622	transitive RNA interference
+C3820675	modulation by virus of host gene expression
+C3820677	suppression by virus of host gene expression
+C3820712	rolling circle viral DNA replication
+C3820713	rolling circle double-stranded viral DNA replication
+C3820714	rolling circle single-stranded viral DNA replication
+C3820715	rolling hairpin viral DNA replication
+C3820716	bidirectional double-stranded viral DNA replication
+C3820717	viral DNA strand displacement replication
+C3820718	viral double stranded DNA replication via reverse transcription
+C3820720	negative stranded viral RNA replication
+C3820721	positive stranded viral RNA replication
+C3820723	double stranded viral RNA replication
+C3820724	viral DNA genome replication
+C3820726	DNA-templated viral transcription
+C3820727	RNA-templated viral transcription
+C3820728	negative stranded viral RNA transcription
+C3820737	viral translational readthrough
+C3820762	G1 DNA damage checkpoint
+C3820783	G-quadruplex DNA unwinding
+C3820797	mitotic telomere tethering at nuclear periphery
+C3820798	meiotic telomere tethering at nuclear periphery
+C3820799	poly(A) RNA binding
+C3820801	retroviral 3' processing activity
+C3820805	negative regulation by host of viral genome replication
+C3820806	positive regulation by host of viral genome replication
+C3820807	modulation by host of viral RNA genome replication
+C3820944	transfer RNA gene-mediated silencing
+C3820968	pri-miRNA transcription from RNA polymerase II promoter
+C3820984	RNA polymerase II sequence-specific DNA binding transcription factor binding
+C3821007	IRES-dependent viral translational initiation
+C3821008	viral translational frameshifting
+C3821012	viral RNA editing
+C3821054	dsDNA loop formation
+C3821098	deaminated base DNA N-glycosylase activity
+C3821099	hypoxanthine DNA N-glycosylase activity
+C3821100	xanthine DNA N-glycosylase activity
+C3821102	oxanine DNA N-glycosylase activity
+C3821104	base-excision repair, AP site formation via deaminated base removal
+C3821146	chromatin organization involved in negative regulation of transcription
+C3821147	mitochondrial double-strand break repair
+C3821148	mitochondrial double-strand break repair via homologous recombination
+C3821221	DNA dephosphorylation
+C3821222	DNA 3' dephosphorylation
+C3821223	DNA 3' dephosphorylation involved in DNA repair
+C3821224	G-rich strand telomeric DNA binding
+C3821248	positive regulation of strand invasion
+C3821251	direct ligand regulated sequence-specific DNA binding transcription factor activity
+C3821418	regulation of transcription from RNA polymerase II promoter involved in spermatogenesis
+C3821479	positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium
+C3821654	positive regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator
+C3821962	cell cycle DNA replication DNA ligation
+C3821963	cell cycle DNA replication initiation
+C3821966	cell cycle DNA replication termination
+C3821967	synthesis of RNA primer involved in cell cycle DNA replication
+C3821969	DNA strand elongation involved in cell cycle DNA replication
+C3821971	cell cycle DNA replication DNA unwinding
+C3821974	cell cycle DNA replication maintenance of fidelity
+C3822006	nuclear cell cycle DNA replication initiation
+C3822009	nuclear DNA replication termination
+C3822011	synthesis of RNA primer involved in nuclear cell cycle DNA replication
+C3822015	DNA strand elongation involved in nuclear cell cycle DNA replication
+C3822017	nuclear DNA replication DNA duplex unwinding
+C3822045	bacterial-type DNA replication DNA ligation
+C3822046	bacterial-type DNA replication initiation
+C3822049	bacterial-type DNA replication termination
+C3822050	synthesis of RNA primer involved in bacterial-type DNA replication
+C3822052	DNA strand elongation involved in bacterial-type DNA replication
+C3822053	bacterial-type DNA replication DNA duplex unwinding
+C3822054	nuclear DNA replication DNA ligation
+C3822086	negative regulation of chromosome condensation
+C3822097	meiotic strand displacement involved in double-strand break repair via SDSA
+C3822114	negative regulation of filamentous growth of a population of unicellular organisms in response to starvation by negative regulation of transcription from RNA polymerase II promoter
+C3822115	positive regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter by pheromones
+C3822122	conversion of ds siRNA to ss siRNA involved in chromatin silencing by small RNA
+C3822172	nuclear tRNA 3'-trailer cleavage, endonucleolytic
+C3822772	negative regulation of leucine import by regulation of transcription from RNA polymerase II promoter
+C3822813	negative regulation of DNA replication origin binding
+C3822890	negative regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter
+C3822891	assembly of large subunit precursor of preribosome
+C3822908	regulation of mRNA stability involved in cellular response to UV
+C3823031	protein localization to nuclear pericentric heterochromatin
+C3823291	heterochromatin island assembly
+C3823292	heterochromatin domain assembly
+C3823293	regulation of snoRNA processing
+C3823294	negative regulation of snoRNA processing
+C3823296	positive regulation of snoRNA processing
+C3823618	regulation of pri-miRNA transcription from RNA polymerase II promoter
+C3823619	negative regulation of pri-miRNA transcription from RNA polymerase II promoter
+C3823621	positive regulation of pri-miRNA transcription from RNA polymerase II promoter
+C3823628	positive regulation of transcription from RNA polymerase II promoter involved in stress response to cadmium ion
+C3824015	mitotic DNA replication
+C3824019	mitotic DNA replication DNA duplex unwinding
+C3824022	mitotic DNA replication DNA ligation
+C3824024	mitotic DNA replication initiation
+C3824028	mitotic DNA replication termination
+C3824030	synthesis of RNA primer involved in mitotic DNA replication
+C3824032	DNA strand elongation involved in mitotic DNA replication
+C3824053	meiotic telomere maintenance via semi-conservative replication
+C3824057	mitotic telomere maintenance via semi-conservative replication
+C3824186	regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+C3824197	polyuridylation-dependent mRNA catabolic process
+C3824249	messenger ribonucleoprotein complex assembly
+C3824278	chromatin silencing at centromere outer repeat region
+C3824297	protein localization to telomeric heterochromatin
+C3824312	ATP-dependent four-way junction helicase activity
+C3824315	single-strand break-containing DNA binding
+C3824328	phosphodiesterase decapping endonuclease activity
+C3824336	mitochondrial tRNA 3'-end processing
+C3824348	euchromatin binding
+C3824354	cytoplasmic U snRNP body assembly
+C3824438	double-stranded DNA endodeoxyribonuclease activity
+C3824449	N6-methyladenosine-containing RNA binding
+C3824463	negative regulation of transcription from RNA polymerase II promoter by transcription factor localization involved in response to DNA damage checkpoint signaling
+C3824464	pre-mRNA catabolic process
+C3824611	regulation of DNA replication origin binding
+C3824627	Plant genetic regulation
+C3824713	Biological fitness
+C3824870	Epistasis (Genetics)
+C3824960	Genotype-environment interaction
+C3825087	Fungal gene expression
+C3825149	Fibrinogen polymorphisms
+C3825184	Evolution (Biology)
+C3825633	Sterility in plants
+C3825683	Sex determination, Genetic
+C3825810	Polarity (Biology)
+C3825934	Mutation (Biology)
+C3826395	Epigenesis
+C3826519	Conjugation (Biology)
+C3830412	DNA Hydroxymethylation
+C3893239	formation of cytoplasmic translation initiation complex
+C3893241	tRNA threonylcarbamoyladenosine modification
+C3893334	negative regulation of translation initiation in response to endoplasmic reticulum stress
+C3893363	nonrepetitive DNA condensation
+C3893402	positive regulation of transcription from RNA polymerase II promoter in response to acidic pH
+C3893403	positive regulation of transcription from RNA polymerase II promoter in response to alkaline pH
+C3893418	CENP-A containing chromatin organization
+C3893435	gap filling involved in double-strand break repair via nonhomologous end joining
+C3893478	tRNA m6t6A37 methyltransferase activity
+C3893497	DNA synthesis involved in DNA replication
+C3893519	mitochondrial mRNA processing
+C3893520	mitochondrial mRNA 3'-end processing
+C3893521	mitochondrial mRNA 5'-end processing
+C3893530	endoribonuclease activity, cleaving miRNA-paired mRNA
+C3893531	mRNA cleavage involved in gene silencing by siRNA
+C3893535	lagging strand initiation
+C3893539	CENP-A containing nucleosome binding
+C3893573	cytoplasmic translational elongation through polyproline stretches
+C3893611	nucleic acid-templated transcription
+C3893632	double-strand break repair via classical nonhomologous end joining
+C3893633	double-strand break repair via alternative nonhomologous end joining
+C3893730	ncRNA transcription
+C3893742	positive regulation of sodium ion transport by transcription from RNA polymerase II promoter
+C3893743	positive regulation of peroxisome organization by transcription from RNA polymerase II promoter
+C3893744	positive regulation of ethanol catabolic process by transcription from RNA polymerase II promoter
+C3893745	positive regulation of sulfite transport by transcription from RNA polymerase II promoter
+C3893746	negative regulation of ceramide biosynthetic process by transcription from RNA polymerase II promoter
+C3893752	positive regulation of fatty acid beta-oxidation by transcription from RNA polymerase II promoter
+C3893753	positive regulation of mating type switching by transcription from RNA polymerase II promoter
+C3893754	positive regulation of inositol biosynthetic process by transcription from RNA polymerase II promoter
+C3893755	regulation of thiamine biosynthetic process by transcription from RNA polymerase II promoter
+C3893756	negative regulation of cell-cell adhesion by transcription from RNA polymerase II promoter
+C3893757	regulation of glucose import by transcription from RNA polymerase II promoter
+C3893758	regulation of cAMP-mediated signaling by transcription from RNA polymerase II promoter
+C3893759	regulation of transport by transcription from RNA polymerase II promoter
+C3893760	regulation of iron ion transport by transcription from RNA polymerase II promoter
+C3893761	regulation of iron ion import by transcription from RNA polymerase II promoter
+C3893762	regulation of meiotic nuclear division by transcription from RNA polymerase II promoter
+C3893763	regulation of carbohydrate metabolic process by transcription from RNA polymerase II promoter
+C3893764	negative regulation of cellular amino acid biosynthetic process by transcription from RNA polymerase II promoter
+C3893765	positive regulation of DNA repair by transcription from RNA polymerase II promoter
+C3893766	regulation of cell separation after cytokinesis by transcription from RNA polymerase II promoter
+C3893767	regulation of conjugation with cellular fusion by transcription from RNA polymerase II promoter
+C3893768	regulation of histone modification by transcription from RNA polymerase II promoter
+C3893769	regulation of histone acetylation by transcription from RNA polymerase II promoter
+C3893770	regulation of histone methylation by transcription from RNA polymerase II promoter
+C3893771	positive regulation of phospholipid biosynthetic process by transcription from RNA polymerase II promoter
+C3893772	regulation of fungal-type cell wall biogenesis by transcription from RNA polymerase II promoter
+C3893773	regulation of 4,6-pyruvylated galactose residue biosynthetic process by transcription from RNA polymerase II promoter
+C3893774	negative regulation of transmembrane transport by transcription from RNA polymerase II promoter
+C3893775	positive regulation of purine nucleotide biosynthetic process by transcription from RNA polymerase II promoter
+C3893776	positive regulation of cellular alcohol catabolic process by transcription from RNA polymerase II promoter
+C3893777	regulation of cellular response to oxidative stress by transcription from RNA polymerase II promoter
+C3893778	regulation of pyrimidine nucleotide biosynthetic process by transcription from RNA polymerase II promoter
+C3893779	negative regulation of invasive growth in response to glucose limitation by transcription from RNA polymerase II promoter
+C3893780	positive regulation of pseudohyphal growth by transcription from RNA polymerase II promoter
+C3893781	negative regulation of pseudohyphal growth by transcription from RNA polymerase II promoter
+C3893782	negative regulation of cellular response to alkaline pH by transcription from RNA polymerase II promoter
+C3893783	negative regulation of cellular hyperosmotic salinity response by transcription from RNA polymerase II promoter
+C3893784	negative regulation of arginine catabolic process by transcription from RNA polymerase II promoter
+C3893785	positive regulation of arginine biosynthetic process by transcription from RNA polymerase II promoter
+C3893786	negative regulation of inositol biosynthetic process by transcription from RNA polymerase II promoter
+C3893787	positive regulation of phosphatidylcholine biosynthetic process by transcription from RNA polymerase II promoter
+C3893788	negative regulation of phosphatidylcholine biosynthetic process by transcription from RNA polymerase II promoter
+C3893789	negative regulation of mating type switching by transcription from RNA polymerase II promoter
+C3893790	positive regulation of meiotic nuclear division by transcription from RNA polymerase II promoter
+C3893791	negative regulation of G1/S transition of mitotic cell cycle by transcription from RNA polymerase II promoter
+C3893792	positive regulation of sulfate assimilation by transcription from RNA polymerase II promoter
+C3893793	positive regulation of flocculation via cell wall protein-carbohydrate interaction by transcription from RNA polymerase II promoter
+C3893794	positive regulation of phosphatidylserine biosynthetic process by transcription from RNA polymerase II promoter
+C3893795	negative regulation of phosphatidylserine biosynthetic process by transcription from RNA polymerase II promoter
+C3893796	regulation of phenotypic switching by transcription from RNA polymerase II promoter
+C3893797	positive regulation of phenotypic switching by transcription from RNA polymerase II promoter
+C3893798	negative regulation of phenotypic switching by transcription from RNA polymerase II promoter
+C3893799	negative regulation of SREBP signaling pathway by DNA binding
+C3893802	regulation of dipeptide transmembrane transport by transcription from RNA polymerase II promoter
+C3893803	negative regulation of filamentous growth of a population of unicellular organisms in response to starvation by transcription from RNA polymerase II promoter
+C3893804	negative regulation of leucine import by transcription from RNA polymerase II promoter
+C3893805	negative regulation of induction of conjugation with cellular fusion by transcription from RNA polymerase II promoter
+C3893807	positive regulation of pyrimidine-containing compound salvage by transcription from RNA polymerase II promoter
+C3893808	negative regulation of neuron apoptotic process by transcription from RNA polymerase II promoter
+C3893809	regulation of fatty acid biosynthetic process by transcription from RNA polymerase II promoter
+C3893810	regulation of cell separation after cytokinesis by regulation of transcription from RNA polymerase II promoter
+C3893904	regulation of transcription from mitochondrial promoter
+C3893907	negative regulation of single-strand break repair via homologous recombination
+C3893908	positive regulation of single-strand break repair via homologous recombination
+C3894025	mitotic recombination involved in replication fork processing
+C3894026	protein localization to mating-type region heterochromatin
+C3894027	protein localization to subtelomeric heterochromatin
+C3894033	negative regulation of protein processing involved in protein targeting to mitochondrion
+C3894054	mRNA binding involved in posttranscriptional gene silencing
+C3894064	U2-type prespliceosome assembly
+C3894192	regulation of mRNA metabolic process
+C3894193	negative regulation of mRNA metabolic process
+C3894195	positive regulation of mRNA metabolic process
+C3894199	regulation of protein maturation
+C3894200	negative regulation of protein maturation
+C3894201	positive regulation of protein maturation
+C3894205	regulation of snoRNA metabolic process
+C3894206	negative regulation of snoRNA metabolic process
+C3894207	positive regulation of snoRNA metabolic process
+C3894208	regulation of tRNA metabolic process
+C3894209	negative regulation of tRNA metabolic process
+C3894210	positive regulation of tRNA metabolic process
+C3894319	regulation of transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript
+C3894494	RNA interference involved in olfactory learning
+C3894500	mitotic DNA replication lagging strand elongation
+C3894501	mitotic DNA replication leading strand elongation
+C3894502	Okazaki fragment processing involved in mitotic DNA replication
+C3894508	regulation of mitotic DNA replication initiation
+C3894509	negative regulation of mitotic DNA replication initiation
+C3894510	positive regulation of DNA replication initiation
+C3894512	removal of RNA primer involved in mitotic DNA replication
+C3894570	regulation of nucleic acid-templated transcription
+C3894571	negative regulation of nucleic acid-templated transcription
+C3894572	positive regulation of nucleic acid-templated transcription
+C3894581	regulation of single strand break repair
+C3894582	negative regulation of single strand break repair
+C3894583	positive regulation of single strand break repair
+C3894841	regulation of RNA polymerase III activity
+C3894843	negative regulation of RNA polymerase III activity
+C3894886	regulation of recombination hotspot binding
+C3894913	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter
+C3894914	phosphorylation of RNA polymerase II C-terminal domain serine 2 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter
+C3894950	positive regulation of cap-dependent translational initiation
+C3894955	positive regulation of cap-independent translational initiation
+C3894999	negative regulation of production of siRNA involved in RNA interference
+C3895004	positive regulation of production of siRNA involved in RNA interference
+C3895036	positive regulation of centriole elongation
+C3895186	regulation of DNA double-strand break processing
+C3895221	regulation of production of miRNAs involved in gene silencing by miRNA
+C3895225	negative regulation of production of miRNAs involved in gene silencing by miRNA
+C3895235	positive regulation of production of miRNAs involved in gene silencing by miRNA
+C3895280	telomere single strand break repair
+C3895354	P granule assembly
+C3895625	regulation of protein processing in phagocytic vesicle
+C3895635	positive regulation of protein processing in phagocytic vesicle
+C3895856	positive regulation of pyrimidine-containing compound salvage by positive regulation of transcription from RNA polymerase II promoter
+C3896067	positive regulation of transcription from RNA polymerase II promoter involved in neuron fate specification
+C3896074	positive regulation of transcription from RNA polymerase II promoter involved in neuron differentiation
+C3896092	negative regulation of neuron apoptotic process by negative regulation of transcription from RNA polymerase II promoter
+C3896153	single-strand break repair via homologous recombination
+C3896161	mitochondrial ribosomal large subunit rRNA binding
+C3896176	replication-born double-strand break repair via sister chromatid exchange
+C3896179	snoRNA release from pre-rRNA
+C3896187	homologous recombination-dependent replication fork processing
+C3896194	priRNA 3'-end processing
+C3896195	siRNA 3'-end processing
+C3896200	snRNA 2'-O-methylation
+C3896201	U6 2'-O-snRNA methylation
+C3896250	piRNA cluster binding
+C3896251	piRNA uni-strand cluster binding
+C3896252	piRNA dual-strand cluster binding
+C3896260	mRNA pseudouridine synthesis
+C3896287	mitotic DNA replication maintenance of fidelity
+C3896292	piRNA biosynthetic process
+C3896295	5' transitive RNA interference
+C3896296	3' transitive RNA interference
+C3896297	ribonucleotide excision repair
+C3896299	single-stranded DNA-dependent ATP-dependent 3'-5' DNA helicase activity
+C3896384	3' overhang single-stranded DNA endodeoxyribonuclease activity
+C3896386	5' overhang single-stranded DNA endodeoxyribonuclease activity
+C3896391	GU repeat RNA binding
+C3896414	negative regulation of cytoplasmic translational initiation in response to stress
+C3896524	mRNA CDS binding
+C4022975	Autosomal dominant inheritance with maternal imprinting
+C4023613	Gonosomal inheritance
+C4023614	Digenic inheritance
+C4025764	Male-limited autosomal dominant
+C4025765	Familial predisposition
+C4025767	Sex-limited autosomal dominant
+C4025781	Autosomal dominant somatic cell mutation

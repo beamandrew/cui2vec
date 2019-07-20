@@ -1,0 +1,1426 @@
+CUI_Cause	CUI_Result	Cause	Result
+C0013100	C0344028	Infection by Dracunculus medinensis	Guinea-worm ulcer
+C0456014	C3697681	Newborn ingestion of maternal blood	Hematemesis of newborn due to swallowed maternal blood
+C0443128	C3164903	Anomalous cardiac muscle bands	Right ventricular outflow tract obstruction due to abnormal cardiac muscle bands
+C0030286	C1274773	Disorder of pancreas	Panniculitis secondary to pancreatic disease
+C0028064	C0342824	Sphingomyelin/cholesterol lipidosis	Cerebral degeneration in Niemann-Pick disease
+C2939175	C2939175	Meconium ileus	Meconium ileus
+C0041466	C4041099	Typhoid fever	Cardiac disorder due to typhoid fever
+C0032807	C3698280	Postphlebitic syndrome	Ulcer of lower extremity due to postphlebitic syndrome
+C0033860	C0406325	Psoriasis	Psoriatic onycholysis
+C0079924	C0411161	Oligohydramnios	Fetal or neonatal effect of maternal oligohydramnios
+C0424990	C2366909	Disability - severe	complete immobility due to severe physical disability
+C0030360	C4039454	Papillon-Lefèvre syndrome	Periodontitis due to Papillon-Lefèvre syndrome
+C0339166	C0339166	Gonococcal conjunctivitis	Gonococcal conjunctivitis
+C0041234	C4039008	Infection by Trypanosoma cruzi	Meningoencephalitis due to Chagas disease
+C0041234	C4041356	Infection by Trypanosoma cruzi	Meningitis due to Chagas disease
+C1285424	C0277663	Self-administered poisoning	Suicide by self-administered drug
+C0041330	C0275923	Tuberculosis of vertebral column	Pott's curvature
+C0406393	C0406390	Sarcoidosis in scar	Sarcoidosis-induced erythema nodosum
+C0017155	C4039183	Hypertrophic gastropathy	Gastric hemorrhage due to hypertrophic gastritis
+C0151942	C0242129	Arterial thrombosis	Thrombotic stroke
+C0039131	C3838987	Congenital syphilis	Hypoplasia of enamel due to congenital syphilis
+C0344700	C3164908	Prolapse of Eustachian valve	Left ventricular outflow tract obstruction due to prolapse of Eustachian valve
+C0017154	C4040815	Atrophic gastritis	Gastric hemorrhage due to atrophic gastritis
+C0233623	C1274905	Onychotillomania	Nail dystrophy due to nail picking
+C0020732	C0473954	Iatrogenic disorder	Preoperative anesthetic death
+C0020732	C2047871	Iatrogenic disorder	iatrogenic drug-induced hypotension
+C0020635	C0271925	Hypopituitarism	Anemia of pituitary deficiency
+C1306041	C4040536	Complete miscarriage	Female genital tract infection due to complete miscarriage
+C0003873	C2317001	Rheumatoid arthritis	Deformity of foot due to rheumatoid arthritis
+C0003873	C4041539	Rheumatoid arthritis	Deformity of hand due to rheumatoid arthritis
+C0266425	C1532324	Congenital hypoplasia of testis	Infertility due to testicular hypoplasia
+C1299474	C1532655	Injury due to laser	Dry eye after laser in situ keratomileusis
+C0043352	C4041393	Reduced salivation	Xerostomia due to hyposecretion of salivary gland
+C1299471	C2049905	Infection due to Mycobacterium avium-intracellulare group	infectious diarrhea of HIV patient due to Mycobacterium avium complex
+C0020639	C3838714	Hypoproteinemia	Pulmonary edema due to hypoproteinemia
+C0340865	C0403364	Anaphylactoid reaction	Anaphylactoid glomerulonephritis
+C0042946	C2230100	Volcanic eruption	exposure to volcanic ash
+C0267672	C4041119	Bilateral inguinal hernia	Intestinal obstruction due to bilateral inguinal hernia
+C0273999	C0413311	Burn of chest wall	Asphyxia by circumferential chest wall burns
+C0024530	C0343776	Malarial fever	Hyperimmune malarious splenomegaly
+C0221359	C3532078	Anomalous origin of coronary artery	Cardiovascular abnormality due to anomalous origin of coronary artery orifice
+C0684336	C2063827	Impairment	male hypoactive sexual desire due to physical condition
+C3495556	C3495558	Deficiency of aminoacyl-histidine dipeptidase	Carnosinuria
+C0019693	C3854116	Human immunodeficiency virus infection	Lipodystrophy due to Human immunodeficiency virus infection and antiretroviral therapy
+C1636148	C0416082	Galley machinery accident in water transport	Injury in water transport caused by galley machinery, occupant of small unpowered boat injured
+C0344709	C3532304	Right atrial dilatation	Obstruction of pulmonary great vein due to compression by right atrial dilatation
+C0038019	C0393416	Spondylosis	Myelopathy due to spondylosis
+C2939419	C0339399	Secondary malignant neoplastic disease	Metastatic disseminated retinitis
+C3494780	C2882381	Embolism of middle cerebral artery	Cerebral infarction due to embolism of middle cerebral artery
+C0028790	C0393951	Cerebral artery occlusion	CVA - cerebrovascular accident due to cerebral artery occlusion
+C0028790	C1400505	Cerebral artery occlusion	Cerebral infarction due to cerebral artery occlusion
+C0034734	C4041279	Raynaud's disease	Gangrene due to Raynaud disease
+C1690021	C0415765	Accident to watercraft involving collision	Injury caused by watercraft accident involving collision, occupant of small powered boat injured
+C0029944	C0558442	Drug overdose	Drug overdose - suicide
+C1644178	C0580008	Perinatal asphyxiation	Mild to moderate birth asphyxia - apgar score 4-7 at 1 minute
+C0017658	C1285378	Glomerulonephritis	Nephrotic syndrome secondary to glomerulonephritis
+C0001973	C0272023	Persistent alcohol abuse	Non megaloblastic anemia due to alcoholism
+C1636653	C0684899	Allergic reaction to grass pollen	Allergic rhinitis due to grass pollens
+C0744273	C4038767	Angiodysplasia of stomach	Gastric hemorrhage due to angiodysplasia of stomach
+C1290884	C3697842	Inflammatory disorder	Lymphedema due to inflammatory disease
+C1290884	C4039006	Inflammatory disorder	Neuropathy of upper limb due to inflammatory disease
+C1290884	C4039352	Inflammatory disorder	Peripheral neuropathy due to inflammation
+C0004044	C0277618	Suffocating	Death by asphyxiation
+C0038454	C2711270	Cerebrovascular accident	Infarct of cerebrum due to iatrogenic cerebrovascular accident
+C0701836	C1274797	Thermal burn	Oral ulceration due to thermal burn
+C0271688	C0271687	Insulin biosynthesis defect	Diabetes mellitus due to structurally abnormal insulin
+C3661858	C3839259	Ruptured aneurysm of vertebral artery	Subarachnoid hemorrhage from vertebral artery aneurysm
+C0400930	C4039235	Chronic hepatic failure	Hepatic coma due to chronic hepatic failure
+C0011633	C4040695	Dermatomyositis	Disorder of respiratory system due to dermatomyositis
+C0031046	C3698305	Pericarditis	Chest pain due to pericarditis
+C1301659	C0277620	Airway trauma	Asphyxiation by injury to air passages
+C0312434	C0001207	Increased hormone secretion	Hypersomatotropic gigantism
+C0312435	C0221405	Decreased hormone secretion	Pituitary cachexia
+C0149985	C0275836	Secondary syphilis	Secondary syphilitic uveitis
+C0281899	C0263867	Prolapsed lumbar intervertebral disc	Neuritis AND/OR radiculitis due to displacement of lumbar intervertebral disc
+C0018674	C0475592	Injury of head	Subarachnoid hemorrhage due to birth injury
+C0018674	C3495017	Injury of head	Post-traumatic epilepsy, refractory
+C0018674	C3495018	Injury of head	Post-traumatic epilepsy, non-refractory
+C0401075	C4038745	Bilateral recurrent irreducible inguinal hernia	Intestinal obstruction due to bilateral recurrent irreducible inguinal hernia
+C0349696	C2585749	Aspiration into lower respiratory tract	Postoperative aspiration pneumonia
+C0349696	C4023111	Aspiration into lower respiratory tract	Acute aspiration pneumonia
+C0026769	C3697908	Generalized multiple sclerosis	Dementia due to multiple sclerosis with altered behavior
+C0026769	C4047684	Generalized multiple sclerosis	Congitive impairment due to multiple sclerosis
+C0026769	C4047687	Generalized multiple sclerosis	Functional quadriplegia due to multiple sclerosis
+C1273758	C0339598	Pupillary block	Secondary angle-closure glaucoma with pupillary block
+C0026916	C2049906	Infection due to Mycobacterium intracellulare	infectious diarrhea of HIV patient due to Mycobacterium intracellulare
+C0023434	C0242310	Chronic lymphoid leukemia, disease	Mu heavy chain disease
+C0034951	C1300576	Disorder of refraction	Isometropic amblyopia
+C0021345	C4039274	Gammaherpesviral mononucleosis	Meningitis due to infectious mononucleosis
+C0021345	C4041269	Gammaherpesviral mononucleosis	Polyneuropathy due to infectious mononucleosis
+C0026850	C1997904	Hereditary progressive muscular dystrophy	Restrictive lung disease due to muscular dystrophy
+C0425045	C0436677	Sudden infant death	O/E - dead - cot death
+C0425045	C1837371	Sudden infant death	Sudden infant death with dysgenesis of testes syndrome
+C1639215	C0684898	Allergic reaction to tree pollen	Allergic rhinitis due to tree pollens
+C0019196	C3874306	Viral hepatitis C	Glomerulonephritis due to hepatitis C
+C0588233	C4040747	Septicemia due to enterococcus	Severe sepsis with acute organ dysfunction due to Enterococcus
+C0393386	C2903042	Radiation therapy complication	Oligospermia due to radiation
+C1641584	C0415926	Fall on watercraft due to accident involving craft	Injury in fall on watercraft due to accident involving craft
+C0015408	C0411080	Ocular Injury	Traumatic glaucoma due to birth trauma
+C0015959	C0411135	Fetal-maternal hemorrhage	Fetal or neonatal effect of fetomaternal transplacental transfusion
+C0003850	C3250392	Vascular sclerosis	arteriosclerotic leukoencephalopathy
+C0409974	C3839411	Lupus erythematosus	Discoid lupus erythematosus of lower eyelid
+C0040261	C1274517	Onychomycosis due to dermatophyte	Onycholysis due to fungal infection of nail
+C0348834	C3536592	Occlusion and stenosis of anterior cerebral artery	Cerebral infarction due to anterior cerebral artery occlusion
+C0023794	C1689951	Lipid storage disease	Cerebral degeneration associated with generalized lipidosis
+C1969809	C2919702	Deficiency of isobutyryl-CoA dehydrogenase	Isobutyrylglycinuria
+C0399352	C1290675	Total anodontia of permanent and deciduous teeth	Supereruption of unopposed tooth
+C0015406	C3250136	Parasitic eye infection	retinal cysts parasitic
+C0011849	C3872441	Diabetes mellitus	Proliferative diabetic retinopathy following surgery
+C0267383	C4038587	Crohn's disease of small AND large intestines	Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine
+C0267383	C4039578	Crohn's disease of small AND large intestines	Fistula of intestine due to Crohn's disease of small and large intestine
+C0267383	C4040005	Crohn's disease of small AND large intestines	Rectal hemorrhage due to Crohn's disease of small and large intestines
+C0267383	C4040903	Crohn's disease of small AND large intestines	Intestinal obstruction due to Crohn's disease of small and large intestine
+C0267383	C4041477	Crohn's disease of small AND large intestines	Complication due to Crohn's disease of small and large intestines
+C1531846	C0266622	Congenital failure of fusion between maxillary and mandibular processes	Bilateral congenital macrostomia
+C0473462	C0411113	Abnormality of forces of labor	Fetal or neonatal effect of uterine inertia or dysfunction
+C0473462	C3662224	Abnormality of forces of labor	Fetal or neonatal effect of abnormal uterine contractions
+C0473462	C3662235	Abnormality of forces of labor	Fetal or neonatal effect of hypertonic labor
+C3249882	C2049904	Infection due to Mycobacterium avium	infectious diarrhea of HIV patient due to Mycobacterium avium
+C3495604	C3698436	Atherosclerosis of native arteries of the extremities	Limb pain at rest due to atherosclerosis of native artery
+C3495604	C4039211	Atherosclerosis of native arteries of the extremities	Ischemic midfoot ulcer due to atherosclerosis of native artery of limb
+C3495604	C4039721	Atherosclerosis of native arteries of the extremities	Ischemic foot ulcer due to atherosclerosis of native artery of limb
+C3495604	C4040116	Atherosclerosis of native arteries of the extremities	Ulcer of heel due to atherosclerosis of native artery of limb
+C3495604	C4040586	Atherosclerosis of native arteries of the extremities	Ulcer of calf due to atherosclerosis of native artery of limb
+C3495604	C4041535	Atherosclerosis of native arteries of the extremities	Ulcer of ankle due to atherosclerosis of native artery of limb
+C0241955	C1655386	Jellyfish sting	Irukandji syndrome
+C0158262	C3532521	Degeneration of cervical intervertebral disc	Cervical discogenic pain
+C0343938	C2830236	Extracutaneous sporotrichosis	Sporotrichosis arthritis
+C0302898	C2063804	Substance type unknown	sexual dysfunction due to unspecified substance
+C0582882	C3872552	Occlusal trauma	Failure of osseointegration of dental implant due to occlusal trauma caused by poor prosthetic design
+C0034065	C2711829	Pulmonary embolism	Infarction of lung due to iatrogenic pulmonary embolism
+C0034065	C3494995	Pulmonary embolism	Infarction of lung due to embolus
+C0013926	C0274445	Air embolus	Transfusion reaction due to air embolism
+C1628965	C0417903	Accidental collision between swimmers	Injury in accidental collision between swimmers
+C0013922	C3532282	Embolism	Cerebrovascular disorder due to paradoxical embolus
+C0001733	C4039186	Fibrinogen deficiency	Placental abruption due to afibrinogenemia
+C0405107	C3697044	Morbidly adherent placenta	Retained placenta due to morbidly adherent placenta
+C0349600	C0349444	Ruptured aneurysm of posterior inferior cerebellar artery	Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm
+C1320320	C3838765	Blastomyces infection of central nervous system	Meningoencephalitis due to Blastomyces dermatitidis
+C0267157	C4039037	Irritant gastritis	Gastric hemorrhage due to irritant gastritis
+C0042170	C1274712	Vogt-Koyanagi-Harada disease	Poliosis in Vogt-Koyanagi-Harada syndrome
+C0149678	C2063087	Epstein-Barr virus disease	Epstein-Barr encephalomyelitis
+C0236642	C1399562	Pick's disease	Dementia due to Pick's disease
+C0038379	C0750903	Heterotropia	Strabismic amblyopia
+C0339309	C0339588	Congenital anomaly of iris	Glaucoma due to iris anomaly
+C0002438	C2049897	Infection due to Entamoeba histolytica	infectious diarrhea of HIV patient due to Entamoeba histolytica
+C0026635	C3873484	Mouth breathing	Xerostomia due to mouth breathing
+C0417744	C0153071	Bite of mosquito	Mosquito-borne hemorrhagic fever
+C0417744	C0751098	Bite of mosquito	Mosquito-borne viral encephalitis
+C0263586	C0406696	Drug-induced photosensitivity	Photoallergic drug eruption
+C0007871	C0411159	Cervical incompetence	Fetal or neonatal effect of maternal incompetent cervix
+C0010346	C4038727	Crohn's disease	Fistula of large intestine due to Crohn's disease
+C0010346	C4039943	Crohn's disease	Rectal hemorrhage due to Crohn's disease
+C0010346	C4040562	Crohn's disease	Fistula of small intestine due to Crohn's disease
+C0010346	C4040843	Crohn's disease	Complication due to Crohn's disease
+C0010346	C4041541	Crohn's disease	Intestinal obstruction due to Crohn's disease
+C0524610	C4040413	Chronic alcoholic hepatitis	Hepatic ascites due to chronic alcoholic hepatitis
+C0433982	C0339365	Injury of lens	Cataract following rupture of capsule
+C0266786	C0270044	Short cord	Fetal or neonatal effect of short cord
+C0009782	C3839156	Disorder of connective tissue	Pericarditis due to vasculitis and connective tissue disease
+C0009782	C4039255	Disorder of connective tissue	Interstitial lung disease due to connective tissue disease
+C0009782	C4040862	Disorder of connective tissue	Lung disease due to connective tissue disorder
+C0011119	C0556003	Bends	Osteonecrosis in caisson disease
+C0265773	C3164692	Congenital anomaly of tracheal cartilage	Congenital stenosis of trachea due to complete rings
+C0266789	C0411148	Velamentous insertion of umbilical cord	Fetal or neonatal effect of velamentous insertion of cord
+C0278076	C1302817	Habit tic	Nail dystrophy due to nail biting
+C0543822	C4040787	Atherosclerotic occlusive disease	Ischemic ulcer of lower leg due to atherosclerotic disease
+C0029118	C2049909	Opportunistic infectious disease	infectious diarrhea of HIV patient due to opportunistic pathogens
+C0023891	C4038874	Alcoholic cirrhosis	Ascites due to alcoholic cirrhosis
+C0023890	C1263670	Cirrhosis of liver	Acquired portal-systemic shunt due to cirrhosis
+C0155626	C3839226	Acute myocardial infarction	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture
+C0587220	C2585886	Thrombosis of vein of lower limb	Embolism from thrombosis of vein of distal lower extremity
+C0022744	C4039139	Injury of knee	Derangement of posterior horn of lateral meniscus due to injury of knee
+C0022744	C4039362	Injury of knee	Derangement of posterior horn of medial meniscus due to injury of knee
+C0022744	C4039807	Injury of knee	Derangement of lateral meniscus due to injury of knee
+C0022744	C4039919	Injury of knee	Derangement of meniscus due to injury of knee
+C0022744	C4040962	Injury of knee	Derangement of anterior horn of lateral meniscus due to injury of knee
+C0022744	C4041124	Injury of knee	Derangement of anterior horn of medial meniscus due to injury of knee
+C0022744	C4041276	Injury of knee	Derangement of medial meniscus due to injury of knee
+C0085106	C1275098	Familial benign pemphigus	Nail dystrophy due to benign familial pemphigus
+C0022661	C0271932	End stage renal disease	Anemia of chronic renal failure
+C0022661	C0403464	End stage renal disease	End stage renal failure on dialysis
+C0022661	C1561829	End stage renal disease	Anemia in end stage renal disease
+C0022661	C1997037	End stage renal disease	Dependence on hemodialysis due to end stage renal disease
+C0022661	C1997375	End stage renal disease	Dependence on dialysis due to end stage renal disease
+C0022661	C1997877	End stage renal disease	Dependence on peritoneal dialysis due to end stage renal disease
+C0022661	C3472694	End stage renal disease	Anemia, pre-end stage renal disease on erythropoietin protocol
+C0022661	C3531787	End stage renal disease	Malignant hypertensive end stage renal disease on dialysis
+C0334633	C0024419	Malignant lymphoma, lymphoplasmacytic	Macroglobulinemia
+C0022665	C0272148	Neoplasm of kidney	Erythrocytosis due to renal tumor
+C0272296	C0272296	Platelet sequestration	Platelet sequestration
+C1456496	C2728280	Traumatic AND/OR non-traumatic brain injury	respiratory center depression due to brain injury
+C1456496	C2729131	Traumatic AND/OR non-traumatic brain injury	pneumocephalus due to brain injury
+C0010674	C3873356	Cystic fibrosis	Male infertility due to cystic fibrosis
+C0156331	C4039602	Female pelvic peritoneal adhesions	Female infertility due to pelvic peritoneal adhesion
+C0007869	C3697082	Erosion of cervix	Antepartum hemorrhage due to cervical erosion
+C0018552	C1275121	Hamartoma	Periungual fibroma in tuberous sclerosis
+C0520966	C3662099	Coordination problem	Stumbling due to lack of coordination
+C0263518	C0002180	Telogen effluvium	Postpartum alopecia
+C0027868	C3532223	Neuromyopathy	Cardiomyopathy due to neuromuscular disorder
+C0027868	C4041145	Neuromyopathy	Restrictive lung mechanics due to neuromuscular disease
+C0035372	C3531732	Rett's disorder	Dementia due to Rett's syndrome
+C0017601	C0521686	Glaucoma	Glaucomatous retinal degeneration
+C0022672	C2062396	Acute tubular necrosis	Acute renal failure due to tubular necrosis
+C0456024	C0270216	Perinatal hepatocellular damage	Perinatal jaundice due to fetal OR neonatal hepatitis
+C0684275	C0263725	Hemophilia	Hemophilic arthropathy
+C4040033	C4038868	Chronic ulcer of buttock	Necrosis of bone of buttock co-occurrent and due to chronic ulcer of buttock
+C4040033	C4039705	Chronic ulcer of buttock	Necrosis of muscle of buttock co-occurrent and due to chronic ulcer of buttock
+C0022116	C3874944	Ischemia	Ischemic foot ulcer due to type 2 diabetes mellitus
+C0022116	C4039211	Ischemia	Ischemic midfoot ulcer due to atherosclerosis of native artery of limb
+C0022116	C4039708	Ischemia	Ischemic ulcer of skin
+C0022116	C4039721	Ischemia	Ischemic foot ulcer due to atherosclerosis of native artery of limb
+C0022116	C4040787	Ischemia	Ischemic ulcer of lower leg due to atherosclerotic disease
+C0271157	C0270999	Phacoanaphylaxis	Phacoanaphylactic endophthalmitis
+C0024923	C0158823	Maternal death	Fetal or neonatal effect of maternal death
+C2711653	C4039786	Epilepsy characterized by intractable complex partial seizures	Status epilepticus due to refractory complex partial seizures
+C0265915	C3697768	Congenital stenosis of pulmonary veins	Pulmonary venous hypertension due to congenital stenosis of pulmonary vein
+C0339055	C1282230	Injury of globe of eye	Post-traumatic endophthalmitis
+C0032994	C3662232	Tubal pregnancy	Fetal or neonatal effect of tubal ectopic pregnancy
+C0221757	C1274772	Alpha-1-antitrypsin deficiency	Panniculitis due to alpha-1 anti-trypsin deficiency
+C0011168	C2584540	Difficulty swallowing	Fear of drinking liquids due to dysphagia
+C1827049	C3698429	Chronic peripheral venous hypertension	Venous ulcer of lower extremity due to chronic peripheral venous hypertension
+C1827049	C4039486	Chronic peripheral venous hypertension	Stasis dermatitis of lower limb due to chronic peripheral venous hypertension
+C1827049	C4039817	Chronic peripheral venous hypertension	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension
+C1827049	C4048016	Chronic peripheral venous hypertension	Stasis dermatitis of right lower extremity due to peripheral venous hypertension
+C1827049	C4048017	Chronic peripheral venous hypertension	Stasis dermatitis of left lower extremity due to peripheral venous hypertension
+C1827049	C4048018	Chronic peripheral venous hypertension	Stasis dermatitis and venous ulcer of left lower extremity due to chronic peripheral venous hypertension
+C1827049	C4048019	Chronic peripheral venous hypertension	Stasis dermatitis and venous ulcer of right lower extremity due to chronic peripheral venous hypertension
+C0231275	C0393751	Cold exposure	Headache due to cold exposure
+C0273115	C2062962	Injury of lung	traumatic lung cyst
+C0429528	C3696973	Angle closure	Neovascular glaucoma due to hyphema
+C0001622	C1274641	Adrenocortical hyperfunction	Hypermelanosis due to Cushing syndrome
+C1533847	C1282203	Disorder of skeletal muscle	Acquired myogenic ptosis
+C0332679	C0565825	Crushing injury (morphology)	Bruises with crushing - superficial injury
+C0231170	C2368032	Disability	urinary incontinence due to severe physical disability
+C0155288	C0338510	Papilledema - optic disc edema due to raised intracranial pressure	Optic atrophy secondary to papilledema
+C0150055	C3662105	Chronic pain	Psychosocial dysfunction due to chronic pain
+C0013146	C0403821	Drug abuse	Drug abuse-induced hypospermatogenesis
+C0013142	C1827661	Drowning	Cardiac arrest due to drowning
+C0434727	C0451824	Subluxation of joint of spine	Stenosis of spinal canal due to subluxation
+C0558141	C0264633	Transsexual	Voice disorder due to transsexualism
+C0740376	C2882363	Thrombosis of middle cerebral artery	Cerebral infarction due to thrombosis of middle cerebral artery
+C0342318	C0338603	Non-diabetic hypoglycemia	Non-diabetic hypoglycemic coma
+C0012546	C4040613	Infection due to Corynebacterium diphtheriae	Cardiomyopathy due to diphtheria infection
+C0031090	C3508904	Periodontal disease	complete acquired absence of teeth due to periodontal disease
+C0031090	C3508905	Periodontal disease	complete acquired absence of teeth due to periodontal disease - class I
+C0031090	C3508906	Periodontal disease	complete acquired absence of teeth due to periodontal disease - class II
+C0031090	C3508907	Periodontal disease	complete acquired absence of teeth due to periodontal disease - class III
+C0031090	C3508908	Periodontal disease	complete acquired absence of teeth due to periodontal disease - class IV
+C0031090	C3508909	Periodontal disease	partial aquired absence of teeth due to periodontal disease
+C0031090	C3508910	Periodontal disease	partial aquired absence of teeth due to periodontal disease - class I
+C0031090	C3508911	Periodontal disease	partial aquired absence of teeth due to periodontal disease - class II
+C0031090	C3508912	Periodontal disease	partial aquired absence of teeth due to periodontal disease - class III
+C0031090	C3508913	Periodontal disease	partial aquired absence of teeth due to periodontal disease - class IV
+C0031090	C4038676	Periodontal disease	Partial edentulism class I due to periodontal disease
+C0031090	C4039022	Periodontal disease	Complete edentulism class II due to periodontal disease
+C0031090	C4039424	Periodontal disease	Partial edentulism class III due to periodontal disease
+C0031090	C4039600	Periodontal disease	Complete edentulism due to periodontal disease
+C0031090	C4040142	Periodontal disease	Complete edentulism class IV due to periodontal disease
+C0031090	C4040146	Periodontal disease	Partial edentulism class II due to periodontal disease
+C0031090	C4040417	Periodontal disease	Partial edentulism class IV due to periodontal disease
+C0031090	C4040941	Periodontal disease	Complete edentulism class III due to periodontal disease
+C0031090	C4041288	Periodontal disease	Complete edentulism class I due to periodontal disease
+C0031090	C4041328	Periodontal disease	Partial edentulism due to periodontal disease
+C0337203	C0416111	Accident involving watercraft	Injury to swimmer by watercraft propeller
+C0413290	C1634521	Side flash from lightning	Effects of side flash from lightning
+C1306459	C0265156	Neoplasm, malignant (primary)	Pericarditis secondary to malignant primary tumor
+C1290254	C3887248	Neoplasm of radius	Pathological fracture of right radius due to neoplasm
+C0555971	C3873471	Oral infection	Sepsis due to oral infection
+C0042850	C3697923	Vitamin B-complex deficiency	Neuropathy due to vitamin B deficiency
+C0270850	C4039032	Idiopathic generalized epilepsy	Status epilepticus due to generalized idiopathic epilepsy
+C0016952	C0473785	Galactosemia	Perinatal jaundice due to galactosemia
+C1626921	C2315598	Allergic reaction to bite and/or sting	Anaphylaxis due to hymenoptera venom
+C0267673	C4039040	Bilateral recurrent inguinal hernia	Intestinal obstruction due to bilateral recurrent inguinal hernia
+C1626923	C2242894	Allergic reaction to chemical	Flax-dressers' disease
+C2939465	C0272060	Deficiency of glucose-6-phosphate dehydrogenase	G-6-PD class V variant anemia
+C0018824	C3839720	Heart valve disorder	Heart failure with reduced ejection fraction due to heart valve disease
+C0019159	C0153075	Viral hepatitis, type A	Hepatic coma due to viral hepatitis A
+C0019159	C2075269	Viral hepatitis, type A	cirrhosis due to hepatitis A
+C0019158	C0270216	Inflammatory disease of liver	Perinatal jaundice due to fetal OR neonatal hepatitis
+C0019158	C4040678	Inflammatory disease of liver	Hepatic coma due to hepatitis
+C0026764	C1279553	Multiple myeloma	Myeloma-associated amyloidosis
+C0152159	C3838954	Prolonged latent phase of labor	Failure of cervical dilation due to primary uterine inertia
+C0695242	C1393778	Neurogenic bowel	Constipation due to neurogenic bowel
+C0035585	C2216338	Disease due to Rickettsia	rickettsial encephalomyelitis
+C0024141	C1960277	Systemic lupus erythematosus	Shrinking lung syndrome
+C0024141	C3506428	Systemic lupus erythematosus	Endocarditis due to systemic lupus erythematosus
+C0024141	C4040112	Systemic lupus erythematosus	Nephropathy co-occurrent and due to systemic lupus erythematosus
+C2931187	C0271797	Cystinosis	Hypothyroidism due to cystinosis
+C0152150	C0411134	Twin pregnancy	Fetal or neonatal effect of twin-to-twin transplacental transfusion
+C0700359	C2316575	Organophosphate poisoning	Intermediate syndrome
+C1689950	C0416091	Laundry machinery accident in water transport	Injury in water transport caused by laundry machinery, occupant of small unpowered boat injured
+C0035078	C3472694	Renal failure syndrome	Anemia, pre-end stage renal disease on erythropoietin protocol
+C0085655	C2062578	Polymyositis	acute myolysis (dermatomyositis type V)
+C0345054	C3164802	Aortic left ventricular tunnel	Obstruction of right ventricular outflow tract due to aortico-left ventricular tunnel
+C0016736	C0263513	Frostbite	Frostbite alopecia
+C3665604	C3838769	Rupture of papillary muscle as current complication following acute myocardial infarction	Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture
+C0041296	C3698363	Tuberculous	Hypercalcemia due to tuberculosis
+C0041296	C4040468	Tuberculous	Iridocyclitis due to tuberculosis
+C3839173	C3494941	Nitrogen embolism	Dysbaric osteonecrosis
+C0013371	C2049911	Shigellosis	infectious diarrhea of HIV patient due to Shigella
+C0016397	C1290548	Localized infection	Localized enamel hypomineralization associated with localized infection
+C0276794	C2049902	Infection by Isospora belli	infectious diarrhea of HIV patient due to Isospora belli
+C2931928	C3532244	Mitochondrial cytopathy	Maternally inherited mitochondrial cardiomyopathy and myopathy
+C0016542	C3266059	Foreign body	Lichenoid foreign body gingivitis
+C0033579	C3875316	Prostate nodule	Urinary obstruction due to nodular prostate
+C1997585	C4039865	Chronic ulcer of ankle	Necrosis of ankle bone co-occurrent and due to chronic ulcer of ankle
+C1997585	C4041372	Chronic ulcer of ankle	Necrosis of ankle muscle co-occurrent and due to chronic ulcer of ankle
+C0016547	C0263617	Foreign body in skin	Foreign body granuloma of skin
+C0020256	C0555205	Congenital hydrocephalus	Cerebral degeneration due to congenital hydrocephalus
+C0009438	C4039393	Common bile duct calculus	Acute pancreatitis due to common bile duct calculus
+C1626204	C0684345	Allergic reaction to nickel	Contact dermatitis due to nickel
+C0085313	C2049890	Blastocystis hominis infection	infectious diarrhea of HIV patient due to Blastocystis hominis
+C0400929	C4040489	Subacute hepatic failure	Hepatic coma due to subacute liver failure
+C0005779	C0559239	Disorder of hemostatic system	Arthritis due to bleeding disorder
+C0085096	C3697699	Peripheral vascular disease	Gangrene due to peripheral vascular disease
+C0042033	C0232955	Female urinary-genital tract fistula	Menouria
+C0343386	C2049893	Clostridium difficile infection	infectious diarrhea of HIV patient due to Clostridium difficile
+C3544214	C3839719	Reversible cerebral vasoconstriction syndrome	Headache due to reversible cerebral vasoconstriction syndrome
+C0795687	C0451674	Cerebral thrombosis	Cerebral infarction due to thrombosis of cerebral arteries
+C0085412	C2049896	Infection by Encephalitozoon	infectious diarrhea of HIV patient due to Encephalitozoon intestinalis
+C0348835	C3536610	Occlusion and stenosis of posterior cerebral artery	Cerebral infarction due to posterior cerebral artery occlusion
+C0857007	C1318501	Neonatal hyperbilirubinemia	Kernicterus not due to isoimmunization
+C0026882	C3711368	Genetic mutation	Genetic disorder of surfactant dysfunction
+C0026882	C3873297	Genetic mutation	Acute respiratory distress in newborn with surfactant disorder
+C0152154	C0473857	Prolonged labor	Fetal or neonatal effect of long labor
+C0023903	C0272151	Neoplasm of liver	Erythrocytosis due to hepatoma
+C0521544	C1384733	Cerebellar artery thrombosis	Superior cerebellar artery syndrome
+C0265004	C3839059	Dilatation of aorta	Aortic valve regurgitation due to aortic dilation
+C0442893	C1960199	Systemic illness	Azoospermia due to systemic disease
+C0442893	C2903043	Systemic illness	Oligospermia due to systemic disease
+C0442893	C4040287	Systemic illness	Retinal dystrophy due to systemic disorder
+C0014130	C3698099	Disorder of endocrine system	Lymphedema due to endocrine disease
+C0014130	C4041083	Disorder of endocrine system	Arthropathy due to endocrine disorder
+C0868910	C0268980	Oligozoospermia	Infertility due to oligospermia
+C2004435	C0267397	Vascular insufficiency of intestine	Alimentary tract pain due to vascular insufficiency
+C0152151	C0270017	Triplet pregnancy	Fetal or neonatal effect of triplet pregnancy
+C4038597	C4040150	Exposure to angiotensin converting enzyme inhibitor agent	Renal dysplasia due to fetal exposure to angiotensin converting enzyme inhibitor
+C0085639	C2315433	Fall	At risk for injury due to fall
+C0085639	C4041097	Fall	Facial fracture due to fall
+C0392775	C0340378	Cystic medial necrosis	Aortic regurgitation due to cystic medial necrosis of aorta
+C0035854	C0406487	Rosacea	Rosaceal flushing
+C1302255	C1298615	Toxicity due to chemotherapy	Death due to chemotherapy toxicity
+C0561546	C2316485	Bite - wound	Infection of hand due to bite
+C0020532	C0272297	Hypersplenism	Thrombocytopenia due to hypersplenism
+C0600039	C1997158	Urinary outflow obstruction	Acute renal failure due to obstruction
+C0740391	C3661899	Middle cerebral artery occlusion	Cerebral infarction due to middle cerebral artery occlusion
+C0749165	C4039909	Supraglottitis	Laryngeal obstruction due to supraglottitis
+C0020538	C3698109	Hypertensive disorder	End stage renal disease on dialysis due to hypertension
+C0020538	C3839926	Hypertensive disorder	Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy
+C0740394	C1304481	Hyperuricemia	Panniculitis due to hyperuricemia
+C0341555	C2049889	Adenoviral gastroenteritis	infectious diarrhea of HIV patient due to adenovirus
+C0008728	C4038578	Allergic granulomatosis angiitis	Pulmonary disease due to allergic granulomatosis angiitis
+C0011880	C1720734	Diabetic ketoacidosis	Ketoacidotic coma in type 2 diabetes mellitus
+C0346303	C0342145	Thyrotroph adenoma	Thyrotoxicosis due to TSHoma
+C0023348	C4018876	Lepromatous leprosy	Resorption of anterior maxillary alveolar bone and anterior nasal spine due to lepromatous leprosy
+C0268405	C3873551	Hemodialysis-associated amyloidosis	Spondyloarthropathy due to hemodialysis-associated amyloidosis
+C0033677	C0554442	Deficiency of macronutrients	Physical retardation due to protein-calorie malnutrition
+C0033677	C3863264	Deficiency of macronutrients	Hypoalbuminemia due to protein calorie malnutrition
+C0271344	C0730311	Compression of optic nerve	Compressive optic atrophy
+C0274311	C0741196	Complication of surgical procedure	surgical aphakia
+C0274317	C2063370	Complication of catheter	bacterial endocarditis due to catheter
+C0274317	C2063372	Complication of catheter	bacterial endocarditis due to monitoring catheter
+C0030353	C0338510	Optic disc edema	Optic atrophy secondary to papilledema
+C0947622	C3494969	Gallstone	Gastric outlet obstruction due to gallstone
+C0033953	C0264631	Psychosexual disorder	Voice disorder due to psychosexual conflict
+C0242184	C2231190	Hypoxia	fetal distress from hypoxia with subsequent live birth
+C1699041	C1960510	Oligo-ovulation	Female infertility due to oligo-ovulation
+C0156146	C4040126	Crohn's disease of small intestine	Intestinal obstruction due to Crohn's disease of small intestine
+C0156146	C4040730	Crohn's disease of small intestine	Abscess of intestine co-occurrent and due to Crohn's disease of small intestine
+C0156146	C4040803	Crohn's disease of small intestine	Complication due to Crohn's disease of small intestine
+C0156146	C4040808	Crohn's disease of small intestine	Rectal hemorrhage due to Crohn's disease of small intestine
+C3839589	C3875194	Secondary osteoporosis	Pathological fracture of foot due to secondary osteoporosis
+C3839589	C4047454	Secondary osteoporosis	Pathological fracture of right humerus due to secondary osteoporosis
+C3839589	C4047455	Secondary osteoporosis	Pathological fracture of proximal end of right femur due to secondary osteoporosis
+C3839589	C4047456	Secondary osteoporosis	Pathological fracture of right foot due to secondary osteoporosis
+C3839589	C4047457	Secondary osteoporosis	Pathological fracture of right femur due to secondary osteoporosis
+C3839589	C4047458	Secondary osteoporosis	Pathological fracture of left femur due to secondary osteoporosis
+C3839589	C4047470	Secondary osteoporosis	Pathological fracture of left humerus due to secondary osteoporosis
+C3839589	C4047471	Secondary osteoporosis	Pathological fracture of left hip due to secondary osteoporosis
+C3839589	C4047472	Secondary osteoporosis	Pathological fracture of right clavicle due to secondary osteoporosis
+C3839589	C4047473	Secondary osteoporosis	Pathological fracture of left foot due to secondary osteoporosis
+C0275140	C0275140	Stung by Portuguese Man-of-war	Stung by Portuguese Man-of-war
+C0398597	C4039042	Histiocytic syndrome	Periodontitis co-occurrent and due to histiocytosis syndrome
+C3542993	C0340071	Pseudoallergic reaction to sulfite	Sulfite-induced asthma
+C0011127	C2231093	Pressure ulcer	autonomic dysreflexia due to decubitus ulcer
+C0086692	C0265155	Benign neoplastic disease	Pericarditis secondary to benign primary tumor
+C0086692	C4039605	Benign neoplastic disease	Myelopathy due to benign neoplastic disease
+C1562300	C3532320	Disorder of left cardiac ventricle	Right ventricular dysfunction due to disorder of left ventricle
+C0267869	C4038792	Calculus of bile duct	Chronic cholangitis due to bile duct calculus
+C0267869	C4041335	Calculus of bile duct	Acute cholangitis due to bile duct calculus
+C0040128	C1562725	Disorder of thyroid gland	Strabismus due to thyroid eye disease
+C0277919	C3874961	Venous stasis syndrome	Stasis ulcer due to type 2 diabetes mellitus
+C0277919	C4039486	Venous stasis syndrome	Stasis dermatitis of lower limb due to chronic peripheral venous hypertension
+C0277919	C4039817	Venous stasis syndrome	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension
+C0277919	C4039900	Venous stasis syndrome	Venous stasis ulcer co-occurrent with edema of lower leg
+C0277919	C4048016	Venous stasis syndrome	Stasis dermatitis of right lower extremity due to peripheral venous hypertension
+C0277919	C4048017	Venous stasis syndrome	Stasis dermatitis of left lower extremity due to peripheral venous hypertension
+C0277919	C4048018	Venous stasis syndrome	Stasis dermatitis and venous ulcer of left lower extremity due to chronic peripheral venous hypertension
+C0277919	C4048019	Venous stasis syndrome	Stasis dermatitis and venous ulcer of right lower extremity due to chronic peripheral venous hypertension
+C0011860	C3875546	Type 2 diabetes mellitus	Hypoglycemia unawareness in type 2 diabetes mellitus
+C0011860	C4039071	Type 2 diabetes mellitus	Skin ulcer of toe due to diabetes mellitis type 2
+C0022658	C0472713	Kidney disease	Anemia of renal disease
+C0022658	C2229342	Kidney disease	secondary polycythemia due to renal condition
+C0022658	C4040672	Kidney disease	Mixed renal osteodystrophy
+C3714509	C1304368	Nutritional disorder	Hypermelanosis due to nutritional disorder
+C4040990	C0349653	Deficiency of phosphomannomutase 2	Congenital disorder of glycosylation type Ia
+C0267516	C2316708	Atony of colon	Atonic constipation
+C0003969	C3874285	Ascorbic acid deficiency	Gingivitis due to ascorbic acid deficiency
+C0267518	C2315264	Colonospasm	Constipation due to spasm of colon
+C0014761	C0410988	Hemolytic disease of fetus OR newborn due to isoimmunization	Neonatal jaundice with glucose-6-phosphate dehydrogenase deficiency
+C0043346	C0268143	Xeroderma pigmentosum	Disorder of central nervous system due to xeroderma pigmentosum
+C1690580	C1304182	Allergic reaction to food	Allergic angioedema due to ingested food
+C0020581	C3696973	Hyphema	Neovascular glaucoma due to hyphema
+C3495422	C1273058	Finding relating to sexuality and sexual activity	Benign coital headache
+C0342199	C3165526	Iodine deficiency	Congenital iodine deficiency syndrome
+C0341974	C0411111	Contraction ring dystocia	Fetal or neonatal effect of maternal contraction ring
+C0429892	C3875343	Type 1 hypersensitivity response	Allergic rhinitis due to Dermatophagoides pteronyssinus
+C0429892	C4039218	Type 1 hypersensitivity response	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0429892	C4039228	Type 1 hypersensitivity response	Allergic rhinitis caused by insects
+C0429892	C4039294	Type 1 hypersensitivity response	Mild persistent asthma controlled co-occurrent with allergic rhinitis
+C0429892	C4039791	Type 1 hypersensitivity response	Severe persistent asthma co-occurrent with allergic rhinitis
+C0429892	C4039838	Type 1 hypersensitivity response	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis
+C0429892	C4039898	Type 1 hypersensitivity response	Intermittent asthma co-occurrent with allergic rhinitis
+C0429892	C4039988	Type 1 hypersensitivity response	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis
+C0429892	C4040055	Type 1 hypersensitivity response	Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0429892	C4040110	Type 1 hypersensitivity response	Acute severe exacerbation of moderate persistent allergic asthma
+C0429892	C4040225	Type 1 hypersensitivity response	Moderate persistent asthma co-occurrent with allergic rhinitis
+C0429892	C4040257	Type 1 hypersensitivity response	Allergic rhinitis due to animal hair and dander
+C0429892	C4040386	Type 1 hypersensitivity response	Acute severe exacerbation of mild persistent allergic asthma
+C0429892	C4040403	Type 1 hypersensitivity response	Acute severe exacerbation of severe persistent allergic asthma
+C0429892	C4040498	Type 1 hypersensitivity response	Mild persistent asthma co-occurrent with allergic rhinitis
+C0429892	C4040662	Type 1 hypersensitivity response	Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0429892	C4041037	Type 1 hypersensitivity response	Moderate persistent controlled asthma co-occurrent with allergic rhinitis
+C0429892	C4041088	Type 1 hypersensitivity response	Severe persistent asthma controlled co-occurrent with allergic rhinitis
+C0429892	C4041140	Type 1 hypersensitivity response	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis
+C0429892	C4041204	Type 1 hypersensitivity response	Acute exacerbation of asthma co-occurrent with allergic rhinitis
+C0429892	C4041492	Type 1 hypersensitivity response	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis
+C1096100	C1321346	Iridocorneal endothelial syndrome	Glaucoma associated with iridocorneal endothelial syndrome
+C0008350	C4041367	Biliary calculus	Chronic cholecystitis due to cholelithiasis co-occurrent with choledocholithiasis
+C0301616	C1959849	Overexertion	Nontraumatic exertional compartment syndrome
+C0032046	C3662231	Placenta previa	Fetal or neonatal effect of placenta previa
+C1504534	C1274800	Radiation burn	Oral ulceration due to radiation burn
+C0349595	C0349439	Ruptured aneurysm of middle cerebral artery	Subarachnoid hemorrhage from middle cerebral artery aneurysm
+C0349594	C0349436	Ruptured aneurysm of anterior cerebral artery	Subarachnoid hemorrhage from anterior cerebral artery aneurysm
+C0349597	C0349441	Ruptured aneurysm of anterior communicating artery	Subarachnoid hemorrhage from anterior communicating artery aneurysm
+C0349596	C0349440	Ruptured aneurysm of posterior cerebral artery	Subarachnoid hemorrhage from posterior cerebral artery aneurysm
+C0042769	C3840127	Viral disease	Cardiomyopathy due to viral infection
+C0042769	C4040397	Viral disease	Bronchopneumonia due to virus
+C1636155	C0264411	Allergic reaction to plant, except food	Hay fever with asthma
+C0349599	C0349443	Ruptured aneurysm of basilar artery	Subarachnoid hemorrhage from basilar artery aneurysm
+C0349598	C0349442	Ruptured aneurysm of posterior communicating artery	Subarachnoid hemorrhage from posterior communicating artery aneurysm
+C0001969	C3661894	Alcohol intoxication	Chronic pancreatitis due to acute alcohol intoxication
+C0019114	C1275450	Hemosiderosis	Hemosiderin pigmentation of skin
+C0162429	C3873464	Undernutrition	Angular cheilitis due to nutritional deficiency
+C1527396	C3873342	Cystic fibrosis of pancreas	Pancreatic insufficiency due to cystic fibrosis of pancreas
+C0009450	C3838733	Disorder due to infection	Cerebral arteritis due to infectious disease
+C0009450	C4038703	Disorder due to infection	Spasmodic torticollis due to infection
+C0009450	C4041241	Disorder due to infection	Neuropathy of upper limb due to infection
+C1263988	C0565623	Hemolytic disorder	Perinatal hemolytic jaundice
+C1263988	C1399894	Hemolytic disorder	Hydrops fetalis due to hemolytic disease
+C0009186	C3839862	Infection by Coccidioides immitis	Acute pneumonia due to coccidioidomycosis
+C0273163	C3875503	Injury of pancreas	Diabetes mellitus due to pancreatic injury
+C0221210	C0266184	Familial intestinal malrotation	Congenital duodenal obstruction due to malrotation of intestine
+C3662080	C4039329	Intractable simple partial epilepsy	Status epilepticus due to refractory simple partial epilepsy
+C0004364	C3873425	Autoimmune disease	Xerostomia due to autoimmune disease
+C0265388	C1567744	Autosomal recessive hereditary disorder	ALPORT SYNDROME, AUTOSOMAL RECESSIVE
+C0265385	C1567743	Autosomal dominant hereditary disorder	ALPORT SYNDROME, AUTOSOMAL DOMINANT
+C0344997	C2945572	Aortic valve cusp abnormality	Rheumatic mitral AND aortic valve regurgitation
+C0001206	C1274642	Acromegaly	Hypermelanosis due to acromegaly
+C0268532	C0268532	Deficiency of imidodipeptidase	Deficiency of imidodipeptidase
+C0342223	C0271550	Abnormality of somatostatin secretion	Gigantism due to somatostatin deficiency
+C0029442	C1960884	Osteomalacia	Curvature of spine due to osteomalacia
+C0270247	C0410951	Congenital fecaliths	Congenital fecaliths causing obstruction
+C0038463	C1274539	Infection by Strongyloides	Urticaria due to strongyloidiasis
+C1261562	C1828290	Detrusor instability of bladder	Incontinence due to detrusor instability
+C0398699	C3164972	Lambda light chain disease	Disorder of kidney due to lambda light chain disease
+C0019360	C1827160	Herpes zoster	Corneal haze due to herpes zoster
+C0010054	C3532232	Coronary atherosclerosis	Ischemic dilated cardiomyopathy due to coronary artery disease
+C0042880	C0398603	Vitamin K deficiency	Deficiency of coagulation factor due to vitamin K deficiency
+C0041755	C3251580	Drug reaction	pancytopenia drug-induced
+C0041755	C3510466	Drug reaction	priapism due to drugs
+C0549206	C2959369	Patient currently pregnant	Granuloma gravidarum
+C0035321	C0339454	Retinal dialysis	New partial retinal detachment with retinal dialysis
+C0035321	C4039269	Retinal dialysis	Rhegmatogenous retinal detachment due to retinal dialysis
+C0347535	C0472510	Intracranial injury	Post-traumatic cerebrospinal otorrhea
+C0019163	C3874483	Type B viral hepatitis	Cirrhosis of liver due to hepatitis B
+C0024115	C0238074	Disorder of lung	Chronic cor pulmonale
+C0344924	C3532337	Restrictive ventricular septal defect	Congenital subpulmonary stenosis due to restrictive ventricular defect associated with functionally univentricular heart
+C0332798	C0160785	Open wound	Late effect of open wound of head, neck and trunk
+C0004623	C3873474	Bacterial infection by site	Angular cheilitis due to bacterial infection
+C0020599	C3875492	Hypocalciuria	Hypocalciuric hypercalcemia
+C1527304	C3875069	Allergic reaction	Allergic conjunctivitis due to Dermatophagoides farinae
+C0344196	C0344196	Malnutrition due to child maltreatment	Malnutrition due to child maltreatment
+C0344195	C3840078	Asphyxia by strangulation	Hypoxic ischemic encephalopathy due to strangulation
+C0002726	C1304237	Amyloidosis	Macroglossia due to amyloidosis
+C0014122	C2118408	Subacute bacterial endocarditis	acute glomerulonephritis due to subacute bacterial endocarditis
+C0014121	C1274383	Bacterial endocarditis	Skin involvement in bacterial endocarditis
+C0014121	C4040963	Bacterial endocarditis	Mycotic aneurysm due to bacterial endocarditis
+C2315425	C2315424	Infection of peritoneal dialysis catheter	Peritonitis due to infected peritoneal dialysis catheter
+C0431505	C3532058	Abnormal origin of arterial duct	Cardiovascular abnormality due to anomalous origin of arterial duct
+C1864912	C2198591	Deficiency of 2-methylbutyryl-CoA dehydrogenase	2-methylbutyrylglycinuria
+C0264967	C0349445	Aneurysm of internal carotid artery	Subarachnoid hemorrhage from carotid artery aneurysm
+C0158252	C0393414	Intervertebral disc disorder	Myelopathy due to intervertebral disc disease
+C0039128	C0268871	Syphilis	Urethral stricture due to syphilis
+C0039128	C2049912	Syphilis	infectious diarrhea of HIV patient due to Treponema pallidum
+C0039128	C4038820	Syphilis	Charcot arthropathy due to syphilis
+C0038435	C1959860	Stress	Stress-induced muscle tension
+C0020578	C0521646	Hyperventilation	Neonatal respiratory alkalosis
+C0271685	C0457621	Diabetic amyotrophy	Myasthenic syndrome due to diabetic amyotrophy
+C0265104	C3698306	Vertebral artery obstruction	Cerebral infarction due to vertebral artery occlusion
+C3536568	C4040796	Refractory idiopathic generalized epilepsy	Status epilepticus due to intractable idiopathic generalized epilepsy
+C0398698	C3164971	Kappa light chain disease	Disorder of kidney due to kappa light chain disease
+C0023308	C1319184	Disorder of lens	Lens particle glaucoma
+C0240066	C3839764	Iron deficiency	Iron deficiency anemia in mother complicating childbirth
+C1626396	C0558903	Accidental exposure to exhaust gas in aircraft	Poisoning by carbon monoxide from aircraft while in transit, without accident to aircraft
+C0410528	C4039626	Skeletal dysplasia	Osteoarthritis of hip due to dysplasia
+C0242084	C3839259	Ruptured cerebral aneurysm	Subarachnoid hemorrhage from vertebral artery aneurysm
+C0162557	C3266165	Acute hepatic failure	Hepatic encephalopathy in fulminant hepatic failure
+C0162557	C4041198	Acute hepatic failure	Hepatic coma due to acute hepatic failure
+C0018790	C3839488	Asystole	Hypoxic ischemic encephalopathy due to cardiac arrest
+C0014236	C1281939	Inflammatory disorder of the eye	Uveitic glaucoma
+C0025007	C2062495	Measles	postmeasles encephalomyelitis
+C0018799	C3698535	Heart disease	Pulmonary hypertension due to systolic systemic ventricular dysfunction
+C0242362	C0263864	Intervertebral disc prolapse	Brachial neuritis AND/OR radiculitis due to displacement of cervical intervertebral disc
+C4040223	C4038720	Dieulafoy vascular malformation of duodenum	Duodenal hemorrhage due to Dieulafoy lesion of duodenum
+C0274456	C0480018	Accidental poisoning	accidental selective serotonin reuptake inhibitor (SSRI) poisoning
+C0274456	C2083046	Accidental poisoning	accidental poisoning by phenol or phenol homologues
+C0274456	C2117665	Accidental poisoning	serotonin syndrome due to accidental poisoning
+C0274456	C2728285	Accidental poisoning	accidental tetracyclic antidepressant poisoning
+C2586211	C1304421	Thrombosis of blood vessel	Dermatosis resulting from intravascular thrombosis
+C0521513	C1563212	Systemic lupus erythematosus arthritis	Retinal vasculitis due to systemic lupus erythematosus
+C0853846	C2077668	Intentional poisoning	serotonin syndrome due to intentional poisoning
+C0853846	C2082732	Intentional poisoning	intentional poisoning by phenol or phenol homologues
+C0853846	C2083108	Intentional poisoning	intentional poisoning by benzene
+C0853846	C2729043	Intentional poisoning	intentional selective serotonin reuptake inhibitor (SSRI) poisoning
+C0853846	C2729047	Intentional poisoning	intentional tetracyclic antidepressant poisoning
+C0687707	C2585102	Anorectal disorder	Fecal incontinence due to anorectal disorder
+C0742247	C3251579	Complication of chemotherapy	pancytopenia due to chemotherapy
+C1510471	C2239188	Vitamin deficiency	Burning feet syndrome
+C1510475	C3874415	Diverticula of intestine	Hemorrhage of colon due to diverticulosis
+C1510475	C4038618	Diverticula of intestine	Hemorrhage of small intestine due to diverticulosis
+C1510475	C4038852	Diverticula of intestine	Hemorrhage of ileum co-occurrent and due to diverticulosis
+C1510475	C4039202	Diverticula of intestine	Hemorrhage of duodenum co-occurrent and due to diverticulosis
+C1510475	C4039747	Diverticula of intestine	Intestinal hemorrhage co-occurrent and due to diverticulosis
+C1510475	C4039934	Diverticula of intestine	Hemorrhage of cecum due to diverticulosis
+C1510475	C4040481	Diverticula of intestine	Hemorrhage of jejunum co-occurrent and due to diverticulosis
+C0030499	C0409577	Disease caused by parasite	arthropathy associated with helminthiasis of elbow
+C0272944	C0273106	Brain injury with open intracranial wound AND concussion	Extradural hemorrhage following injury with open intracranial wound AND concussion
+C2937222	C4039564	Chronic ulcerative proctitis	Fistula of intestine due to chronic ulcerative proctitis
+C2937222	C4039590	Chronic ulcerative proctitis	Rectal hemorrhage due to chronic ulcerative proctitis
+C2937222	C4040732	Chronic ulcerative proctitis	Intestinal obstruction due to chronic ulcerative proctitis
+C2937222	C4040987	Chronic ulcerative proctitis	Complication due to chronic ulcerative proctitis
+C2937222	C4041550	Chronic ulcerative proctitis	Abscess of intestine co-occurrent and due to chronic ulcerative proctitis
+C0012714	C1299900	Disorder of copper metabolism	Copper storage associated hepatitis
+C1630647	C3875343	Allergic reaction to animal	Allergic rhinitis due to Dermatophagoides pteronyssinus
+C1630647	C4040257	Allergic reaction to animal	Allergic rhinitis due to animal hair and dander
+C0178879	C2919641	Urinary tract obstruction	Postrenal azotemia
+C0263912	C0409860	Rotator cuff syndrome	Rotator cuff tear arthropathy
+C0020676	C1274690	Hypothyroidism	Hypertrichosis in hypothyroidism
+C0020676	C2062362	Hypothyroidism	normochromic, normocytic anemia due to hypothyroidism
+C0020676	C2227926	Hypothyroidism	amyotrophy secondary to hypothyroidism
+C0020179	C3698474	Huntington's chorea	Altered behavior in Huntington's dementia
+C0033740	C0495309	Protozoan infection	Protozoal diseases complicating pregnancy, childbirth and the puerperium
+C0033740	C2216337	Protozoan infection	protozoal encephalomyelitis
+C0033740	C2909591	Protozoan infection	Protozoal diseases complicating pregnancy, unspecified trimester
+C0033740	C2909592	Protozoan infection	Protozoal diseases complicating childbirth
+C0033740	C2909593	Protozoan infection	Protozoal diseases complicating the puerperium
+C0268523	C0272071	Glutamate-cysteine ligase deficiency	HNSHA due to gamma glutamyl cysteine synthetase deficiency
+C0004063	C2585067	Assault	Traumatic injury due to assault
+C0036421	C0271800	Systemic sclerosis	Hypothyroidism due to systemic sclerosis
+C0036421	C4039195	Systemic sclerosis	Polyneuropathy due to systemic sclerosis
+C0018949	C0472342	Hematomyelia	Myelopathy due to hematomyelia
+C0007855	C3698522	Polyp of cervix	Antepartum hemorrhage due to cervical polyp
+C0039223	C0409731	Tabetic neurosyphilis	Tabetic joint
+C0000786	C4040252	Miscarriage	Cardiac arrest due to miscarriage
+C0266244	C0410966	Congenital obstruction of bile duct	Perinatal jaundice due to congenital obstruction of bile duct
+C1636193	C0416073	Engine room machinery accident in water transport	Injury in water transport caused by engine room machinery, occupant on small unpowered boat injured
+C1290255	C3887254	Neoplasm of ulna	Pathological fracture of left ulna due to neoplasm
+C1290253	C3887258	Neoplasm of long bone of upper limb	Pathological fracture of left humerus due to neoplasm
+C1290253	C3887259	Neoplasm of long bone of upper limb	Pathological fracture of right humerus due to neoplasm
+C1627762	C0416054	Loading machinery accident in water transport	Injury in water transport caused by loading machinery, occupant of small unpowered boat injured
+C0031880	C0349518	Extreme obesity with alveolar hypoventilation	Pulmonary hypertension with extreme obesity
+C1301261	C4038757	Crohn's disease of intestine	Abscess of intestine co-occurrent and due to Crohn's disease
+C0032984	C0411165	Abdominal pregnancy	Fetal or neonatal effect of abdominal ectopic pregnancy
+C0032987	C4038975	Ectopic pregnancy	Urinary tract infection due to ectopic pregnancy
+C0032987	C4039336	Ectopic pregnancy	Sepsis due to ectopic pregnancy
+C0032987	C4040092	Ectopic pregnancy	Salpingitis due to ectopic pregnancy
+C0032987	C4040837	Ectopic pregnancy	Shock due to ectopic pregnancy
+C0270275	C2910059	Newborn drug reaction and intoxication	Neonatal jaundice due to drugs or toxins given to newborn
+C0000810	C3873504	Retained products after miscarriage	Sepsis due to incomplete miscarriage
+C0000810	C4040814	Retained products after miscarriage	Urinary tract infection due to incomplete miscarriage
+C0000810	C4041417	Retained products after miscarriage	Cardiac arrest due to incomplete miscarriage
+C1290385	C3698281	Right coronary artery occlusion	Acute myocardial infarction due to right coronary artery occlusion
+C1290385	C4040918	Right coronary artery occlusion	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+C3532537	C2106862	Complication associated with orthopedic device	hemorrhage due to orthopedic device, implant, or graft
+C0566880	C2231335	Fetal problem	obstructed labor due to fetal cause
+C0566880	C2231336	Fetal problem	obstructed labor due to fetal cause with baby delivered
+C0566880	C2231337	Fetal problem	obstructed labor due to fetal cause as antepartum condition
+C0398562	C0472791	Triose phosphate isomerase deficiency	Hemolytic anemia due to triose phosphate isomerase deficiency
+C0032463	C1531879	Polycythemia vera (clinical)	Erythrocytosis due to polycythemia vera
+C0007780	C0451675	Cerebral embolism	Cerebral infarction due to embolism of cerebral arteries
+C0007780	C4039815	Cerebral embolism	Transient ischemic attack due to embolism
+C0043252	C4040229	Gunshot wound	Fracture of thumb due to gunshot wound
+C0007785	C3662058	Cerebral infarction	Ischemic stroke without coma
+C0013404	C3838841	Difficulty breathing	Difficulty eating due to breathlessness
+C3495801	C1960182	Granulomatosis with polyangiitis	Glomerulonephritis due to Wegener's granulomatosis
+C0413289	C1642827	Direct lightning strike	Effects of direct lightning strike
+C0276254	C4039380	Cytomegaloviral mononucleosis	Polyneuropathy due to cytomegaloviral mononucleosis
+C0276254	C4040157	Cytomegaloviral mononucleosis	Meningitis due to Cytomegaloviral Mononucleosis
+C0020540	C3531787	Malignant hypertension	Malignant hypertensive end stage renal disease on dialysis
+C1631062	C0014434	Allergic reaction to detergent	Detergent asthma
+C0404583	C1531959	Cervical mucus dysfunction	Female infertility due to cervical mucus dysfunction
+C0042842	C0272012	Vitamin A deficiency	Anemia due to vitamin A deficiency
+C0456493	C0395842	Inflammation of ear canal	Acquired stenosis of external ear canal secondary to inflammation
+C0266332	C0474873	Congenital obstructive megaureter	Simple ureterocele
+C0042847	C3697493	Cobalamin deficiency	Neuropathy due to vitamin B12 deficiency
+C1290793	C3873156	Lack of adequate intermaxillary vertical dimension	Angular cheilitis due to lack of adequate intermaxillary vertical dimension
+C4039573	C4039793	Nontraumatic subarachnoid intracranial hemorrhage	Nontraumatic subarachnoid hemorrhage with brain compression
+C0456086	C0270084	Intrapartum fetal hypoxia	Cerebral hemorrhage due to intrapartum anoxia or hypoxia
+C2939181	C4041061	Motor vehicle traffic accident	Facial fracture due to motor vehicle accident
+C0426066	C0270022	Unstable lie	Fetal or neonatal effect of unstable lie before labor
+C0019247	C3873519	Hereditary disease	Gingival disease due to genetic disorder
+C0263872	C3662521	Degeneration of thoracic intervertebral disc	Thoracic discogenic pain
+C0426063	C0473839	Transverse lie	Fetal or neonatal effect of transverse lie during labor and delivery
+C0338656	C2368031	Impaired cognition	urinary incontinence due to cognitive impairment
+C0241158	C1304377	Scar of skin	Hypomelanosis due to scarring
+C0040147	C3874988	Thyroiditis	Hypothyroidism due to thyroiditis
+C0006057	C2227925	Botulism	amyotrophy secondary to botulism
+C1820377	C0271918	Hypersensitivity reaction mediated by antibody	Humoral immunologic aplastic anemia
+C1455732	C0411147	Varices of umbilical cord	Fetal or neonatal effect of varices of cord
+C0518456	C2711402	Impaired mobility	Thrombophilia due to immobilization
+C0277551	C0343452	Enzootic disease	Enzootic abortion
+C0277556	C0301958	Recurrent disease	Graft failure due to recurrent recipient disease
+C0013274	C3532057	Patent ductus arteriosus	Cardiovascular abnormality due to patent arterial duct
+C0008626	C1970187	Chromosomal disorder	Sensorineural deafness and male infertility
+C0235522	C3697888	Disorder of vein	Lymphedema due to venous disease
+C0016470	C1562873	Food allergy	Gastrointestinal disorder due to food allergy
+C0238414	C3839055	Mitral papillary muscle rupture	Postprocedural mitral valve regurgitation due to papillary muscle and chordal rupture
+C0016479	C1562907	Food poisoning	Food-borne gastroenteritis
+C0027059	C3839467	Myocarditis	Heart failure with reduced ejection fraction due to myocarditis
+C0403614	C0341723	Acquired stricture of ureter	Ureterocele - acquired
+C0400914	C4040068	Acute hepatitis C	Hepatic coma due to acute hepatitis C
+C1301685	C1290547	Dental trauma	Localized enamel hypomineralization associated with localized trauma
+C0036202	C2873850	Sarcoidosis	Sarcoid iridocyclitis
+C1290923	C0015263	Exercise state	Exercise induced bronchospasm
+C0400918	C4041189	Chronic viral hepatitis B with hepatitis D	Hepatic coma due to chronic hepatitis B with delta agent
+C0042029	C0149801	Urinary tract infectious disease	Sepsis due to urinary tract infection
+C0042029	C2231095	Urinary tract infectious disease	autonomic dysreflexia due to urinary tract infection
+C0399541	C3697648	Bimaxillary proclination	Bimaxillary protrusion
+C1302790	C1274881	Congenital malformation syndrome	Aplasia cutis congenita due to underlying malformation (Type 4)
+C0553686	C0521667	Cerebral herniation	Hindbrain hernia headache
+C0036285	C4039176	Scarlet fever	Myocarditis due to scarlet fever
+C0036285	C4041551	Scarlet fever	Otitis media due to scarlet fever
+C0729734	C0438451	Tendon sheath disorder	Bowstringing of tendon, wrist or hand
+C0035528	C0272014	Ariboflavinosis	Anemia due to riboflavin deficiency
+C0271633	C1960705	Disorder of endocrine pancreas	Diabetes mellitus due to cystic fibrosis
+C0023182	C0451684	Cerebrospinal fluid leakage	Intracranial hypotension following ventricular shunting
+C0023182	C0524812	Cerebrospinal fluid leakage	Intracranial hypotension
+C0023182	C3839515	Cerebrospinal fluid leakage	Idiopathic intracranial hypotension
+C0344363	C0270042	Knot in umbilical cord	Fetal or neonatal effect of knot in cord
+C3532534	C2106846	Complication associated with genitourinary device	embolism due to genitourinary device, implant, or graft
+C3532534	C2106848	Complication associated with genitourinary device	hemorrhage due to genitourinary device, implant, or graft
+C2711681	C4039508	Chronic ulcerative pancolitis	Rectal hemorrhage due to chronic ulcerative pancolitis
+C2711681	C4039523	Chronic ulcerative pancolitis	Complication due to chronic ulcerative pancolitis
+C2711681	C4039550	Chronic ulcerative pancolitis	Intestinal obstruction due to chronic ulcerative pancolitis
+C2711681	C4039933	Chronic ulcerative pancolitis	Abscess of intestine co-occurrent and due to chronic ulcerative pancolitis
+C2711681	C4040350	Chronic ulcerative pancolitis	Fistula of intestine due to chronic ulcerative pancolitis
+C2909036	C3532260	Twin-to-twin blood transfer	Fetal pulmonary outflow tract obstruction due to twin to twin transfusion syndrome
+C0042755	C0016696	Virilization	Freemartin
+C0442888	C3163707	Septoparietal trabeculations	Right ventricular outflow tract obstruction due to septoparietal trabeculation
+C1621955	C3873639	Physical abuse	Physical injury due to physical abuse
+C0025521	C3875374	Inborn error of metabolism	Carnitine deficiency due to inborn error of metabolism
+C0006826	C3662093	Malignant neoplastic disease	Chronic pain due to malignancy
+C0006826	C4038936	Malignant neoplastic disease	Neck pain due to malignant neoplastic disease
+C0006826	C4040852	Malignant neoplastic disease	Myelopathy due to malignant neoplastic disease
+C0021845	C0270250	Perforation of intestine	Meconium peritonitis
+C0554632	C1536526	Anogenital human papilloma virus infection	Bowenoid papulosis of penis
+C0274416	C2106866	Complication of dialysis	hemorrhage due to renal dialysis device, implant, or graft
+C0274416	C2106868	Complication of dialysis	embolism due to renal dialysis device, implant, or graft
+C0274416	C2106870	Complication of dialysis	pain due to renal dialysis device, implant, or graft
+C0079504	C3873349	Hermansky-Pudlak syndrome	Pulmonary fibrosis due to Hermansky-Pudlak syndrome
+C0268601	C1533587	Deficiency of hydroxymethylglutaryl-CoA lyase	Hydroxymethylglutaric aciduria
+C0392707	C3875343	Atopic reaction	Allergic rhinitis due to Dermatophagoides pteronyssinus
+C0392707	C4039218	Atopic reaction	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0392707	C4039228	Atopic reaction	Allergic rhinitis caused by insects
+C0392707	C4039294	Atopic reaction	Mild persistent asthma controlled co-occurrent with allergic rhinitis
+C0392707	C4039791	Atopic reaction	Severe persistent asthma co-occurrent with allergic rhinitis
+C0392707	C4039838	Atopic reaction	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis
+C0392707	C4039898	Atopic reaction	Intermittent asthma co-occurrent with allergic rhinitis
+C0392707	C4039988	Atopic reaction	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis
+C0392707	C4040055	Atopic reaction	Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0392707	C4040110	Atopic reaction	Acute severe exacerbation of moderate persistent allergic asthma
+C0392707	C4040225	Atopic reaction	Moderate persistent asthma co-occurrent with allergic rhinitis
+C0392707	C4040257	Atopic reaction	Allergic rhinitis due to animal hair and dander
+C0392707	C4040386	Atopic reaction	Acute severe exacerbation of mild persistent allergic asthma
+C0392707	C4040403	Atopic reaction	Acute severe exacerbation of severe persistent allergic asthma
+C0392707	C4040498	Atopic reaction	Mild persistent asthma co-occurrent with allergic rhinitis
+C0392707	C4040662	Atopic reaction	Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis
+C0392707	C4041037	Atopic reaction	Moderate persistent controlled asthma co-occurrent with allergic rhinitis
+C0392707	C4041088	Atopic reaction	Severe persistent asthma controlled co-occurrent with allergic rhinitis
+C0392707	C4041140	Atopic reaction	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis
+C0392707	C4041204	Atopic reaction	Acute exacerbation of asthma co-occurrent with allergic rhinitis
+C0392707	C4041492	Atopic reaction	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis
+C1404179	C2317079	Deformity of eyelid	Acquired scleral show due to eyelid deformity
+C0272388	C4040514	Amygdalolith	Ulcer of tonsil due to amygdalolith
+C0020505	C2125996	Excessive eating - polyphagia	recent weight gain due to overeating
+C0020502	C1274774	Hyperparathyroidism	Calcifying panniculitis due to hyperparathyroidism
+C0080178	C1997341	Spina bifida	Neurogenic bladder due to spina bifida
+C0080178	C4040708	Spina bifida	Pressure ulcer due to spina bifida
+C1298759	C3874961	Vascular disorder of lower extremity	Stasis ulcer due to type 2 diabetes mellitus
+C1298759	C4039486	Vascular disorder of lower extremity	Stasis dermatitis of lower limb due to chronic peripheral venous hypertension
+C1298759	C4039817	Vascular disorder of lower extremity	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension
+C1298759	C4039900	Vascular disorder of lower extremity	Venous stasis ulcer co-occurrent with edema of lower leg
+C1298759	C4048016	Vascular disorder of lower extremity	Stasis dermatitis of right lower extremity due to peripheral venous hypertension
+C1298759	C4048017	Vascular disorder of lower extremity	Stasis dermatitis of left lower extremity due to peripheral venous hypertension
+C1298759	C4048018	Vascular disorder of lower extremity	Stasis dermatitis and venous ulcer of left lower extremity due to chronic peripheral venous hypertension
+C1298759	C4048019	Vascular disorder of lower extremity	Stasis dermatitis and venous ulcer of right lower extremity due to chronic peripheral venous hypertension
+C0546982	C3873257	Cystic fibrosis with meconium ileus	Perforation of intestine due to cystic fibrosis with meconium ileus
+C0036114	C2049910	Salmonella gastroenteritis	infectious diarrhea of HIV patient due to Salmonella
+C0413302	C0277632	Asphyxia by strangulation by ligature	Garrotment
+C0684324	C0272068	Deficiency of phosphoglycerate kinase	HNSHA due to phosphoglycerate kinase deficiency
+C0343641	C1304002	Human papilloma virus infection	Human papilloma virus-associated intraepithelial neoplasia
+C0343641	C2027411	Human papilloma virus infection	gums condylomata acuminata
+C0729608	C3532347	Myocarditis due to infectious agent	Cardiovascular abnormality due to infective myocarditis
+C2103988	C4047600	Varicose veins of right lower limb	Pain co-occurrent and due to varicose veins of right leg
+C2103988	C4047626	Varicose veins of right lower limb	Pain co-occurrent and due to varicose veins of bilateral legs
+C1628510	C0268987	Obstruction of efferent duct of testis	Infertility due to obstruction of efferent ducts
+C1628510	C2903041	Obstruction of efferent duct of testis	Oligospermia due to obstruction of efferent ducts
+C1629842	C0416045	Deck machinery accident in water transport	Injury in water transport caused by deck machinery, occupant of small unpowered boat injured
+C1960540	C1960539	Placental aromatase deficiency	Maternal virilization due to placental aromatase deficiency
+C0002792	C1298697	Anaphylaxis	Anaphylactic urticaria
+C0431951	C0451905	Bilateral dysplastic hip	Coxarthrosis resulting from dysplasia, bilateral
+C0265089	C1392253	Stenosis of precerebral artery	Cerebral infarction due to stenosis of precerebral artery
+C0301918	C1304410	Hypersensitivity reaction mediated by immune complex	Serum sickness type vasculitis
+C0233269	C0473873	Face presentation	Fetal or neonatal effect of face presentation before labor
+C0266474	C0431358	Aqueduct of Sylvius anomaly	Hydrocephalus with anomaly of aqueduct of Sylvius
+C0020295	C0272147	Hydronephrosis	Erythrocytosis due to hydronephrosis
+C4040188	C4040095	Cholecystolithiasis with obstruction	Chronic cholecystitis due to gallbladder calculus with obstruction
+C0276609	C1828050	Acute type B viral hepatitis	Hepatic coma due to acute hepatitis B
+C0338504	C0339494	Pit of optic disc	Central serous retinopathy with pit of optic disc
+C0003125	C1274688	Anorexia nervosa	Hypertrichosis in anorexia nervosa
+C0339143	C0234664	Thyroid eye disease	Lid lag
+C2004491	C1827942	Healing scar	Nerve entrapment due to scar
+C0031511	C1304467	Chromaffinoma	Hypermelanosis due to pheochromocytoma
+C0340366	C3839055	Mitral chordae rupture	Postprocedural mitral valve regurgitation due to papillary muscle and chordal rupture
+C3662262	C1960465	Pseudoallergic reaction	Non-allergic drug hypersensitivity disorder
+C3662262	C3853540	Pseudoallergic reaction	Aspirin exacerbated respiratory disease
+C0267871	C4039083	Calculus of bile duct with obstruction	Acute cholangitis due to bile duct calculus with obstruction
+C0267871	C4039746	Calculus of bile duct with obstruction	Chronic cholangitis due to bile duct calculus with obstruction
+C0746765	C2126147	Mass of nose	nasal mass obstructing breathing
+C0272938	C0273072	Brain injury with open intracranial wound AND no loss of consciousness	Intracranial hemorrhage following injury with open intracranial wound AND no loss of consciousness
+C0233256	C3662221	Malpresentation of fetus	Fetal or neonatal effect of malpresentation before labor
+C0020615	C1720567	Hypoglycemic disorder	Hypoglycemic coma in diabetes mellitus
+C0425809	C0269996	Obstruction of milk ducts	Galactocele associated with childbirth
+C0002892	C0472366	Pernicious anemia	Myasthenic syndrome due to pernicious anemia
+C0002892	C2227928	Pernicious anemia	amyotrophy secondary to pernicious anemia
+C0002895	C3532226	Sickling disorder due to hemoglobin S	Disorder of myocardium due to sickle cell hemoglobinopathy
+C0002895	C4039682	Sickling disorder due to hemoglobin S	Sickle cell arthropathy
+C0206051	C1280577	Photoallergy	Delayed photoallergic dermatitis
+C0269846	C0270041	Cord entanglement	Fetal or neonatal effect of entanglement of cord
+C0020598	C0869150	Hypocalcemia	Neonatal hypocalcemic tetany
+C0269845	C0158832	Maternal prolapsed cord	Fetal or neonatal effect of prolapsed cord
+C0269842	C0411112	Hypertonic uterine dysfunction	Fetal or neonatal effect of hypertonic uterine dysfunction
+C1290532	C1291053	Altered passive eruption of teeth	Insufficient clinical crown height due to altered passive eruption
+C0406371	C0406371	Lichen planus of scalp	Lichen planus of scalp
+C1282916	C4040580	Secondary Raynaud's phenomenon	Gangrene due to secondary Raynaud phenomenon
+C0032059	C0270053	Placentitis	Fetal or neonatal effect of placentitis
+C3698095	C4040027	Silent sinus syndrome	Enophthalmos co-occurrent and due to silent sinus syndrome
+C0035012	C1304143	Reiter's disease	Circinate vulvovaginitis due to Reiter's disease
+C3854048	C3874420	Erosive gastritis	Gastric hemorrhage due to erosive gastritis
+C0032051	C0411126	Placental insufficiency	Fetal effect of placental insufficiency
+C0340968	C0272062	Deficiency of pyruvate kinase	HNSHA due to pyruvate kinase deficiency
+C0444542	C3164550	Malaligned outlet septum	Right ventricular outflow tract obstruction due to malaligned outlet septum
+C0043407	C0343388	Yersiniosis	Yersinia erythema nodosum
+C0024198	C0238260	Lyme disease	late Lyme disease
+C4041105	C4039876	Chronic ulcer of back	Necrosis of back bone co-occurrent and due to chronic ulcer of back
+C0017181	C3241945	Gastrointestinal hemorrhage	Melena due to gastrointestinal hemorrhage
+C0002395	C3665464	Alzheimer's disease	Dementia due to Alzheimer's disease
+C1704272	C3875038	Benign prostatic hyperplasia	Weak urinary stream due to benign prostatic hypertrophy
+C0347604	C0395839	Injury of external auditory canal	Acquired stenosis of external ear canal secondary to trauma
+C1277187	C3698535	Left ventricular systolic dysfunction	Pulmonary hypertension due to systolic systemic ventricular dysfunction
+C0347601	C0271337	Injury of orbit	Orbital deformity due to trauma
+C3662030	C4040138	Spontaneous cerebral hemorrhage	Spontaneous cerebral hemorrhage with compression of brain
+C0151740	C0155288	Raised intracranial pressure	Papilledema - optic disc edema due to raised intracranial pressure
+C1385490	C3532049	Abscess of heart	Cardiac abnormality due to heart abscess
+C0340563	C2062715	Upper limb ischemia	ischemic paralysis of upper limb
+C0685844	C0269232	Congenital anomaly of fallopian tubes	Female infertility due to congenital anomaly of fallopian tube
+C0340643	C3839863	Dissection of aorta	Aortic valve regurgitation due to dissection
+C0266283	C0342133	Ectopic thyroid tissue	Thyrotoxicosis from ectopic thyroid nodule with crisis
+C0341308	C0451882	Post-surgical malabsorption	Post-surgical malabsorption osteoporosis with pathological fracture
+C0042384	C3839156	Vasculitis	Pericarditis due to vasculitis and connective tissue disease
+C3203346	C0272273	Hyperheparinemia	Hemorrhagic disorder due to hyperheparinemia
+C0020651	C2316624	Orthostatic hypotension	Syncope due to orthostatic hypotension
+C0020651	C4041045	Orthostatic hypotension	Tremor due to orthostatic hypotension
+C0011615	C1276069	Atopic neurodermatitis	Cheilitis due to atopic dermatitis
+C0035579	C0436718	Rickets	O/E - rickety rosary
+C1261392	C0277370	Allergic reaction to insect bite	Culicoides brevitarsus hypersensitivity reaction of skin
+C0524910	C3875173	Chronic hepatitis C	Cryoglobulinemia due to chronic hepatitis C
+C0524910	C4041238	Chronic hepatitis C	Hepatic coma due to chronic hepatitis C
+C0264637	C4038717	Benign hypertension	Chronic kidney disease stage 1 due to benign hypertension
+C0264637	C4038741	Benign hypertension	End stage renal disease due to benign hypertension
+C0264637	C4039054	Benign hypertension	Chronic kidney disease stage 4 due to benign hypertension
+C0264637	C4039066	Benign hypertension	Chronic kidney disease due to benign hypertension
+C0264637	C4039151	Benign hypertension	Chronic kidney disease stage 2 due to benign hypertension
+C0264637	C4040037	Benign hypertension	Chronic kidney disease stage 3 due to benign hypertension
+C0264637	C4040859	Benign hypertension	Chronic kidney disease stage 5 due to benign hypertension
+C0151773	C2231088	Hypocellular bone marrow	aplastic anemia due to medullary hypoplasia
+C0267154	C4040456	Eosinophilic gastritis	Gastric hemorrhage due to eosinophilic gastritis
+C0342337	C0271701	Insulin resistance - type B	Diabetes mellitus due to insulin receptor antibodies
+C0410256	C1997775	Injury of muscle	Contracture of gastrocnemius muscle due to traumatic injury
+C0029456	C3887253	Osteoporosis	Pathological fracture of right ulna due to osteoporosis
+C0029456	C3887256	Osteoporosis	Pathological fracture of right humerus due to osteoporosis
+C0029456	C3887257	Osteoporosis	Pathological fracture of left humerus due to osteoporosis
+C0029456	C4047396	Osteoporosis	Pathological fracture of left tibia due to osteoporosis
+C0029456	C4047442	Osteoporosis	Pathological fracture of right hand due to osteoporosis
+C0029456	C4047443	Osteoporosis	Pathological fracture of left hand due to osteoporosis
+C0029456	C4047451	Osteoporosis	Pathological fracture of right clavicle due to osteoporosis
+C0029456	C4047452	Osteoporosis	Pathological fracture of right foot due to osteoporosis
+C0029456	C4047459	Osteoporosis	Pathological fracture of left femur due to osteoporosis
+C0029456	C4047460	Osteoporosis	Pathological fracture of left clavicle due to osteoporosis
+C0029456	C4047461	Osteoporosis	Pathological fracture of right fibula due to osteoporosis
+C0029456	C4047462	Osteoporosis	Pathological fracture of left foot due to osteoporosis
+C0029456	C4047463	Osteoporosis	Pathological fracture of left ankle due to osteoporosis
+C0029456	C4047464	Osteoporosis	Pathological fracture of left fibula due to osteoporosis
+C0029456	C4047466	Osteoporosis	Pathological fracture of left scapula due to osteoporosis
+C0029456	C4047467	Osteoporosis	Pathological fracture of right hip due to osteoporosis
+C0029456	C4047468	Osteoporosis	Pathological fracture of left hip due to osteoporosis
+C0029456	C4047469	Osteoporosis	Pathological fracture of right ankle due to osteoporosis
+C0520679	C4039290	Obstructive sleep apnea syndrome	Acute hypercapnic respiratory failure due to obstructive sleep apnea
+C0158266	C3662528	Degeneration of intervertebral disc	Discogenic pain
+C0267390	C4038802	Chronic ulcerative rectosigmoiditis	Intestinal obstruction due to chronic ulcerative rectosigmoiditis
+C0267390	C4038946	Chronic ulcerative rectosigmoiditis	Fistula of large intestine due to chronic ulcerative rectosigmoiditis
+C0267390	C4039673	Chronic ulcerative rectosigmoiditis	Rectal hemorrhage due to chronic ulcerative rectosigmoiditis
+C0267390	C4040038	Chronic ulcerative rectosigmoiditis	Complication due to chronic ulcerative rectosigmoiditis
+C0267390	C4040241	Chronic ulcerative rectosigmoiditis	Abscess of intestine co-occurrent and due to chronic ulcerative rectosigmoiditis
+C0265103	C4038830	Vertebral artery stenosis	Cerebral infarction due to vertebral artery stenosis
+C0018802	C0264546	Congestive heart failure	Pleural effusion due to congestive heart failure
+C0349074	C3838769	Rupture of chordae tendinae as current complication following acute myocardial infarction	Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture
+C0153326	C4039992	Free-living ameba infection	Meningoencephalitis due to free-living ameba
+C0080203	C1960445	Tachyarrhythmia	Tachycardia-induced cardiomyopathy
+C0559348	C2063371	Infected wire	bacterial endocarditis due to pacing wire
+C0032002	C3840094	Disorder of pituitary gland	Female infertility due to disorder of pituitary gland
+C0235593	C3532296	Thoracic lymphadenopathy	Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy
+C1274166	C3873485	Immunobullous disease	Ulcer of mouth due to immunobullous disease
+C0042373	C3696973	Vascular disorder	Neovascular glaucoma due to hyphema
+C1274165	C1275178	Lichen sclerosus of female genitalia	Squamous cell carcinoma of vulva due to lichen sclerosus
+C0023418	C3874286	Leukemia	Gingivitis due to leukemia
+C1882062	C3875498	Neoplastic disease	Pathological fracture of lumbar vertebra due to neoplastic disease
+C1882062	C3887245	Neoplastic disease	Pathological fracture of right tibia due to neoplasm
+C1882062	C4047395	Neoplastic disease	Pathological fracture of left tibia due to neoplastic disease
+C1882062	C4047444	Neoplastic disease	Pathological fracture of left hand due to neoplastic disease
+C1882062	C4047445	Neoplastic disease	Pathological fracture of proximal right femur due to neoplastic disease
+C1882062	C4047446	Neoplastic disease	Pathological fracture of proximal left femur due to neoplastic disease
+C1882062	C4047447	Neoplastic disease	Pathological fracture of right femur due to neoplastic disease
+C1882062	C4047448	Neoplastic disease	Pathological fracture of left femur due to neoplastic disease
+C1882062	C4047449	Neoplastic disease	Pathological fracture of right foot due to neoplastic disease
+C1882062	C4047450	Neoplastic disease	Pathological fracture of left clavicle due to neoplastic disease
+C3873149	C3874969	Congenital duplication of renal collecting system	Vesicoureteric reflux due to duplicated collecting system
+C0264573	C3532295	Fibrosis of mediastinum	Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis
+C0009324	C1321034	Ulcerative colitis	Toxic megacolon due to ulcerative colitis
+C0009324	C4039232	Ulcerative colitis	Intestinal obstruction due to ulcerative colitis
+C0009324	C4039655	Ulcerative colitis	Fistula of intestine due to ulcerative colitis
+C0009324	C4040314	Ulcerative colitis	Complication due to ulcerative colitis
+C0009324	C4040982	Ulcerative colitis	Abscess of intestine co-occurrent and due to ulcerative colitis
+C0009324	C4041136	Ulcerative colitis	Rectal hemorrhage due to ulcerative colitis
+C0271577	C1719776	Isolated gonadotropin deficiency	Hypogonadotropic hypogonadism due to isolated gonadotropin deficiency
+C1527336	C0343238	Sjögren's syndrome	Myopathy due to Sjögren's disease
+C1527336	C4041208	Sjögren's syndrome	Tubulointerstitial nephropathy due to Sjogren syndrome
+C1960171	C1960054	Obstruction of lower respiratory tract	Sleep hypoventilation due to lower airway obstruction
+C0155732	C0490005	Late effects of cerebrovascular disease	Apraxia as late effect of cerebrovascular disease
+C0274430	C3251586	Complication due to vaccination	serum reaction due to vaccination
+C0008495	C3541442	Chorioamnionitis	Fetal or neonatal effect of chorioamnionitis
+C0022595	C1275097	Keratosis follicularis	Nail dystrophy due to Darier's disease
+C0002736	C3662062	Amyotrophic lateral sclerosis	Restrictive lung disease due to amyotrophic lateral sclerosis
+C1446390	C2216485	Physical health problems	male sexual dysfunction due to physical condition
+C1446390	C2236798	Physical health problems	female sexual dysfunction due to physical condition
+C0008370	C1535964	Occlusion of bile duct	Cholestatic pruritus
+C4040783	C4040506	Chronic ulcer of calf	Necrosis of calf bone co-occurrent and due to chronic ulcer of calf
+C4040783	C4041054	Chronic ulcer of calf	Necrosis of calf muscle co-occurrent and due to chronic ulcer of calf
+C0020542	C1960038	Pulmonary hypertension	Right heart failure due to pulmonary hypertension
+C0400979	C3838876	Obstruction of biliary tree	Biliary colic with obstruction
+C0030783	C0272016	Niacin deficiency	Anemia due to niacin deficiency
+C0406374	C1304153	Lichen planus of nail	Onychatrophy due to lichen planus
+C1096274	C0344530	Corneal thinning	Megalocornea
+C0003128	C0404572	Anovulation	Female infertility of anovulatory origin
+C0574027	C0348784	Vertebral artery aneurysm	Subarachnoid hemorrhage from vertebral artery
+C1273070	C3698362	Left ventricular diastolic dysfunction	Pulmonary hypertension due to diastolic systemic ventricular dysfunction
+C0405124	C0270040	Umbilical cord around neck	Fetal or neonatal effect of umbilical cord around neck
+C1533163	C4039435	Disorder of cellular component of blood	Gingivitis due to disorder of cellular component of blood
+C0268490	C0268490	Deficiency of fumarylacetoacetase	Deficiency of fumarylacetoacetase
+C0003492	C3532024	Coarctation of aorta	Abnormality within thorax due to coarctation of aorta
+C1302878	C3873575	Contact hypersensitivity reaction	Allergic contact dermatitis caused by plant
+C0026946	C2063509	Mycosis	mycotic ulcer
+C0008679	C0472737	Chronic disease	Aplastic anemia due to chronic disease
+C0275982	C2049891	Enteric campylobacteriosis	infectious diarrhea of HIV patient due to Campylobacter
+C0032989	C0411169	Multiple pregnancy	Fetus and newborn affected by multiple pregnancy
+C0032989	C3662220	Multiple pregnancy	Fetal or neonatal effect of multiple pregnancy
+C0023646	C1563094	Lichen planus	Conjunctivitis due to lichen planus
+C0274435	C3251585	Blood transfusion reaction	serum reaction due to blood administration
+C0033375	C0271555	Prolactinoma	Secondary hyperprolactinemia due to prolactin-secreting tumor
+C0017536	C2049899	Infection by Giardia lamblia	infectious diarrhea of HIV patient due to Giardia lamblia
+C0042721	C0153089	Viral hepatitis	Hepatic coma due to viral hepatitis
+C0042721	C0375009	Viral hepatitis	Chronic viral hepatitis C with hepatic coma
+C1640722	C0340069	Allergic reaction to colophony	Colophony asthma
+C0854685	C3873510	Incomplete induced termination of pregnancy	Genital tract infection due to incomplete induced termination of pregnancy
+C0041582	C4040477	Ulcerative	Hemorrhage of anastomosis due to ulcer
+C2711706	C4040523	Angiodysplasia of duodenum	Duodenal hemorrhage due to angiodysplasia of duodenum
+C0027429	C0264619	Nasal obstruction present	Posterior rhinolalia clausa
+C0269608	C1531966	Antepartum hemorrhage	Fetal effects of maternal antepartum hemorrhage
+C0016325	C1290540	Fluorosis	Generalized enamel hypoplasia associated with fluorosis
+C0398563	C0472792	Deficiency of hexokinase	Hemolytic anemia due to hexokinase deficiency
+C0557864	C0564931	Shooting self	Suicide - firearms
+C1262480	C4039073	Allergic gastritis	Gastric hemorrhage due to allergic gastritis
+C0557942	C0564930	Drowning self	Suicide - drowning
+C0557941	C0564928	Hanging self	Suicide - hanging
+C0557940	C0564933	Jumping from height	Suicide - jumping from a high place
+C0039144	C4038756	Syringomyelia	Charcot arthropathy due to syringomyelia
+C0557945	C0564929	Self-asphyxiation	Suicide - suffocation
+C0265902	C3532048	Anomalous origin of coronary artery from pulmonary arterial tree	Cardiovascular abnormality due to anomalous origin of coronary artery from pulmonary artery
+C0014118	C3532345	Endocarditis	Atrioventricular block due to endocarditis
+C0042790	C0028856	Visual system disorder	Ocular torticollis
+C0042790	C2231322	Visual system disorder	right-sided ocular torticollis
+C0042790	C2231323	Visual system disorder	left-sided ocular torticollis
+C0232475	C4019039	Decreased peristalsis	Intestinal obstruction co-occurrent and due to decreased peristalsis
+C1627750	C0416541	Voluntary parachute descent accident	Injury to parachutist from action of ejector seat
+C0410992	C0270193	Newborn slipped umbilical ligature	Slipped umbilical ligature with hemorrhage
+C0410993	C0410983	Bruising in fetus OR newborn	Perinatal jaundice from bruising
+C0014117	C0264845	Endocardial fibroelastosis	Restrictive cardiomyopathy secondary to endocardial fibroelastosis
+C1138434	C1567742	X-linked hereditary disease	ALPORT SYNDROME, X-LINKED
+C0424376	C0564932	Cutting self	Suicide - cut/stab
+C0677607	C0342159	Hashimoto thyroiditis	Hypothyroidism due to Hashimoto's thyroiditis
+C1384666	C1955750	Decreased hearing	Speech and language developmental delay due to hearing loss
+C0563238	C4038584	Viral gastritis	Gastric hemorrhage due to viral gastritis
+C0017168	C1997203	Acid reflux	Laryngitis due to gastroesophageal reflux
+C0011389	C3873460	Dental plaque	Gingival disease due to dental plaque
+C0013537	C0743381	Eclampsia	Eclamptic seizure
+C0393571	C0270734	Multiple system atrophy	Parkinsonian syndrome associated with idiopathic orthostatic hypotension
+C0441471	C1997875	Event	Injury due to impact of moving object with stationary subject
+C1691228	C0272146	Cystic disease of kidney	Erythrocytosis due to renal cyst
+C2959626	C4038921	Dieulafoy vascular malformation of stomach	Gastric hemorrhage due to Dieulafoy lesion of stomach
+C0269284	C0411166	Intraperitoneal pregnancy	Fetal or neonatal effect of intraperitoneal ectopic pregnancy
+C0038663	C2585626	Suicide attempt	Injury due to suicide attempt
+C0149853	C3536609	Occlusion of internal carotid artery	Cerebral infarction due to internal carotid artery occlusion
+C0343259	C2368033	Immobility syndrome	urinary incontinence due to immobility
+C0003864	C3840185	Arthritis	Osteoarthritis of ankle secondary to inflammatory arthritis
+C0020649	C0234434	Low blood pressure	Hypotensive syncope
+C0161011	C0274249	Foreign body in larynx	Asphyxia due to foreign body in larynx
+C1827668	C0399555	Tongue thrusting when swallowing, abnormal persistence beyond early childhood	Malocclusion due to tongue habits
+C0232352	C3839378	Vascular insufficiency	Hemosiderosis of lower limb due to venous insufficiency
+C0263874	C3662826	Degeneration of lumbar intervertebral disc	Lumbar discogenic pain
+C0852949	C2062888	Disorder of artery	primary pulmonary hypertension due to plexogenic arteriopathy
+C0035436	C3840221	Active rheumatic fever	Carditis due to rheumatic fever
+C0032708	C1274691	Porphyrinopathy	Hypertrichosis in porphyria
+C0024523	C0451875	Intestinal malabsorption	Adult osteomalacia due to malabsorption
+C1291287	C0272070	Deficiency of glutathione reductase (NAD(P)H)	HNSHA due to glutathione reductase deficiency
+C0036323	C0268870	Infection by Schistosoma	Urethral stricture due to schistosomiasis
+C0995195	C0393620	Anoxia of brain	Post-anoxic myoclonus
+C0267211	C4040190	Vascular ectasia of gastric antrum	Gastric hemorrhage due to vascular ectasia of gastric antrum
+C0418710	C2728892	War injury due to nuclear weapons	thermal radiation burns from nuclear weapons during war operations
+C0418710	C2729112	War injury due to nuclear weapons	radiation sickness due to war operations by nuclear weapons
+C0418296	C0564927	Self poisoning by motor vehicle exhaust gas	Suicide - car exhaust
+C0426058	C0270020	Oblique lie	Fetal or neonatal effect of oblique lie before labor
+C0042875	C0393827	Vitamin E deficiency	Neuropathy due to vitamin E deficiency
+C4038934	C2930997	Deficiency of glucosyltransferase 1	Congenital disorder of glycosylation type 1c
+C0042870	C0271848	Vitamin D deficiency	Hyperparathyroidism due to vitamin D deficiency
+C1541923	C3532346	Infective endocarditis	Arrhythmia due to vegetation of infective endocarditis
+C3711368	C3873298	Genetic disorder of surfactant dysfunction	Chronic lung disease due to surfactant disorder
+C0013182	C0451926	Allergic reaction to drug	Allergic contact dermatitis due to drugs in contact with the skin
+C0155778	C3873641	Varicose veins of lower extremity	Pain due to varicose veins of lower extremity
+C0008925	C2317459	Cleft palate	Velopharyngeal incompetence due to cleft palate
+C0376545	C0559238	Hematologic neoplasm	Arthritis secondary to hematological malignancy
+C0344955	C3164518	Interventricular cardiac septal hypertrophy	Right ventricular outflow tract obstruction due to septal hypertrophy
+C0039841	C0340436	Thiamin deficiency	Cardiac beriberi
+C0152179	C3532520	Disorder of vagus nerve	Vagal autonomic bradycardia of prematurity
+C0040156	C0393925	Thyrotoxicosis with or without goiter	Myasthenic syndrome due to thyrotoxicosis
+C0040156	C2227929	Thyrotoxicosis with or without goiter	amyotrophy secondary to thyrotoxicosis
+C0265808	C1264013	Cyanotic congenital heart disease	Erythrocytosis due to cyanotic congenital heart disease
+C0342386	C1720544	Follicle stimulating hormone deficiency	Hypogonadotropic hypogonadism due to follicle-stimulating hormone deficiency
+C1264238	C1828334	Injury of central nervous system	Traumatic cyst of leptomeninges
+C3251826	C3872561	Malnutrition (calorie)	Gingival disease due to malnutrition
+C3251827	C0410217	Protein deficiency disease	Protein deficiency myopathy
+C0178324	C0473366	Injury of blood vessel	Antepartum hemorrhage with trauma - delivered
+C0220992	C0220992	Deficiency of histidine ammonia-lyase	Deficiency of histidine ammonia-lyase
+C1442839	C3697652	Hypervitaminosis D	Hypercalcemia due to hypervitaminosis D
+C1291620	C1264015	Deficiency of bisphosphoglycerate mutase	Familial erythrocytosis due to diphosphoglycerate mutase deficiency
+C1565489	C0271847	Renal impairment	Hyperparathyroidism due to renal insufficiency
+C1565489	C0409909	Renal impairment	Gout secondary to renal impairment
+C1565489	C2893471	Renal impairment	Gout of shoulder due to renal impairment
+C1565489	C2893474	Renal impairment	Gout of elbow due to renal impairment
+C1565489	C2893478	Renal impairment	Gout of wrist due to renal impairment
+C1565489	C2893482	Renal impairment	Gout of hand due to renal impairment
+C1565489	C2893486	Renal impairment	Gout of hip due to renal impairment
+C1565489	C2893490	Renal impairment	Gout of knee due to renal impairment
+C1565489	C2893498	Renal impairment	Gout of vertebra due to renal impairment
+C1565489	C2893499	Renal impairment	Gout of multiple sites due to renal impairment
+C1565489	C4038629	Renal impairment	Chronic tophaceous gout of shoulder due to renal impairment
+C1565489	C4038827	Renal impairment	Chronic tophaceous gout of knee due to renal impairment
+C1565489	C4038882	Renal impairment	Chronic gout of multiple sites without tophus due to renal impairment
+C1565489	C4038977	Renal impairment	Chronic gout of wrist without tophus due to renal impairment
+C1565489	C4039091	Renal impairment	Chronic gout of elbow without tophus due to renal impairment
+C1565489	C4039422	Renal impairment	Chronic gout of ankle without tophus due to renal impairment
+C1565489	C4039483	Renal impairment	Chronic tophaceous gout of vertebra due to renal impairment
+C1565489	C4039647	Renal impairment	Chronic tophaceous gout of elbow due to renal impairment
+C1565489	C4039931	Renal impairment	Chronic tophaceous gout of hand due to renal impairment
+C1565489	C4040160	Renal impairment	Chronic gout without tophus due to renal impairment
+C1565489	C4040165	Renal impairment	Chronic tophaceous gout of multiple sites due to renal impairment
+C1565489	C4040249	Renal impairment	Chronic tophaceous gout of wrist due to renal impairment
+C1565489	C4040422	Renal impairment	Chronic gout of shoulder without tophus due to renal impairment
+C1565489	C4040538	Renal impairment	Chronic tophaceous gout due to renal impairment
+C1565489	C4040649	Renal impairment	Chronic gout of hand without tophus due to renal impairment
+C1565489	C4040693	Renal impairment	Chronic gout of vertebra without tophus due to renal impairment
+C1565489	C4040742	Renal impairment	Chronic tophaceous gout of ankle due to renal impairment
+C1565489	C4040825	Renal impairment	Chronic gout of knee without tophus due to renal impairment
+C1565489	C4041042	Renal impairment	Chronic gout of hip without tophus due to renal impairment
+C1565489	C4041387	Renal impairment	Chronic tophaceous gout of hip due to renal impairment
+C0024790	C2711085	Paroxysmal nocturnal hemoglobinuria	Thrombophilia due to paroxysmal nocturnal hemoglobinuria
+C0085271	C1290899	Self-injurious behavior	Self abuse
+C1635270	C0684900	Allergic reaction to pollen	Allergic rhinitis due to weed pollens
+C0085273	C0343582	Erythema infectiosum	Parvoviral aplastic crisis
+C0398561	C0272064	Glucose phosphate isomerase deficiency	HNSHA due to glucose phosphate isomerase deficiency
+C0400926	C4039958	Alcoholic hepatic failure	Hepatic coma due to alcoholic liver failure
+C0011644	C0410199	Scleroderma	Myopathy due to systemic sclerosis
+C0024636	C0266931	Malocclusion of teeth	Periodontal lesion due to traumatic occlusion
+C0030759	C0343042	Infestation by Phthirus pubis	Maculae ceruleae
+C0003081	C0339696	Anisometropia	Anisometropic amblyopia
+C0948900	C0019151	Portal systemic vascular shunt disorder	Portal systemic encephalopathy
+C0001261	C3839903	Actinomycotic infection	Encephalitis due to Actinomyces
+C0348754	C4038684	Toxic liver disease	Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease
+C0270611	C4039719	Acquired brain injury	Aphasia due to brain damage
+C0265764	C3164693	Congenital anomaly of trachea	Congenital stenosis of trachea due to tracheal web
+C0685128	C0272150	Benign neoplasm of blood vessel of head	Erythrocytosis due to cerebellar hemangioma
+C1306873	C2062910	Effects of air pressure	compression arthralgia
+C0027022	C3698572	Proliferation of myeloid cells	Pulmonary hypertension due to myeloproliferative disorder
+C0281962	C4040020	Recurrent inguinal hernia	Intestinal obstruction due to recurrent inguinal hernia
+C0042580	C3874949	Vesicoureteric reflux	Unilateral reflux nephropathy due to vesicoureteral reflux
+C0019348	C1960541	Herpes simplex	Corneal haze due to herpes simplex
+C0019348	C2049900	Herpes simplex	infectious diarrhea of HIV patient due to Herpes simplex
+C0018213	C3839430	Toxic diffuse goiter with exophthalmos	Ophthalmoplegia due to Graves disease
+C0342938	C0272015	Pantothenic acid deficiency	Anemia due to pantothenic deficiency
+C0453996	C3266663	Tobacco smoking behavior - finding	Smoker's melanosis
+C0025289	C1320475	Meningitis	Nuchal rigidity due to meningitis
+C0025289	C2189666	Meningitis	viral encephalitis due to meningitis
+C0004238	C1960656	Atrial fibrillation	Transient cerebral ischemia due to atrial fibrillation
+C0156076	C3874421	Alcoholic gastritis	Gastric hemorrhage due to alcoholic gastritis
+C0302085	C3839764	Decreased erythrocyte production	Iron deficiency anemia in mother complicating childbirth
+C0019187	C4038944	Alcoholic hepatitis	Ascites due to alcoholic hepatitis
+C0011854	C3875519	Type 1 diabetes mellitus	Chronic kidney disease stage 1 due to type 1 diabetes mellitus
+C0011854	C4040935	Type 1 diabetes mellitus	Skin ulcer of toe due to diabetes mellitis type 1
+C0302813	C0022951	Lactase deficiency	Milk intolerance
+C0002066	C1444199	Homogentisate 1,2-dioxygenase deficiency	Exogenous ochronosis
+C0002066	C3494894	Homogentisate 1,2-dioxygenase deficiency	Arthritis due to alkaptonuria
+C0025517	C3839449	Generalized metabolic disorder	Pericarditis due to metabolic disease
+C0025517	C4039860	Generalized metabolic disorder	Arthropathy due to metabolic disorder
+C0025517	C4040485	Generalized metabolic disorder	Neuropathy of upper limb due to metabolic disorder
+C0025517	C4040658	Generalized metabolic disorder	Peripheral neuropathy due to metabolic disorder
+C0271847	C1274775	Hyperparathyroidism due to renal insufficiency	Calcifying panniculitis due to hyperparathyroidism in renal disease
+C0008149	C2049892	Chlamydial infection	infectious diarrhea of HIV patient due to Chlamydia
+C0015944	C0411160	Preterm rupture of membranes	Fetal or neonatal effect of maternal premature rupture of membrane
+C0392536	C4039671	Failed attempted termination of pregnancy	Cardiac arrest due to failed attempted abortion
+C0473472	C0158845	Precipitate labor	Fetal or neonatal effect of precipitate delivery
+C0242422	C2585779	Parkinsonism	Cerebral degeneration due to Parkinson's disease
+C0085207	C3875297	Gestational diabetes mellitus	Fetal hypertrophic cardiomyopathy due to maternal diabetes mellitus
+C1641598	C0558957	Machinery accident on aircraft	Injury from machinery on aircraft, without accident to aircraft
+C0267392	C4038818	Pseudopolyposis of colon	Rectal hemorrhage due to inflammatory polyps of colon
+C0267392	C4039430	Pseudopolyposis of colon	Abscess of intestine co-occurrent and due to colonic inflammatory polyps
+C0267392	C4039768	Pseudopolyposis of colon	Fistula of intestine due to inflammatory polyps of colon
+C0267392	C4039914	Pseudopolyposis of colon	Intestinal obstruction due to colonic inflammatory polyps
+C0267392	C4040816	Pseudopolyposis of colon	Complication due to colonic inflammatory polyps
+C0020517	C3714758	Allergic reaction to substance	Juvenile psoriatic arthritis
+C0265098	C3536611	Basilar artery occlusion	Cerebral infarction due to occlusion of basilar artery
+C0343400	C2049903	Intestinal microsporidiosis	infectious diarrhea of HIV patient due to Microsporidia
+C1458137	C0411136	Maternofetal transfusion	Fetal or neonatal effect of maternofetal transplacental transfusion
+C0153188	C0234668	Late syphilis	Argyll-Robertson pupil
+C0020458	C0406492	Hyperhidrosis	Symmetrical lividities of soles
+C0265090	C4040904	Precerebral arterial occlusion	Cerebral infarction due to occlusion of precerebral artery
+C0013604	C0339142	Hydrops	Exophthalmos due to orbital edema or congestion
+C0013604	C4032253	Hydrops	airway obstructed by edema tracheal
+C0013604	C4032254	Hydrops	airway obstructed by edema right main bronchus
+C0013604	C4032255	Hydrops	airway obstructed by edema oropharyngeal
+C0013604	C4032256	Hydrops	airway obstructed by edema nasopharyngeal
+C0013604	C4032257	Hydrops	airway obstructed by edema left main bronchus
+C0013604	C4032258	Hydrops	airway obstructed by edema laryngeal
+C0013604	C4032259	Hydrops	airway obstructed by edema hypopharyngeal
+C0013604	C4032260	Hydrops	airway obstructed by edema epiglottal
+C0013604	C4032261	Hydrops	airway obstructed by edema carinal
+C0013604	C4032262	Hydrops	airway obstructed by edema
+C0265097	C3661897	Basilar artery stenosis	Cerebral infarction due to basilar artery stenosis
+C1719770	C2315822	Obstruction of urethral urinary catheter	Retention of urine due to occlusion of Foley catheter
+C0019045	C0554590	Hemoglobinopathy	Arthropathy secondary to hemoglobinopathy
+C0728867	C2903039	Drug action	Oligospermia due to drug therapy
+C0005940	C0271336	Disorder of bone	Orbital deformity due to bone disease
+C3872634	C3698477	Acquired obstruction of urinary tract	Nephropathy due to acquired urinary tract obstruction
+C0008707	C0410423	Chronic osteomyelitis	Chronic osteomyelitis with draining sinus
+C0008707	C0839970	Chronic osteomyelitis	Chronic osteomyelitis of humerus with draining sinus
+C0008707	C0839971	Chronic osteomyelitis	Chronic osteomyelitis of forearm with draining sinus
+C0008707	C0839972	Chronic osteomyelitis	Chronic osteomyelitis of hand with draining sinus
+C0008707	C0839974	Chronic osteomyelitis	Chronic osteomyelitis of lower leg with draining sinus
+C0008707	C2901866	Chronic osteomyelitis	Chronic osteomyelitis of shoulder with draining sinus
+C0008707	C2901880	Chronic osteomyelitis	Chronic osteomyelitis of femur with draining sinus
+C0008707	C4040075	Chronic osteomyelitis	Chronic osteomyelitis of ankle and/or foot with draining sinus
+C0008707	C4040521	Chronic osteomyelitis	Chronic osteomyelitis of ankle with draining sinus
+C0008707	C4041283	Chronic osteomyelitis	Chronic osteomyelitis of foot with draining sinus
+C0005122	C0393629	Beriberi	Cerebral degeneration due to beriberi
+C0005122	C2024809	Beriberi	dilated cardiomyopathy secondary to beriberi
+C0348893	C4041467	Chronic superficial gastritis	Gastric hemorrhage due to chronic superficial gastritis
+C0243026	C0242966	Sepsis	Sepsis syndrome
+C3839404	C3839864	Increased follicle-stimulating hormone and estradiol level	Diminished ovarian reserve due to increased follicle-stimulating hormone and estradiol
+C0424139	C3661804	Anxiety and fear	Insomnia due to anxiety and fear
+C1274311	C1275335	Hodgkin's disease affecting skin	Hypermelanosis due to Hodgkin's disease
+C0018081	C0268869	Gonorrhea	Urethral stricture due to gonococcal infection
+C0018081	C2049907	Gonorrhea	infectious diarrhea of HIV patient due to Neisseria gonorrhea
+C1443396	C1997914	Infection of central venous catheter	Sepsis due to infected central venous catheter
+C2939149	C2875966	Amyloid of cornea	Amyloid pterygium
+C0750887	C3839852	Malignant tumor of adrenal gland	Primary hyperaldosteronism due to aldosterone-secreting malignant neoplasm of adrenal gland
+C0013781	C0277644	Exposure to electric current, with passage of current through tissue	Death by electrocution
+C1274251	C0546969	Developmental malformation of branchial arch	Preauricular fistula
+C0936215	C0393826	Vitamin B6 deficiency	Neuropathy due to vitamin B6 deficiency
+C0038187	C0272021	Starvation	Anemia due to starvation
+C0020224	C3662223	Polyhydramnios	Fetal or neonatal effect of maternal polyhydramnios
+C0522224	C1960196	Paralysis	Contracture of gastrocnemius muscle due to paralysis
+C0021670	C0342333	Insulinoma	Hyperinsulinemia due to insulinoma
+C0012739	C3873495	Disseminated intravascular coagulation	Antepartum hemorrhage due to disseminated intravascular coagulation
+C0004943	C0451789	Behcet's syndrome	Ulceration of vulva in Behcet's disease
+C0012634	C3875047	Disease	Secondary chronic nephritis
+C0012634	C4041080	Disease	Neurocognitive disorder
+C0272927	C0520748	Brain injury without open intracranial wound	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level
+C0546884	C0340863	Hypovolemia	Postoperative hypovolemic shock
+C0341677	C0221041	Impaired renal function disorder	Renal dwarfism
+C0405028	C0411150	Long umbilical cord	Fetal or neonatal effect of long cord
+C0020217	C0271773	Molar pregnancy	Hyperthyroidism due to hydatidiform mole with thyrotoxic crisis
+C0269852	C0411149	Vasa previa	Fetal or neonatal effect of vasa previa of cord
+C1299548	C0043153	Deficiency of selenium AND/OR vitamin E	Myopathy secondary to deficiency of selenium and/or vitamin E
+C1299548	C3670192	Deficiency of selenium AND/OR vitamin E	Cardiomyopathy secondary to deficiency of selenium and/or vitamin E
+C0269856	C0411146	Thrombosis of vessels of cord	Fetal or neonatal effect of thrombosis of umbilical cord
+C0034091	C2062887	Pulmonary veno-occlusive disease	primary pulmonary hypertension due to veno-occlusive disease
+C0232098	C2229341	Decreased plasma volume	secondary polycythemia due to low plasma volume
+C0401074	C4040492	Irreducible inguinal hernia	Intestinal obstruction due to recurrent irreducible inguinal hernia
+C0398746	C0272072	Deficiency of glutathione synthase	HNSHA due to glutathione synthetase deficiency
+C0026780	C2062496	Mumps parotitis	postmumps encephalomyelitis
+C0340957	C0271969	Congenital deficiency of intrinsic factor	Megaloblastic anemia due to congenital deficiency of intrinsic factor
+C0017205	C0342815	Kerasin thesaurismosis	Cerebral degeneration in Gaucher's disease
+C0266383	C0269235	Congenital uterine anomaly	Female infertility associated with congenital anomaly of uterus
+C0235950	C0272020	Zinc deficiency	Anemia due to zinc deficiency
+C0028841	C1827466	Decreased intraocular pressure	Optic disc edema due to hypotony
+C0011175	C3873283	Dehydration	Xerostomia due to dehydration
+C1290270	C3887245	Neoplasm of tibia	Pathological fracture of right tibia due to neoplasm
+C0032064	C1719490	Plague	Acute gingivitis, plaque induced
+C0878544	C3839695	Myocardial disease	Heart failure with reduced ejection fraction due to cardiomyopathy
+C0007095	C3839962	Carcinoid tumor - morphology	Tricuspid valve regurgitation due to carcinoid tumor
+C1642386	C0238375	Allergic reaction to platinum	Platinosis
+C0026703	C0342838	Mucopolysaccharidosis	Cerebral degeneration in mucopolysaccharidosis
+C0520753	C0267216	Swallowed foreign body	Traumatic reticulopericarditis
+C0332768	C2036828	Subluxation	subluxation of nerve
+C0424594	C2366908	Frailty	complete immobility due to frailty
+C0035204	C1827412	Disorder of respiratory system	Cardiac arrest due to respiratory disorder
+C0026705	C0342840	Mucopolysaccharidosis, MPS-II	Cerebral degeneration in Hunter's disease
+C0221423	C2042156	Illness	absent from job due to illness
+C0546319	C3698282	Left coronary artery occlusion	Acute myocardial infarction due to left coronary artery occlusion
+C0546319	C4039964	Left coronary artery occlusion	Acute ST segment elevation myocardial infarction due to left coronary artery occlusion
+C0019288	C4039375	Femoral hernia	Intestinal obstruction due to bilateral femoral hernia
+C0019288	C4040292	Femoral hernia	Intestinal obstruction due to bilateral recurrent femoral hernia
+C0429531	C0339582	Congenital malformation of angle of anterior chamber of eye	Glaucoma due to chamber angle anomaly
+C0001618	C0392593	Neoplasm of adrenal cortex	Hyperaldosteronism due to neoplasm of the adrenal cortex
+C0021071	C0272252	Immunoproliferative small intestinal disease (clinical)	Alpha heavy chain disease, respiratory form
+C1404773	C1998147	Acute renal cortical necrosis	Acute renal failure due to acute cortical necrosis
+C0041948	C3873532	Uremia	Uremic pruritis
+C0012813	C4038984	Diverticulitis	Perforation of small intestine due to diverticulitis
+C0012813	C4039059	Diverticulitis	Hemorrhage of small intestine due to diverticulitis
+C0012813	C4039158	Diverticulitis	Perforation of cecum due to diverticulitis
+C0012813	C4039392	Diverticulitis	Perforation of small intestine co-occurrent with hemorrhage due to diverticulitis
+C0012813	C4039677	Diverticulitis	Perforation of duodenum due to diverticulitis
+C0012813	C4039748	Diverticulitis	Abscess of jejunum co-occurrent and due to diverticulitis
+C0012813	C4040939	Diverticulitis	Diverticulitis of small and large intestine with perforation
+C0012813	C4041149	Diverticulitis	Perforation of sigmoid colon due to diverticulitis
+C0012813	C4041183	Diverticulitis	Perforation of ileum due to diverticulitis
+C0012813	C4041411	Diverticulitis	Abscess of sigmoid colon co-occurrent and due to diverticulitis
+C0027765	C1304370	Disorder of nervous system	Hypermelanosis due to nervous system disorder
+C0027765	C2893842	Disorder of nervous system	Arthropathy of shoulder due to neurological disorder
+C0027765	C2893852	Disorder of nervous system	Arthropathy of wrist due to neurological disorder
+C0027765	C4038680	Disorder of nervous system	Arthropathy of pelvis due to neurological disorder
+C0267367	C3874401	Angiodysplasia of intestine	Intestinal hemorrhage due to angiodysplasia of intestine
+C1306656	C0340378	Cystic adventitial disease	Aortic regurgitation due to cystic medial necrosis of aorta
+C0263741	C0264512	Extra-articular rheumatoid process	Diffuse interstitial rheumatoid disease of lung
+C1295654	C1697976	Decreased testosterone level	Hypotestosteronism
+C0581346	C1621769	Generalized arthritis	Pseudoparalysis due to generalized arthritis
+C0003834	C1304418	Arterial insufficiency	Dermatosis resulting from arterial insufficiency
+C0003834	C2062859	Arterial insufficiency	chronic cutaneous ulcer due to arterial insufficiency
+C0003834	C4041211	Arterial insufficiency	Gangrene due to arterial insufficiency
+C0403495	C3536984	Specific renal tubule transport defect	Familial x-linked hypophosphatemic vitamin D refractory rickets
+C0392138	C1304176	Puncture by sea urchin spine	Sea-urchin granuloma
+C0038525	C1321245	Subarachnoid hemorrhage	Nuchal rigidity due to subarachnoid hemorrhage
+C0342245	C0339476	Diabetic oculopathy	Diabetic traction retinal detachment
+C3203356	C0272318	Factor II deficiency	Hemorrhagic disease of the newborn due to factor II deficiency
+C0524909	C1827079	Chronic type B viral hepatitis	Hepatic coma due to chronic hepatitis B
+C3532535	C2106886	Complication associated with cardiac implant	hemorrhage due to cardiac device, implant, or graft
+C3532536	C2106854	Complication associated with neurological device	embolism due to nervous system device, implant, or graft
+C3532536	C2106856	Complication associated with neurological device	hemorrhage due to nervous system device, implant, or graft
+C0151945	C0451676	Thrombosis of cerebral veins	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic
+C0151945	C3536606	Thrombosis of cerebral veins	Cerebral infarction due to cerebral venous thrombosis
+C3203358	C3698232	Alveolar hypoventilation	Pulmonary hypertension due to alveolar hypoventilation disorder
+C1959632	C3875273	Plasma cell neoplasm (morphology)	Light chain nephropathy due to plasma cell dyscrasia
+C0348019	C3164379	Aneurysm of membranous septum	Right ventricular outflow tract obstruction due to aneurysm of membranous septum
+C1690973	C0277363	Allergic reaction to flea bite	Allergic dermatitis due to bite of Ctenocephalides canis
+C0158775	C0495617	Congenital deformity of spine	Congenital scoliosis due to bony malformation
+C1690975	C0264480	Allergic reaction to flour dust	Bakers' asthma
+C0152419	C3532158	Interrupted aortic arch	Abnormality within thorax due to interruption of aortic arch
+C0599035	C0018425	Ornithine aminotransferase deficiency	Gyrate atrophy
+C0080233	C1290789	Acquired absence of teeth	Inadequate vestibular depth after teeth loss
+C2315039	C1399422	Excessive dietary intake of iron	hemosiderosis dietary
+C2103989	C4047625	Varicose veins of left lower limb	Pain co-occurrent and due to varicose veins of left leg
+C2103989	C4047626	Varicose veins of left lower limb	Pain co-occurrent and due to varicose veins of bilateral legs
+C0424295	C1960538	Hyperactive behavior	Articulation disorder due to hyperkinesis
+C1689974	C0451927	Allergic reaction to dye	Allergic contact dermatitis due to dyes
+C0742724	C0274387	Complication of procedure	Hepatorenal syndrome due to a procedure
+C0742724	C2106877	Complication of procedure	embolism due to certain specified procedures
+C0742724	C2106879	Complication of procedure	hemorrhage due to certain specified procedures
+C0742724	C2106880	Complication of procedure	pain due to certain specified procedures
+C0742724	C2106882	Complication of procedure	thrombus due to certain specified procedures
+C0742724	C4029719	Complication of procedure	chronic venous embolism resulting from a procedure
+C0742724	C4032324	Complication of procedure	acute venous embolism resulting from a procedure
+C0575158	C1997603	Kyphoscoliosis deformity of spine	Restrictive lung disease due to kyphoscoliosis
+C0152021	C3532229	Congenital heart disease	Heart failure due to end stage congenital heart disease
+C0414085	C0456459	Railway accident	Injury to body part projecting from railway vehicle
+C0031036	C1563091	Polyarteritis nodosa	Retinal vasculitis due to polyarteritis nodosa
+C0342405	C0554439	Pituitary infarction	Post-infarction panhypopituitarism
+C0016412	C0477302	Folic acid deficiency	Other folate deficiency anemias
+C3263722	C3838930	Traumatic AND/OR non-traumatic injury	Retinopathy as late effect of radiation
+C3263723	C3839535	Traumatic injury	Talonavicular osteoarthritis secondary to trauma
+C3263723	C4038674	Traumatic injury	Osteonecrosis of finger due to trauma
+C3263723	C4038940	Traumatic injury	Complete edentulism class III due to trauma
+C3263723	C4038995	Traumatic injury	Osteonecrosis of toe due to trauma
+C3263723	C4039311	Traumatic injury	Osteonecrosis of hand due to trauma
+C3263723	C4039539	Traumatic injury	Partial edentulism class III due to trauma
+C3263723	C4039669	Traumatic injury	Osteonecrosis of fibula due to trauma
+C3263723	C4039736	Traumatic injury	Complete edentulism class IV due to trauma
+C3263723	C4039761	Traumatic injury	Osteonecrosis of femur due to trauma
+C3263723	C4039844	Traumatic injury	Osteonecrosis of tibia due to trauma
+C3263723	C4039951	Traumatic injury	Complete edentulism due to trauma
+C3263723	C4039995	Traumatic injury	Partial edentulism class IV due to trauma
+C3263723	C4040072	Traumatic injury	Osteonecrosis of shoulder due to trauma
+C3263723	C4040265	Traumatic injury	Partial edentulism class II due to trauma
+C3263723	C4040726	Traumatic injury	Complete edentulism class I due to trauma
+C3263723	C4040775	Traumatic injury	Partial edentulism class I due to trauma
+C3263723	C4041339	Traumatic injury	Partial edentulism due to trauma
+C3263723	C4041457	Traumatic injury	Complete edentulism class II due to trauma
+C3263723	C4041491	Traumatic injury	Osteonecrosis due to trauma
+C0020579	C3698423	Hypervitaminosis A	Benign intracranial hypertension due to hypervitaminosis A
+C0042485	C2586181	Peripheral venous insufficiency	Ulcer of limb due to chronic venous insufficiency
+C3532054	C3532056	Bilateral patent arterial ducts	Cardiovascular abnormality due to bilateral arterial ducts
+C0342387	C1720681	LH - luteinizing hormone deficiency	Hypogonadotropic hypogonadism due to luteinizing hormone deficiency
+C0398662	C3698512	Post-splenectomy disorder	Pulmonary hypertension due to post-splenectomy hematological disorder
+C0020550	C1274689	Hyperthyroidism	Hypertrichosis in hyperthyroidism
+C0040456	C1290589	Impacted tooth	Failure of tooth eruption associated with tooth impaction
+C0268070	C0272019	Hypocupremia	Anemia due to copper deficiency
+C0029882	C3874356	Otitis media	Perforation of tympanic membrane due to otitis media
+C0268075	C0343310	Neonatal hypomagnesemia	Hypomagnesemic tetany in newborn
+C2748397	C2106873	Complication associated with vascular device	embolism due to vascular device, implant, or graft
+C2748397	C2106875	Complication associated with vascular device	hemorrhage due to vascular device, implant, or graft
+C0268482	C2936910	Disorder of tyrosine metabolism	Cross syndrome
+C2586050	C2585048	Ulcerative esophagitis	Esophageal bleeding due to ulcerative esophagitis
+C0520572	C1444206	Enzymopathy	Clinical manifestation of enzyme deficiency
+C0261200	C0415581	Pedal cycle accident	Injury to cyclist off public highway
+C0085988	C3647242	Disproportion between fetal head and pelvis	Obstructed labor due to disproportion between fetus and pelvis
+C0085619	C3661810	Orthopnea	Sleeps in sitting position due to orthopnea
+C0025312	C0269722	Myelocystocele	Fetal disproportion due to fetal myelomeningocele
+C0156147	C4039123	Crohn's disease of colon	Abscess of intestine co-occurrent and due to Crohn's disease of large intestine
+C0156147	C4040359	Crohn's disease of colon	Intestinal obstruction due to Crohn's disease of large intestine
+C0156147	C4040964	Crohn's disease of colon	Rectal hemorrhage due to Crohn's disease of large intestine
+C0156147	C4041142	Crohn's disease of colon	Complication due to Crohn's disease of large intestine
+C0005604	C1632846	Birth trauma	Ruptured Descemet membrane due to birth trauma
+C2919335	C4038678	Chronic ulcer of sacral region	Necrosis of sacral bone co-occurrent and due to chronic ulcer of sacrum
+C2919335	C4041034	Chronic ulcer of sacral region	Necrosis of sacral muscle co-occurrent and due to chronic ulcer of sacrum
+C0015732	C3873254	Incontinence of feces	Fecal soiling co-occurrent and due to fecal incontinence
+C0015734	C2231094	Fecal impaction	autonomic dysreflexia due to fecal impaction
+C0022336	C0553753	Jakob-Creutzfeldt disease	Cerebral degeneration due to Creutzfeldt-Jakob disease
+C0007820	C0457618	Cerebrovascular disease	Cerebral degeneration due to cerebrovascular disease
+C0007820	C3696920	Cerebrovascular disease	Vascular dementia in remission
+C0348911	C3662238	Placental transfusion syndromes	Fetal or neonatal effect of placental transfusion syndrome
+C0567407	C3873632	Brittle type 1 diabetes mellitus	Retinopathy due to unstable diabetes mellitus type 1
+C0010823	C2049895	Cytomegalovirus infection	infectious diarrhea of HIV patient due to cytomegalovirus
+C0030567	C0236960	Parkinson's disease	Dementia due to Parkinson's disease
+C0030567	C4041512	Parkinson's disease	Restrictive lung disease due to Parkinson disease
+C0006434	C0264949	Burn	Burn shock
+C0006434	C0343257	Burn	Myositis ossificans associated with burns
+C0006434	C4038945	Burn	Myositis ossificans of hand due to burn
+C0006434	C4039346	Burn	Myositis ossificans of thigh due to burn
+C0006434	C4039506	Burn	Myositis ossificans of upper arm due to burn
+C0006434	C4039531	Burn	Myositis ossificans of lower leg due to burn
+C0006434	C4040537	Burn	Myositis ossificans of shoulder due to burn
+C0006434	C4040978	Burn	Myositis ossificans of ankle due to burn
+C0006434	C4041157	Burn	Myositis ossificans of forearm due to burn
+C0006434	C4041337	Burn	Myositis ossificans of foot due to burn
+C0006435	C1274799	Chemical burn	Oral ulceration due to chemical burn
+C0006435	C3506210	Chemical burn	chemical burn of the ear superficial (first degree)
+C0006435	C3506211	Chemical burn	chemical burn of the ear partial thickness (second degree)
+C0006435	C3506212	Chemical burn	chemical burn of the ear full thickness (third degree)
+C0006435	C3506213	Chemical burn	chemical burn ear 3rd degree with deep necrosis of underlying tissue
+C0006435	C3506214	Chemical burn	chemical burn of the ear third degree with loss of the ear
+C0006435	C3506215	Chemical burn	chemical burn of the face, head, or neck including eye
+C0006435	C3506223	Chemical burn	chemical burn of the lip superficial (first degree)
+C0006435	C3506224	Chemical burn	chemical burn of the lip partial thickness (second degree)
+C0006435	C3506225	Chemical burn	chemical burn of the lip full thickness (third degree)
+C0006435	C3506226	Chemical burn	chemical burn lip 3rd degree with deep necrosis of underlying tissue
+C0006435	C3506227	Chemical burn	chemical burn of the lip third degree with loss of the lip
+C0006435	C3506231	Chemical burn	chemical burn of the chin superficial (first degree)
+C0006435	C3506232	Chemical burn	chemical burn of the chin partial thickness (second degree)
+C0006435	C3506233	Chemical burn	chemical burn of the chin full thickness (third degree)
+C0006435	C3506234	Chemical burn	chemical burn chin 3rd deg with deep necrosis of underlying tissues
+C0006435	C3506235	Chemical burn	chemical burn of the chin third degree with loss of the chin
+C0006435	C3506239	Chemical burn	chemical burn of the nose superficial (first degree)
+C0006435	C3506240	Chemical burn	chemical burn of the nose partial thickness (second degree)
+C0006435	C3506241	Chemical burn	chemical burn of the nose full thickness (third degree)
+C0006435	C3506242	Chemical burn	chemical burn nose 3rd deg with deep necrosis of underlying tissues
+C0006435	C3506245	Chemical burn	chemical burn of the scalp superficial (first degree)
+C0006435	C3506246	Chemical burn	chemical burn of the scalp partial thickness (second degree)
+C0006435	C3506247	Chemical burn	chemical burn of the scalp full thickness (third degree)
+C0006435	C3506248	Chemical burn	chemical burn scalp 3rd deg with deep necrosis of underlying tissues
+C0006435	C3506249	Chemical burn	chemical burn of the scalp third degree with loss of the scalp
+C0006435	C3506251	Chemical burn	chemical burn of the temple superficial (first degree)
+C0006435	C3506252	Chemical burn	chemical burn of the temple partial thickness (second degree)
+C0006435	C3506253	Chemical burn	chemical burn of the temple full thickness (third degree)
+C0006435	C3506254	Chemical burn	chemical burn temple 3rd deg with deep necrosis of underlying tissue
+C0006435	C3506255	Chemical burn	chemical burn of the temple third degree with loss of the temple
+C0006435	C3506259	Chemical burn	chemical burn of the forehead superficial (first degree)
+C0006435	C3506260	Chemical burn	chemical burn of the forehead partial thickness (second degree)
+C0006435	C3506261	Chemical burn	chemical burn of the forehead full thickness (third degree)
+C0006435	C3506262	Chemical burn	chemical burn forehead 3rd deg w/ deep necrosis of underlying tissue
+C0006435	C3506263	Chemical burn	chemical burn forehead 3rd deg w/ loss of the skin of the forehead
+C0006435	C3506267	Chemical burn	chemical burn of the cheek superficial (first degree)
+C0006435	C3506268	Chemical burn	chemical burn of the cheek partial thickness (second degree)
+C0006435	C3506269	Chemical burn	chemical burn of the cheek full thickness (third degree)
+C0006435	C3506270	Chemical burn	chemical burn cheek 3rd deg w/ deep necrosis of underlying tissues
+C0006435	C3506271	Chemical burn	chemical burn cheek third degree with loss of the skin of the cheek
+C0006435	C3506275	Chemical burn	chemical burn of the neck superficial (first degree)
+C0006435	C3506276	Chemical burn	chemical burn of the neck partial thickness (second degree)
+C0006435	C3506277	Chemical burn	chemical burn of the neck full thickness (third degree)
+C0006435	C3506278	Chemical burn	chemical burn neck 3rd deg with deep necrosis of underlying tissues
+C0006435	C3506279	Chemical burn	chemical burn neck third degree with loss of the skin of the neck
+C0006435	C3506280	Chemical burn	chemical burn of the face, head, or neck - multiple sites
+C0006435	C3506281	Chemical burn	chemical burn face, head, neck mult sites superficial (1st degree)
+C0006435	C3506282	Chemical burn	chemical burn face, head, neck mult sites partial thickness (2nd deg)
+C0006435	C3506283	Chemical burn	chemical burn face, head, neck mult sites full thickness (3rd deg)
+C0006435	C3506284	Chemical burn	chemical burn face/head/neck mult sites 3rd deg w/ deep necrosis
+C0006435	C3506285	Chemical burn	chemical burn face/head/neck mult sites 3rd deg w/ loss of body part
+C0006435	C3506286	Chemical burn	chemical burn of the face, head, or neck superficial (first degree)
+C0006435	C3506287	Chemical burn	chemical burn of the face, head, or neck partial thickness (2nd deg)
+C0006435	C3506288	Chemical burn	chemical burn of the face, head, or neck full thickness (third deg)
+C0006435	C3506289	Chemical burn	chemical burn face, head, or neck third degree with deep necrosis
+C0006435	C3506290	Chemical burn	chemical burn face, head, or neck third degree with loss of part
+C0006435	C3506293	Chemical burn	chemical burn of trunk superficial (first degree)
+C0006435	C3506296	Chemical burn	chemical burn of the trunk superficial (first degree) breast
+C0006435	C3506297	Chemical burn	superficial (first degree) chemical burn of right breast
+C0006435	C3506298	Chemical burn	superficial (first degree) chemical burn of left breast
+C0006435	C3506299	Chemical burn	chemical burn superficial (1st deg) chest wall (excl breast & nipple)
+C0006435	C3506300	Chemical burn	1st deg chemical burn of chest wall (excl breast & nipple) right
+C0006435	C3506301	Chemical burn	1st deg chemical burn of chest wall (excl breast & nipple) left
+C0006435	C3506302	Chemical burn	chemical burn trunk first deg abdominal wall (incl flank and groin)
+C0006435	C3506317	Chemical burn	chemical burn of back (including buttocks)
+C0006435	C3506319	Chemical burn	chemical burn of back (including buttocks) superficial (first degree)
+C0006435	C3506320	Chemical burn	chemical burn superficial (first degree) upper back
+C0006435	C3506321	Chemical burn	chemical burn superficial (first degree) lower back
+C0006435	C3506322	Chemical burn	chemical burn superficial (first degree) buttocks
+C0006435	C3506323	Chemical burn	chemical burn superficial (first degree) right buttock
+C0006435	C3506324	Chemical burn	chemical burn superficial (first degree) left buttock
+C0006435	C3506325	Chemical burn	chemical burn of back (including buttocks) partial thickness (second degree)
+C0006435	C3506326	Chemical burn	chemical burn partial thickness (second degree) upper back
+C0006435	C3506327	Chemical burn	chemical burn partial thickness (second degree) lower back
+C0006435	C3506328	Chemical burn	chemical burn partial thickness (second degree) buttocks
+C0006435	C3506329	Chemical burn	chemical burn partial thickness (second degree) right buttock
+C0006435	C3506330	Chemical burn	chemical burn partial thickness (second degree) left buttock
+C0006435	C3506331	Chemical burn	chemical burn of back (including buttocks) full thickness (third degree)
+C0006435	C3506332	Chemical burn	chemical burn full thickness (third degree) upper back
+C0006435	C3506333	Chemical burn	chemical burn full thickness (third degree) lower back
+C0006435	C3506334	Chemical burn	chemical burn full thickness (third degree) buttocks
+C0006435	C3506335	Chemical burn	chemical burn full thickness (third degree) right buttock
+C0006435	C3506336	Chemical burn	chemical burn full thickness (third degree) left buttock
+C0014175	C4039185	Endometriosis (clinical)	Female infertility due to endometriosis
+C1290309	C0473987	Neoplasm of chest wall	Asphyxia by circumferential chest wall tumor
+C0041341	C3873350	Tuberous sclerosis syndrome	Lymphangioleiomyomatosis due to tuberous sclerosis syndrome
+C0001403	C1279223	Primary adrenocortical insufficiency	Addison melanoderma
+C0403447	C1561828	Chronic kidney disease	Anemia in chronic kidney disease
+C0403447	C1561829	Chronic kidney disease	Anemia in end stage renal disease
+C0403447	C1997037	Chronic kidney disease	Dependence on hemodialysis due to end stage renal disease
+C0403447	C1997375	Chronic kidney disease	Dependence on dialysis due to end stage renal disease
+C0403447	C1997877	Chronic kidney disease	Dependence on peritoneal dialysis due to end stage renal disease
+C0403447	C3472694	Chronic kidney disease	Anemia, pre-end stage renal disease on erythropoietin protocol
+C0403447	C3531787	Chronic kidney disease	Malignant hypertensive end stage renal disease on dialysis
+C1096063	C4038668	Refractory epilepsy	Status epilepticus due to refractory epilepsy
+C0011334	C2146693	Dental caries	acquired absence of teeth due to caries
+C0011334	C3508914	Dental caries	complete acquired absence of teeth due to caries
+C0011334	C3508915	Dental caries	complete acquired absence of teeth due to caries - class I
+C0011334	C3508916	Dental caries	complete acquired absence of teeth due to caries - class II
+C0011334	C3508917	Dental caries	complete acquired absence of teeth due to caries - class III
+C0011334	C3508918	Dental caries	complete acquired absence of teeth due to caries - class IV
+C0011334	C3508919	Dental caries	partial acquired absence of teeth due to caries
+C0011334	C3508920	Dental caries	partial acquired absence of teeth due to caries - class I
+C0011334	C3508921	Dental caries	partial acquired absence of teeth due to caries - class II
+C0011334	C3508922	Dental caries	partial acquired absence of teeth due to caries - class III
+C0011334	C3508923	Dental caries	partial acquired absence of teeth due to caries - class IV
+C0011334	C4039604	Dental caries	Partial edentulism due to caries
+C0011334	C4039870	Dental caries	Complete edentulism due to caries
+C0011334	C4040056	Dental caries	Complete edentulism class III due to caries
+C0011334	C4040237	Dental caries	Complete edentulism class II due to caries
+C0011334	C4040261	Dental caries	Partial edentulism class III due to caries
+C0011334	C4040311	Dental caries	Partial edentulism class II due to caries
+C0011334	C4040785	Dental caries	Partial edentulism class 1 due to caries
+C0011334	C4040994	Dental caries	Partial edentulism class IV due to caries
+C0011334	C4041285	Dental caries	Complete edentulism class IV due to caries
+C0011334	C4041388	Dental caries	Complete edentulism class I due to caries
+C0020522	C0271919	Cell-mediated immune reaction	Cellular immunologic aplastic anemia
+C1264285	C1300117	Intracranial injury with loss of consciousness	Traumatic intracranial subdural hematoma with brief loss of consciousness
+C0221147	C0272276	Decreased platelet production	Thrombocytopenia due to diminished platelet production
+C0221146	C1260901	Abnormal platelet production	Megakaryocytic aplasia
+C0000832	C3873539	Accidental antepartum hemorrhage	Disseminated intravascular coagulation due to placental abruption
+C0521618	C0474874	Stenosis of ureter	Ectopic ureterocele
+C1264288	C0273102	Traumatic brain injury with moderate loss of consciousness	Extradural hemorrhage following injury without open intracranial wound AND with moderate loss of consciousness (1-24 hours)
+C0027338	C1302817	Nail biting	Nail dystrophy due to nail biting
+C0018133	C1562910	Graft versus host disease	Keratoconjunctivitis sicca due to graft-versus-host disease
+C0037928	C3698365	Spinal cord disease	Chronic incomplete quadriplegia due to spinal cord lesion between fifth and seventh cervical vertebra
+C0415015	C0415471	Motor vehicle accident off public road	Injury to driver of non-racing motor bicycle driven off public roadway
+C0270120	C0270131	Intrauterine hypoxia AND/OR birth asphyxia	Fetal death from asphyxia AND/OR anoxia before onset of labor
+C0042133	C0272149	Uterine leiomyoma	Erythrocytosis due to uterine myoma
+C0019034	C0339493	Sickle cell-hemoglobin C disease	Sickle cell-hemoglobin C retinopathy
+C0149955	C0266185	Annular pancreas	Congenital duodenal obstruction due to annular pancreas

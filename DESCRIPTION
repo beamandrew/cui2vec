@@ -1,0 +1,39 @@
+Package: cui2vec
+Title: cui2vec Word Embeddings for Multimodal Data
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Benjamin",
+           family = "Kompa",
+           role = c("aut"),
+           email = "kompa@fas.harvard.edu"), 
+      person(given="Andrew", family="Beam", role=c("aut", "cre"), email="andrew_beam@hms.harvard.edu"), 
+      person(given="Allen", family="Schmaltz", role=c("aut"), email="aschmaltz@hsph.harvard.edu"))
+Description: We present a new set of embeddings for medical concepts learned 
+    using an extremely large collection of multimodal medical data. 
+    Leaning on recent theoretical insights, we demonstrate how an insurance 
+    claims database of 60 million members, a collection of 20 million clinical 
+    notes, and 1.7 million full text biomedical journal articles can be 
+    combined to embed concepts into a common space, resulting in the largest 
+    ever set of embeddings for 108,477 medical concepts. To evaluate our 
+    approach, we present a new benchmark methodology based on statistical 
+    power specifically designed to test embeddings of medical concepts. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0),
+    knitr,
+    rmarkdown
+Imports: 
+    irlba,
+    text2vec,
+    dplyr,
+    magrittr,
+    Matrix,
+    readr,
+    rlang,
+    data.table,
+    stringr,
+    here
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr

@@ -1,0 +1,83 @@
+CUI	Type	String
+C0028754	Concept	Obesity
+C0028756	Concept	Obesity, Morbid
+C0239194	Concept	Buffalo obesity
+C0267989	Concept	Lifelong obesity
+C0267992	Concept	Obesity of endocrine origin
+C0271523	Concept	Hypogonadal obesity
+C0271792	Concept	Hypothyroid obesity
+C0271885	Concept	Hypothalamic obesity
+C0311277	Concept	Obesity, Abdominal
+C0342942	Concept	Generalized obesity
+C0003864	Association	Arthritis
+C0037315	Association	Sleep Apnea Syndromes
+C0159030	Association	Insomnia with sleep apnea
+C0020538	Association	Hypertensive disease
+C1868937	Association	Blood pressure reading high 
+C2926615	Association	Ever told by doctor or nurse that you have high blood pressure
+C2054151	Association	taking medication for high blood pressure
+C2186528	Association	reported prior high blood pressure
+C2926598	Association	Medication taken for high blood pressure
+C0020443	Association	Hypercholesterolemia
+C1522133	Association	Hypercholesterolemia result
+C0853084	Association	High density lipoprotein increased
+C0023822	Association	High Density Lipoprotein Cholesterol
+C0428470	Association	Serum cholesterol very high
+C0742400	Association	CHOLESTEROL LDL HIGH RISK
+C1557226	Association	Serum Hypercholesteremia Adverse Event
+C2163356	Association	current diet high in cholesterol
+C2186235	Association	reported high cholesterol level
+C2710152	Association	cholesterol control, high
+C2711680	Association	Serum cholesterol borderline high
+C3842522	Association	High blood cholesterol
+C3844824	Association	High Cholesterol/Hyperlipidemia
+C0151691	Association	Decreased HDL cholesterol
+C0549399	Association	Low density lipoprotein increased
+C2924556	Association	Taken medication for high blood cholesterol
+C0011860	Association	Diabetes Mellitus, Non-Insulin-Dependent
+C0342266	Association	Insulin treated type 2 diabetes mellitus
+C0342295	Association	Ketoacidosis in type 2 diabetes mellitus
+C1720171	Association	Diabetic cataract associated with type 2 diabetes mellitus
+C1720457	Association	Renal disorder due to type 2 diabetes mellitus
+C1960217	Association	Amyotrophy due to type 2 diabetes mellitus
+C3280267	Association	Type 2 diabetes (in some)
+C0271638	Association	Type 2 diabetes mellitus in obese
+C1299614	Association	Non-insulin-dependent diabetes mellitus with unspecified complications
+C1661769	Association	Type 2 diabetes treated with insulin
+C1719939	Association	Disorder due to type 2 diabetes mellitus
+C1719988	Association	Neurologic disorder associated with type 2 diabetes mellitus
+C0042344	Association	Varicose Ulcer
+C0241670	Association	VENOUS STASIS, SYSTEMIC
+C0741088	Association	ANKLE ULCER VENOUS STASIS
+C0745949	Association	LOWER EXTREMITY VENOUS STASIS
+C0750169	Association	VENOUS STASIS CHRONIC
+C0744180	Association	FOOT ULCER CHRONIC VENOUS STASIS
+C0745940	Association	LOWER EXTREMITY ULCER VENOUS STASIS
+C0745950	Association	LOWER EXTREMITY VENOUS STASIS CHRONIC
+C0745985	Association	LOWER LEG VENOUS STASIS CHRONIC
+C0748828	Association	SKIN ULCER VENOUS STASIS CHRONIC
+C4039486	Association	Stasis dermatitis of lower limb due to chronic peripheral venous hypertension
+C4048016	Association	Stasis dermatitis of right lower extremity due to peripheral venous hypertension
+C4048017	Association	Stasis dermatitis of left lower extremity due to peripheral venous hypertension
+C4039817	Association	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension
+C0149778	Association	Soft Tissue Infections
+C1112144	Association	Muscle and soft tissue infections
+C0852000	Association	Skin structures and soft tissue infections
+C1328271	Association	Dental and oral soft tissue infections
+C0018802	Association	Congestive heart failure
+C0015695	Association	Fatty Liver
+C2711227	Association	Steatohepatitis
+C0015696	Association	Fatty Liver, Alcoholic
+C0151765	Association	Liver fatty deposition
+C0866058	Association	Fatty liver without mention of alcohol
+C3278766	Association	Fatty liver (hepatic steatosis), nonalcoholic
+C0016977	Association	Gall Bladder Diseases
+C0011570	Association	Mental Depression
+C0011581	Association	Depressive disorder
+C0344315	Association	Depressed mood
+C0460137	Association	Depression motion
+C1579931	Association	Depressed - symptom
+C0038454	Association	Cerebrovascular accident
+C1277291	Association	Stroke risk
+C2048465	Association	inability to cope with daily activities
+C0017168	Association	Gastroesophageal reflux disease

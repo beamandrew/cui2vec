@@ -1,0 +1,52 @@
+CUI	Type	String
+C0011860	Concept	Diabetes Mellitus, Non-Insulin-Dependent
+C0271638	Concept	Type 2 diabetes mellitus in obese
+C0271690	Concept	Type 2 diabetes mellitus with acanthosis nigricans
+C0342277	Concept	Diabetes mellitus autosomal dominant type 2
+C0348921	Concept	Pre-existing type 2 diabetes mellitus
+C0494290	Concept	Type 2 diabetes mellitus without complication
+C0349363	Concept	Type 2 diabetes mellitus with multiple complications
+C0011849	Concept	Diabetes Mellitus
+C0542238	Association	Tingling feet/hands
+C0239375	Association	Numbness of limbs
+C0239649	Association	Numbness of foot
+C0151692	Association	Impaired wound healing
+C0000889	Association	Acanthosis Nigricans
+C0151907	Association	Discoloration of skin
+C0242350	Association	Erectile dysfunction
+C0021655	Association	Insulin Resistance
+C0020615	Association	Hypoglycemia
+C0000765	Association	Excessive body weight gain
+C0020443	Association	Hypercholesterolemia
+C0020538	Association	Hypertensive disease
+C0085602	Association	Polydipsia
+C3670443	Association	Excessive drinking of fluids and excessive urination
+C3278316	Association	Polydipsia (in some)
+C3888890	Association	Polyuria-polydipsia syndrome
+C0241379	Association	Increased thirst
+C0032617	Association	Polyuria
+C0549061	Association	Diuresis or excessive urine output
+C1408032	Association	urine; secretion excessive
+C0427845	Association	24 hour urine volume excessive
+C3670443	Association	Excessive drinking of fluids and excessive urination
+C0270327	Association	Bedwetting
+C0232461	Association	Increased appetite (finding)
+C0426585	Association	Always hungry
+C2107746	Association	constant hunger
+C2363736	Association	Unintentional weight loss
+C0022107	Association	Irritable Mood
+C2700617	Association	Irritation - emotion
+C0476479	Association	Irritability and anger
+C0085633	Association	Mood swings
+C3843046	Association	Mood changes-problems or irritability
+C0015672	Association	Fatigue
+C3806133	Association	Episodes of fatigue or weakness (in some patients)
+C3714552	Association	Weakness
+C0344232	Association	Blurred vision
+C2126075	Association	blurry vision in both eyes
+C2673916	Association	Blurred vision (early symptom)
+C0860029	Association	Vaginal yeast infection
+C1279309	Association	Type II diabetes mellitus with mononeuropathy
+C1279310	Association	Type II diabetes mellitus with polyneuropathy
+C1720557	Association	Polyneuropathy associated with type II diabetes mellitus
+C0011882	Association	Diabetes mellitus with neuropathy

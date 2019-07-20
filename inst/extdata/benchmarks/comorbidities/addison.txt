@@ -1,0 +1,74 @@
+CUI	Type	String
+C0001403	Concept	Addison Disease
+C2103602	Concept	Autoimmune Primary Adrenal Insufficiency
+C3887896	Concept	Primary Adrenal Insufficiency
+C0001621	Concept	Adrenal Gland Diseases
+C0001623	Concept	Adrenal gland hypofunction
+C0518933	Concept	Addisons Disease Secondary To Adrenal Destruction
+C0518934	Concept	Addisons Disease Secondary To Idiopathic Atrophy
+C0266273	Concept	Congenital absence of adrenal gland
+C0405580	Concept	Adrenal cortical hypofunction
+C0085860	Concept	Autoimmune Syndrome Type II, Polyglandular
+C0020649	Association	Hypotension
+C3163620	Association	Hypotension Adverse Event
+C0861177	Association	Mean BP decreased
+C0015672	Association	Fatigue
+C1096625	Association	Mental exhaustion
+C0518656	Association	Chronic fatigue
+C0232462	Association	Decrease in appetite
+C1262477	Association	Weight decreased
+C2911645	Association	Weight Loss Adverse Event
+C0150908	Association	Weight loss >=10% of body weight
+C1303041	Association	Weight loss from baseline weight
+C0237352	Association	unexplained/progressive weight loss
+C0333615	Association	hyperpigmented
+C0162834	Association	Hyperpigmentation
+C1962962	Association	Hyperpigmentation Adverse Event
+C0860447	Association	Darkened skin
+C3841914	Association	Unconscious/fainting/near-fainting
+C0340849	Association	Simple faint
+C1857221	Association	Fainting spells
+C0240928	Association	Salt craving
+C0020615	Association	Hypoglycemia
+C0580401	Association	Random blood sugar low
+C0027497	Association	Nausea
+C0027498	Association	Nausea and vomiting
+C0423583	Association	Nausea present
+C0042963	Association	Vomiting
+C0011991	Association	Diarrhea
+C0740441	Association	Acute diarrhea
+C0848342	Association	frequent passing of stools
+C0000737	Association	Abdominal Pain
+C0151263	Association	nausea or abdominal pain
+C0232491	Association	Chronic abdominal pain
+C1963177	Association	Muscle Pain Adverse Event
+C0150841	Association	muscle pain or weakness
+C0746668	Association	muscle pain chronic
+C3829787	Association	Have Joint Pain or Muscle Cramps
+C1963066	Association	Joint Pain Adverse Event
+C0011570	Association	Mental Depression
+C0011581	Association	Depressive disorder
+C0344315	Association	Depressed mood
+C0460137	Association	Depression motion
+C1579931	Association	Depressed - symptom
+C1999266	Association	Depression Adverse Event
+C0005586	Association	Bipolar Disorder
+C0005587	Association	Depression, Bipolar
+C0011572	Association	Depression, Chemical
+C0011573	Association	Endogenous depression
+C0011574	Association	Involutional Depression
+C0011579	Association	Reactive depression
+C1269683	Association	Major Depressive Disorder
+C0743072	Association	Depression, psychotic
+C0679108	Association	emotional and psychiatric depression
+C0154411	Association	Moderate recurrent major depression
+C0154406	Association	Severe major depression, single episode, with psychotic features
+C0022107	Association	Irritable Mood
+C0857044	Association	Slightly irritable
+C2700617	Association	Irritation - emotion
+C0085631	Association	Agitation
+C0857221	Association	Snappy behavior
+C0549622	Association	Sexual Dysfunction
+C1397880	Association	dysfunction; sexual, sexual aversion
+C0574770	Association	Loss of body hair
+C0436645	Association	O/E - loss of body hair

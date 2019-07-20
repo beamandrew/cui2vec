@@ -1,0 +1,42 @@
+CUI	Type	String
+C0011854	Concept	Diabetes Mellitus, Insulin-Dependent
+C0348916	Concept	Type 1 diabetes mellitus with multiple complications
+C0677625	Concept	Type I diabetes mellitus without mention of complication
+C0348917	Concept	Pre-existing type 1 diabetes mellitus
+C0494284	Concept	Type 1 diabetes mellitus without complication
+C0011849	Concept	Diabetes Mellitus
+C0567407	Concept	Unstable type 1 diabetes mellitus
+C1299613	Concept	Insulin-dependent diabetes mellitus with unspecified complications
+C0085602	Association	Polydipsia
+C3670443	Association	Excessive drinking of fluids and excessive urination
+C3278316	Association	Polydipsia (in some)
+C3888890	Association	Polyuria-polydipsia syndrome
+C0241379	Association	Increased thirst
+C0032617	Association	Polyuria
+C0549061	Association	Diuresis or excessive urine output
+C1408032	Association	urine; secretion excessive
+C0427845	Association	24 hour urine volume excessive
+C3670443	Association	Excessive drinking of fluids and excessive urination
+C0270327	Association	Bedwetting
+C0232461	Association	Increased appetite (finding)
+C0426585	Association	Always hungry
+C2107746	Association	constant hunger
+C2363736	Association	Unintentional weight loss
+C0022107	Association	Irritable Mood
+C2700617	Association	Irritation - emotion
+C0476479	Association	Irritability and anger
+C0085633	Association	Mood swings
+C3843046	Association	Mood changes-problems or irritability
+C0015672	Association	Fatigue
+C3806133	Association	Episodes of fatigue or weakness (in some patients)
+C3714552	Association	Weakness
+C0344232	Association	Blurred vision
+C2126075	Association	blurry vision in both eyes
+C2673916	Association	Blurred vision (early symptom)
+C0860029	Association	Vaginal yeast infection
+C0199782	Association	Administration of insulin
+C0586328	Association	Subcutaneous injection of insulin
+C0011882	Association	Diabetes mellitus with neuropathy
+C1279301	Association	Type I diabetes mellitus with mononeuropathy (disorder)
+C1279302	Association	Type I diabetes mellitus with polyneuropathy
+C1720380	Association	Polyneuropathy associated with type I diabetes mellitus

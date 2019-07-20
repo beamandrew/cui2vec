@@ -1,0 +1,44 @@
+CUI	Type	String
+C0022876	Concept	Premature Obstetric Labor
+C0151526	Concept	Premature Birth
+C0021294	Concept	Infant, Premature
+C0233315	Concept	Premature birth of newborn
+C0728731	Concept	Prematurity of fetus
+C0233315	Concept	Premature birth of newborn	
+C0013274	Association	Patent ductus arteriosus
+C0475735	Association	Intraventricular hemorrhage of prematurity
+C0475586	Association	Intraventricular hemorrhage due to birth injury
+C0240059	Association	Ventricular hemorrhage
+C0270191	Association	Perinatal intraventricular hemorrhage
+C0475526	Association	Intracerebral hemorrhage, intraventricular
+C0020255	Association	Hydrocephalus
+C1397626	Association	fetus; hydrocephalus
+C0746102	Association	Chronic lung disease
+C0476273	Association	Respiratory distress
+C0006287	Association	Bronchopulmonary Dysplasia
+C4069162	Association	Pediatric: Bronchopulmonary dysplasia of newborn
+C0495402	Association	Bronchopulmonary dysplasia originating in the perinatal period
+C0546481	Association	Bronchopulmonary dysplasia due to oxygen toxicity
+C2749362	Association	Bronchopulmonary dysplasia may develop later
+C1968593	Association	Respiratory Distress Syndrome In Premature Infants
+C0035220	Association	Respiratory Distress Syndrome, Newborn
+C0919592	Association	Hypothermia neonatal
+C0159012	Association	Other hypothermia of newborn
+C0035344	Association	Retinopathy of Prematurity
+C0035309	Association	Retinal Diseases
+C3640081	Association	Immature Retinopathy of Prematurity
+C0520459	Association	Necrotizing Enterocolitis
+C1442826	Association	Neonatal necrotizing enterocolitis
+C0020433	Association	Hyperbilirubinemia
+C0158971	Association	Neonatal jaundice associated with preterm delivery
+C0311468	Association	Increased bilirubin level (finding)
+C0857007	Association	Hyperbilirubinemia, Neonatal
+C0036690	Association	Septicemia
+C0475715	Association	Apnea of prematurity
+C0428977	Association	Bradycardia
+C0034063	Association	Pulmonary Edema
+
+
+
+
+	

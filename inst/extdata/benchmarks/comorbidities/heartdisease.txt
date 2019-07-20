@@ -1,0 +1,33 @@
+CUI	Type	String
+C0018799	Concept	Heart Diseases
+C0010068	Concept	Coronary heart disease
+C0035078	Association	Kidney Failure
+C1565489	Association	Renal Insufficiency
+C0011860	Association	Diabetes Mellitus, Non-Insulin-Dependent
+C0342266	Association	Insulin treated type 2 diabetes mellitus
+C0342295	Association	Ketoacidosis in type 2 diabetes mellitus
+C1720171	Association	Diabetic cataract associated with type 2 diabetes mellitus
+C1720457	Association	Renal disorder due to type 2 diabetes mellitus
+C1960217	Association	Amyotrophy due to type 2 diabetes mellitus
+C3280267	Association	Type 2 diabetes (in some)
+C0271638	Association	Type 2 diabetes mellitus in obese
+C1299614	Association	Non-insulin-dependent diabetes mellitus with unspecified complications
+C1661769	Association	Type 2 diabetes treated with insulin
+C1719939	Association	Disorder due to type 2 diabetes mellitus
+C1719988	Association	Neurologic disorder associated with type 2 diabetes mellitus
+C0024117	Association	Chronic Obstructive Airway Disease
+C0494659	Association	Other chronic obstructive pulmonary disease
+C0730604	Association	Mild chronic obstructive pulmonary disease
+C0730605	Association	Moderate chronic obstructive pulmonary disease
+C0730607	Association	Severe chronic obstructive pulmonary disease
+C0810017	Association	Chronic obstructive pulmonary disease and bronchiectasis
+C0037315	Association	Sleep Apnea Syndromes
+C0159030	Association	Insomnia with sleep apnea
+C0338495	Association	Sleep Apnea, Mixed Central and Obstructive
+C0520679	Association	Sleep Apnea, Obstructive
+C0520680	Association	Sleep Apnea, Central
+C0751762	Association	Central Sleep Apnea, Primary
+C0751763	Association	Central Sleep Apnea, Secondary
+C0837174	Association	Other sleep apnea
+C0002871	Association	Anemia
+C0002873	Association	Anemia of chronic disease

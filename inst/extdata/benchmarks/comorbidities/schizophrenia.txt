@@ -1,0 +1,69 @@
+CUI	Type	String
+C0036341	Concept	Schizophrenia
+C0021151	Concept	Incipient Schizophrenia
+C0023105	Concept	Schizophrenia, Latent
+C0033823	Concept	Schizophrenia, Pseudoneurotic
+C0033836	Concept	Pseudopsychopathic Schizophrenia
+C0036337	Concept	Schizoaffective Disorder
+C0036342	Concept	Schizophrenia NEC
+C0036343	Concept	Borderline schizophrenia
+C0036344	Concept	Schizophrenia, Catatonic
+C0036346	Concept	Schizophrenia, Childhood
+C0036347	Concept	Schizophrenia, Disorganized
+C0036349	Concept	Paranoid Schizophrenia
+C0036351	Concept	Residual schizophrenia
+C0220702	Concept	SCHIZOPHRENIA 1 (disorder)
+C0221072	Concept	Process Schizophrenia
+C0221073	Concept	reactive schizophrenia
+C0221520	Concept	Simple schizophrenia
+C0221765	Concept	Chronic schizophrenia
+C0270381	Concept	Subchronic schizophrenia
+C0338798	Concept	Other schizophrenia
+C0687130	Association	Substance of abuse
+C0740858	Association	Substance abuse problem
+C0013146	Association	Drug abuse
+C0013170	Association	Drug habituation
+C0033880	Association	Psychoactive substance abuse
+C0038579	Association	Substance Abuse, Intravenous
+C0236808	Association	Other (or Unknown) Substance Abuse
+C0236935	Association	Substance Abuse, Other
+C0003467	Association	Anxiety
+C0003469	Association	Anxiety Disorders
+C0860603	Association	Anxiety symptoms
+C0497330	Association	Anxiety disorder/anxiety state
+C0231401	Association	Mild anxiety
+C0231402	Association	Moderate anxiety
+C0011570	Association	Mental Depression
+C0011581	Association	Depressive disorder
+C0344315	Association	Depressed mood
+C1579931	Association	Depressed - symptom
+C0030319	Association	Panic Disorder
+C1868649	Association	PANIC DISORDER 1
+C0038436	Association	Post-Traumatic Stress Disorder
+C0730525	Association	Chronic Post-Traumatic Stress Disorder
+C2733207	Association	Complex posttraumatic stress disorder
+C0028768	Association	Obsessive-Compulsive Disorder
+C0009595	Association	Obsessive-Compulsive Personality
+C0600104	Association	Obsessive compulsive behavior
+C0020676	Association	Hypothyroidism
+C0024117	Association	Chronic Obstructive Airway Disease
+C0494659	Association	Other chronic obstructive pulmonary disease
+C0730604	Association	Mild chronic obstructive pulmonary disease
+C0730605	Association	Moderate chronic obstructive pulmonary disease
+C0730607	Association	Severe chronic obstructive pulmonary disease
+C0011860	Association	Diabetes Mellitus, Non-Insulin-Dependent
+C0342266	Association	Insulin treated type 2 diabetes mellitus
+C0342295	Association	Ketoacidosis in type 2 diabetes mellitus
+C1720171	Association	Diabetic cataract associated with type 2 diabetes mellitus
+C1720457	Association	Renal disorder due to type 2 diabetes mellitus
+C1960217	Association	Amyotrophy due to type 2 diabetes mellitus
+C3280267	Association	Type 2 diabetes (in some)
+C1299614	Association	Non-insulin-dependent diabetes mellitus with unspecified complications
+C1661769	Association	Type 2 diabetes treated with insulin
+C1719939	Association	Disorder due to type 2 diabetes mellitus
+C1719988	Association	Neurologic disorder associated with type 2 diabetes mellitus
+C0019196	Association	Hepatitis C
+C0220847	Association	Hepatitis C virus
+C0267994	Association	Disorder of fluid AND/OR electrolyte
+C0810254	Association	Other fluid and electrolyte disorders
+C2363943	Association	Nicotine abuse

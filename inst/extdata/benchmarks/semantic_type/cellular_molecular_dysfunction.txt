@@ -1,0 +1,1670 @@
+CUI	String
+C0002938	Aneuploidy
+C0004403	autosomes; abnormal
+C0008625	Cytogenetic Abnormality
+C0008628	Chromosome Deletion
+C0008629	Chromosome Fragility
+C0008631	Marker chromosomes
+C0010827	virus cytopathogenic effect
+C0012860	DNA damage
+C0021943	Genetic inversion
+C0025568	Metaplasia
+C0025569	Glandular necrotizing metaplasia
+C0025570	Squamous metaplasia
+C0027746	Nerve degeneration
+C0032578	Polyploidy syndrome
+C0035268	Restriction Fragment Length Polymorphism
+C0035354	Nissl degeneration
+C0038859	Suppressor mutation
+C0040715	Chromosomal translocation
+C0043020	Wallerian degeneration
+C0079380	Frameshift Mutation
+C0085400	Neurofibrillary degeneration
+C0151630	Erythrocyte vacuolization
+C0162735	Point mutation
+C0232660	Impaired intestinal epithelial cell digestion
+C0232662	Impaired intestinal epithelial cell transport
+C0232664	Impaired intestinal epithelial cell transport of carbohydrates
+C0232666	Impaired intestinal epithelial cell transport of amino acids
+C0232668	Impaired intestinal epithelial cell transport of fats
+C0234703	Denaturation of lens proteins
+C0242606	Oxidative Stress
+C0272186	Granulocyte granule deficiency
+C0301648	Macromolecular defective synthesis
+C0301651	Abnormal nucleotide base sequence
+C0301652	Abnormal macromolecular binding
+C0301908	Impaired leukocyte chemotaxis
+C0302086	Erythrocyte destruction
+C0302087	Abnormal erythrocyte destruction
+C0302093	Granulocyte destruction
+C0302101	Lymphocyte destruction
+C0302106	Platelet destruction
+C0302110	Hemolytic crisis
+C0302111	Aplastic crisis
+C0302113	Fragility
+C0302116	Mechanical fragility
+C0302173	Hematopoietic maturation arrest
+C0312828	Abnormal hematopoiesis
+C0312838	Abnormal eosinophil production
+C0312841	Abnormal basophil production
+C0312854	Extravascular hemolysis
+C0314673	Defective molecular assembly
+C0314676	Abnormal molecular cross-linking
+C0333458	Trans-synaptic degeneration
+C0333681	Sex chromosome mosaicism
+C0333685	XXY sex chromosome alteration
+C0333686	X0 sex chromosome alteration
+C0333687	XYY sex chromosome alteration
+C0333688	Endoreduplication
+C0333689	Tetrasomy
+C0333691	Hypoploidy
+C0333694	Tetraploidy
+C0333695	Alteration of chromosome structure
+C0333696	Deletion of short arm
+C0333697	Philadelphia chromosome, Ph^1^, present
+C0333698	Philadelphia chromosome, Ph^1^, absent
+C0333699	Deletion of long arm
+C0333700	Lengthening of short arm
+C0333701	Lengthening of long arm
+C0333702	Isochromosome for short arm
+C0333703	Isochromosome for long arm
+C0333704	Chromosome break
+C0333705	Chromatid break
+C0333706	Pericentric inversion
+C0333707	Paracentric inversion
+C0333708	Chromosome fragment
+C0333709	Acentric chromosome
+C0333710	Dicentric chromosome
+C0333711	Tricentric chromosome
+C0333712	Chromatolysis
+C0333713	Centric fusion translocation
+C0333714	Reciprocal translocation
+C0333715	Robertsonian translocation
+C0333729	Nucleolar alteration
+C0333730	Contraction bands
+C0333732	Karyorrhexis
+C0333733	Satellitosis
+C0333734	Neuronophagia
+C0333750	Muscle fiber change
+C0333751	Muscle fiber atrophy
+C0333752	Muscle fiber atrophy, type I
+C0333753	Muscle fiber atrophy, type II
+C0333754	Muscle fiber atrophy, mixed type I and II
+C0333755	Muscle fiber small group atrophy
+C0333756	Muscle fiber large group atrophy
+C0333760	Muscle fiber hypertrophy, type I
+C0333761	Muscle fiber hypertrophy, type II
+C0333762	Change in cytochemical muscle architecture
+C0333768	Tubular aggregates
+C0333795	Erythrocytoschisis
+C0333796	Erythrocytorrhexis
+C0333813	Cabot's ring body
+C0333814	Pappenheimer body
+C0333818	Chédiak-Higashi cell
+C0333865	Cytologic atypia
+C0333866	Mild cytologic atypia
+C0333867	Moderate cytologic atypia
+C0333868	Severe cytologic atypia
+C0333869	Squamous cell atypia
+C0333870	Mild squamous cell atypia
+C0333871	Moderate squamous cell atypia
+C0333872	Severe squamous cell atypia
+C0333876	Columnar cell atypia
+C0333877	Mild columnar cell atypia
+C0333878	Moderate columnar cell atypia
+C0333879	Severe columnar cell atypia
+C0333880	Glandular cell atypia
+C0333881	Mild glandular cell atypia
+C0333882	Moderate glandular cell atypia
+C0333883	Severe glandular cell atypia
+C0333884	Transitional cell atypia
+C0333885	Mild transitional cell atypia
+C0333886	Moderate transitional cell atypia
+C0333887	Severe transitional cell atypia
+C0333888	Inflammatory atypia
+C0333889	Mild inflammatory atypia
+C0333890	Moderate inflammatory atypia
+C0333891	Severe inflammatory atypia
+C0333894	Post-radiation cytologic changes with dysplasia
+C0333895	Atypia suspicious for malignancy
+C0333896	Koilocytotic atypia
+C0333897	Mild koilocytotic atypia
+C0333898	Moderate koilocytotic atypia
+C0333899	Severe koilocytotic atypia
+C0333901	Dyskaryosis
+C0333902	Macronucleus
+C0333905	Anisokaryosis
+C0333906	Abnormal nuclear/cytoplasmic ratio
+C0333907	Nuclear/cytoplasmic ratio increased
+C0333908	Nuclear/cytoplasmic ratio decreased
+C0333909	Binucleate cell
+C0333910	Hyperchromatism
+C0333912	Hypochromatism
+C0333913	Achromasia
+C0333914	Hypersegmentation of nucleus
+C0333915	Hyposegmentation of nucleus
+C0333918	Abnormal cellular hormonal pattern
+C0333920	No estrogen effect present
+C0333926	Predominance of parabasal cells
+C0333960	Primary hypertrophy
+C0333961	Secondary hypertrophy
+C0333962	Physiologic hypertrophy
+C0333963	Concentric hypertrophy
+C0334027	Oncocytic metaplasia
+C0334028	Endothelial metaplasia
+C0334030	Atypical squamous metaplasia
+C0334031	Keratin pearl formation
+C0334032	Metaplastic keratinization
+C0334033	Transitional cell metaplasia
+C0334034	Mesothelial metaplasia
+C0334035	Glandular metaplasia
+C0334037	Intestinal metaplasia
+C0334038	Gastric metaplasia
+C0334046	Mild dysplasia
+C0334047	Moderate dysplasia
+C0334048	Severe dysplasia
+C0334058	Mild epithelial dysplasia
+C0334059	Moderate epithelial dysplasia
+C0334060	Severe epithelial dysplasia
+C0334068	Cemental dysplasia
+C0334074	Maturation acceleration
+C0334075	Maturation deceleration
+C0342781	Deletion and duplication of mitochondrial DNA
+C0345465	Additional sex chromosome
+C0376628	chromosome breakage
+C0392053	Mosaicism
+C0392769	patching
+C0398740	Impaired phagocytosis
+C0432400	Pseudotrisomy 18
+C0432402	Partial trisomy syndromes
+C0432403	Whole chromosome trisomy syndrome
+C0432405	Whole chromosome trisomy, mosaicism
+C0432410	Trisomy 10
+C0432413	Trisomy 7
+C0432414	Trisomy 6
+C0432415	Unbalanced translocation and insertion
+C0432422	Trisomy 18 - mitotic nondisjunction mosaicism
+C0432426	Trisomy 13 - mitotic nondisjunction mosaicism
+C0432430	Major partial trisomy
+C0432432	Duplication seen only at prometaphase
+C0432433	Duplication with other complex rearrangement
+C0432434	Extra marker chromosomes
+C0432435	Triploidy and polyploidy
+C0432436	Monosomy and deletion from autosome
+C0432439	Chromosome replaced with ring or dicentric
+C0432440	Deletion of part of autosome
+C0432445	Deletion seen only at prometaphase
+C0432446	Deletion with complex rearrangement
+C0432448	balanced; translocation
+C0432449	Balanced autosomal translocation
+C0432451	Chromosome inversion in normal individual
+C0432457	XY, female phenotype
+C0483202	Hypersegmented neutrophil
+C0495651	Deletions with other complex rearrangements
+C0495652	Deletion from autosomes, unspecified
+C0521185	Atypical glandular cells of undetermined significance
+C0521186	Neuronal achromasia
+C0522309	Leukocyte maturation arrest
+C0522312	Abnormal megakaryocyte production
+C0522580	Atypical cells of undetermined significance
+C0522588	Atypical endocervical cells of undetermined significance
+C0522616	Atypical apocrine metaplasia
+C0522617	Atypical dysplasia
+C0522618	Focal dysplasia
+C0522619	Diffuse dysplasia
+C0522620	hypocellular
+C0541636	Alteration of centromere
+C0544872	Group chromosomal alteration
+C0544873	Chromosomal alterations of group A
+C0544874	Chromosomal alterations of group B
+C0544875	Chromosomal alterations of group C and X
+C0544876	Chromosomal alterations of group D
+C0544877	Chromosomal alterations of group E
+C0544878	Chromosomal alterations of group F
+C0544879	Chromosomal alterations of group G and Y
+C0544882	Abnormal chromosomal banding
+C0544883	Nucleotide base deletion
+C0544884	Temperature-sensitive mutation
+C0544885	Nonsense mutation
+C0544886	Somatic mutation
+C0544887	Mitotic alteration
+C0544889	Meiotic alteration
+C0544892	Centriole alteration
+C0544893	Polar body alteration
+C0544894	Intranuclear electron dense deposition
+C0544895	Nuclear size alteration
+C0544896	Nuclear shape alteration
+C0544899	Alteration of filamentous portion of nucleolus
+C0544900	Alteration of amorphous portion of nucleolus
+C0544901	Nucleolar hypertrophy
+C0544902	Nuclear membrane alteration
+C0544903	Nuclear membrane reduplication
+C0544904	Nuclear membrane thickening
+C0544905	Nuclear pore alteration
+C0544906	Nuclear membrane proliferation
+C0544912	Nuclear chromatin alteration
+C0544913	Coarsely dispersed chromatin
+C0544914	Finely dispersed chromatin
+C0544915	Margination of chromatin
+C0544919	Cytoplasmic alteration
+C0544920	Intracytoplasmic electron dense deposition
+C0544921	Central neuronal chromatolysis
+C0544922	Myelin body formation
+C0544924	Cytoplasmic hyalinization
+C0544925	Axonal swelling
+C0544926	Mitochondrial alteration
+C0544927	Alteration of mitochondrial cristae
+C0544928	Alteration of mitochondrial matrix
+C0544929	Alteration of mitochondrial membrane
+C0544930	Fused cristae
+C0544931	Giant mitochondria
+C0544932	Mitochondrial vacuolation
+C0544933	Mitochondrial hyperplasia
+C0544934	Endoplasmic reticulum alteration
+C0544935	Smooth endoplasmic reticulum alteration
+C0544936	Rough endoplasmic reticulum alteration
+C0544937	Nissl substance alteration
+C0544938	Dilated endoplasmic reticulum
+C0544939	Golgi alteration
+C0544940	Golgi membrane alteration
+C0544941	Golgi cavity alteration
+C0544942	Golgi vesicle alteration
+C0544944	Golgi hypertrophy
+C0544945	Golgi hyperplasia
+C0544946	Ribosome alteration
+C0544947	Polysome alteration
+C0544948	Lysosome alteration
+C0544950	Cytoplasmic aggregate
+C0544951	Cytoplasmic accumulation
+C0544952	Cytoplasmic droplets
+C0544953	Cytoplasmic fiber alteration
+C0544954	Cytoplasmic filament alteration
+C0544955	Microtubule alteration
+C0544956	Fragmentation of myofilaments
+C0544957	Myofilament loss
+C0544958	Cell membrane alteration
+C0544959	Plasma membrane coating alteration
+C0544961	Plasma membrane rupture
+C0544962	Plasma membrane reduplication
+C0544963	Plasma membrane thickening
+C0544964	Pinocytotic vacuole alteration
+C0544967	Desmosome alteration
+C0544968	Terminal bar alteration
+C0544969	Tight junction alteration
+C0544970	Foot process alteration
+C0544971	Microvillus alteration
+C0544972	Foot process fusion
+C0544973	Cell surface interdigitation alteration
+C0544974	Flagella alteration
+C0544975	Cilia alteration
+C0544976	Stereocilia alteration
+C0544977	Ciliary centriole alteration
+C0544981	Receptor site alteration
+C0544991	Extracellular alteration
+C0544992	Structural extracellular alteration
+C0544993	Basement membrane alteration
+C0544994	Basement membrane fragmentation
+C0544995	Basement membrane thickening
+C0544996	Basement membrane duplication
+C0544997	Mottled basement membrane thickening
+C0544998	Basement membrane-like material
+C0544999	Extracellular fiber alteration
+C0545000	Elastic fiber alteration
+C0545001	Decreased elasticity
+C0545002	Elastic fiber fragmentation
+C0545003	Elastic fiber cross linking
+C0545004	Myelin sheath alteration
+C0545006	Extracellular lipid aggregate alteration
+C0545007	Extracellular macromolecule aggregate alteration
+C0545008	Crystalline macromolecule alteration
+C0545009	Bone crystal alteration
+C0545010	Dentin crystal alteration
+C0545011	Extracellular electron dense deposition
+C0545012	Extracellular matrix alteration
+C0545013	Bone matrix alteration
+C0545014	Cartilage matrix alteration
+C0545015	Fibrocartilage matrix alteration
+C0545016	Mesangium alteration
+C0545017	Increased mesangial matrix
+C0545018	Cell size alteration
+C0545019	Cell shape alteration
+C0545020	Clasmatodendrosis
+C0545023	Cell content alteration
+C0545024	Cytologic engulfment
+C0545042	Benign lymphoepithelial lesion
+C0546441	Nuclear lead inclusion
+C0546443	Toxic vacuolization
+C0546446	Fungal cytoplasmic inclusion body
+C0546451	Adrenal gland cytomegaly
+C0555250	Autosomal deletion - mosaicism
+C0596295	Pathology, Cellular
+C0596402	Cytotoxicity
+C0596988	Mutant
+C0597162	paired helical filament
+C0597561	temperature sensitive mutant
+C0597604	transneuronal degeneration
+C0598172	chromosome mutation
+C0598309	genotoxicity
+C0599156	Transition Mutation
+C0599157	Transversion Mutation
+C0599732	cell injury
+C0795806	3p partial monosomy syndrome
+C0870182	Autosome Disorders
+C0872150	DNA Strand Break
+C0879455	genetics of colorectal cancer
+C0887935	Allelic Imbalance
+C0919532	Genomic Instability
+C0948051	Mitochondrial DNA deletion
+C0948447	Chromosomal mutation
+C0949628	Uniparental Disomy
+C1257806	Chromosomal Instability
+C1257899	Genotoxic Stress
+C1260900	Granulation anomaly
+C1261265	Basement membrane proliferation
+C1261266	Chylomicron alteration
+C1265899	Cellular AND/OR subcellular abnormality
+C1265901	Cell structure alteration
+C1265902	Inner nuclear membrane alteration
+C1265903	Outer nuclear membrane alteration
+C1265904	Nuclear sap alteration
+C1265909	Cytoplasmic lipid droplet alteration
+C1265910	Smooth endoplasmic reticulum membrane alteration
+C1265911	Smooth endoplasmic reticulum cavity alteration
+C1265912	Rough endoplasmic reticulum membrane alteration
+C1265913	Rough endoplasmic reticulum cavity alteration
+C1265914	Golgi vacuole alteration
+C1265915	Dual red blood cell population
+C1265918	Plasma membrane globulin coating
+C1265919	Reticulin fibril alteration
+C1265920	Collagen fibril alteration
+C1265921	Extracellular granule alteration
+C1265922	Extracellular vacuole alteration
+C1265925	Reactive cellular changes
+C1265926	Focal cytologic atypia
+C1265927	Diffuse cytologic atypia
+C1265982	Spindle cell nodule
+C1265983	Hyaline plaque
+C1265993	Endometrial cells out of cycle
+C1272644	Fibrocystic change
+C1279612	Acquired dysplasia
+C1288349	Nonproliferative fibrocystic change
+C1298200	Multifocal dysplasia
+C1298622	Atypical squamous cells, cannot exclude HSIL
+C1298623	High-grade squamous intraepithelial lesion with features suspicious for invasion
+C1298627	Atypical glandular cells, favor neoplastic
+C1298629	Epithelial cell abnormality
+C1302824	Synovial metaplasia
+C1305143	Hyperploidy
+C1317977	Epithelial metaplasia
+C1385958	accessory; chromosome, with complex rearrangements
+C1385959	accessory; chromosome, with complex rearrangements, seen only at prometaphase
+C1385960	accessory; chromosome, partial
+C1389189	autosomal; syndrome
+C1389191	autosomes; trisomy
+C1392562	chromosome; 13, trisomy, meiotic nondisjunction
+C1392563	chromosome; 18, trisomy, meiotic nondisjunction
+C1392564	chromosome; 18 long arm deletion, with complex rearrangements
+C1392567	chromosome; 21 long arms deletion, with complex rearrangements
+C1392572	chromosome; duplication, seen only at prometaphase
+C1392573	chromosome; duplication, whole arm or more
+C1392574	chromosome; duplication, with complex rearrangements
+C1392575	chromosome; duplication, less than whole arm
+C1395098	deletion; chromosome, seen only at prometaphase
+C1395100	deletion; chromosome, with complex rearrangements
+C1395102	deletion; long arm chromosome 18 or 21, with complex rearrangements
+C1401406	karyotype; 46,X, abnormal sex chromosome
+C1401407	karyotype; 46,X, abnormal sex chromosome, iso (Xq)
+C1401408	karyotype; 46,XX, hermaphrodite
+C1407211	partial; trisomy, major partial (whole arm or more duplicated)
+C1407212	partial; trisomy, minor partial (less than whole arm duplicated)
+C1442161	Gene Deletion Abnormality
+C1456419	monosomy; whole chromosome, mitotic nondisjunction
+C1510675	A-myb Messenger RNA Overexpression
+C1510695	ASPL-TFE3 Fusion Protein Expression
+C1510696	ATIC-ALK Fusion Protein Expression
+C1510697	ATM Gene Mutation
+C1510710	Abasic Site Formation
+C1510712	Aberrant Chromosome 1
+C1510714	Aberrant DNA Methylation
+C1510718	Abnormal DNA Repair
+C1511021	BRAF gene mutation
+C1511022	BRCA1 gene mutation
+C1511023	BRCA1 Gene Inactivation
+C1511024	BRCA2 gene mutation
+C1511025	BRCA2 Gene Inactivation
+C1511041	Balanced Chromosomal Translocation
+C1511065	Base-Base Mismatch
+C1511111	CTNNB1 Gene Mutation
+C1511183	Bistrand Abasic Site
+C1511353	KIT Gene Mutation
+C1511354	C-KIT Somatic Point Mutation
+C1511355	C-KIT Tyrosine Kinase Protein Overexpression
+C1511357	C-Myc Translocation
+C1511408	CBFB-MYH11 Fusion Protein Expression
+C1511413	CCND1 Gene Amplification
+C1511414	CCNE1 Gene Amplification
+C1511418	CD10 Messenger RNA Overexpression
+C1511424	CD44 Messenger RNA Overexpression
+C1511428	CDH1 Gene Inactivation
+C1511429	CDK4 Gene Inactivation
+C1511430	CDKN2A Gene Inactivation
+C1511431	CDKN2C Gene Deletion
+C1511432	CDKN2C Gene Mutation
+C1511442	CHEK2 Gene Mutation
+C1511444	CLTC-ALK Fusion Protein Expression
+C1511450	COL1A2-PLAG1 Fusion Protein Expression
+C1511473	CEBPA Gene Mutation
+C1511577	Cyclin D1 Messenger RNA Overexpression
+C1511578	Cyclin D1 Protein Overexpression
+C1511579	Cyclin D2 Messenger RNA Overexpression
+C1511581	Cyclin E Protein Overexpression
+C1511660	DNA Adduction
+C1511665	DNA Crosslinking
+C1511667	DNA Double Strand Break
+C1511674	DNA Interstrand Crosslinking
+C1511675	DNA Intrastrand Crosslinking
+C1511690	DNA Replication Damage
+C1511698	DNA Single Strand Break
+C1511706	SMAD4/DPC4 Gene Inactivation
+C1511739	Deceptive Imprinting
+C1511777	Deregulation of Apoptosis
+C1511778	Deregulation of Protein and Messenger RNA Expression
+C1511780	Derivative Chromosome
+C1512032	Dominant-Negative Mutation
+C1512047	Double Minutes
+C1512110	TCF3-PBX1 Fusion Protein Expression
+C1512116	EGFR Gene Amplification
+C1512117	EGFR Protein Overexpression
+C1512143	ETV6-NTRK3 Fusion Protein Expression
+C1512144	EVI1-AML1 Fusion Protein Expression
+C1512145	EWSR1-ATF1 Fusion Protein Expression
+C1512146	EWSR1-ETV4 Fusion Protein Expression
+C1512147	EWSR1-ERG Fusion Protein Expression
+C1512148	EWSR1-ETV1 Fusion Protein Expression
+C1512149	EWSR1-FEV Fusion Protein Expression
+C1512153	EWSR1-NR4A3 Fusion Protein Expression
+C1512154	EWSR1-WT1 Fusion Protein Expression
+C1512155	EWSR1-PATZ1 Fusion Protein Expression
+C1512292	HAS2-PLAG1 Fusion Protein Expression
+C1512312	HMGIC-LPP Fusion Protein Expression
+C1512320	HRAS Gene Amplification
+C1512323	FGF4 Gene Amplification
+C1512324	FGF6 Gene Amplification
+C1512430	High-Frequency Microsatellite Instability
+C1512486	Homogeneously Staining Region
+C1512559	Hypertriploidy
+C1512572	Hypotriploidy
+C1512586	IGF2R Gene Inactivation
+C1512601	IRF4/MUM1 Messenger RNA Overexpression
+C1512680	Impaired Cell Membrane Integrity
+C1512695	Increased NFkappaB Pathway Activation
+C1513157	Messenger RNA Overexpression
+C1513278	Microsatellite Mutation Pathway Deregulation
+C1513331	Mismatch Repair Gene Inactivation
+C1513399	Molecular Pathway Deregulation
+C1513476	Monosomy 10
+C1513477	Monosomy 11
+C1513478	Monosomy 13
+C1513479	Monosomy 16
+C1513480	Monosomy 17
+C1513481	Monosomy 5
+C1513482	Monosomy 6
+C1513483	Monosomy 7
+C1513484	Monosomy 8
+C1513485	Monosomy 9
+C1513808	N-ras gene mutation
+C1513833	NF1 Gene Inactivation
+C1513834	NF2 Gene Inactivation
+C1513852	NONO-TFE3 Fusion Protein Expression
+C1513855	NPM-ALK Fusion Protein Expression
+C1513856	NPM1-RARA Fusion Protein Expression
+C1514212	Polysomy
+C1514213	Polysomy 10
+C1514214	Polysomy 17
+C1514215	Polysomy 3
+C1514394	Preneoplastic Change
+C1514542	Protein Deregulation
+C1514638	RAS-RAF Pathway Deregulation
+C1514640	TAF15-NR4A3 Fusion Protein Expression
+C1514641	RB1 Gene Inactivation
+C1514646	REL Gene Amplification
+C1514683	Radiation-Induced Recombination
+C1514688	Radiation Induced DNA Damage
+C1514745	Rearrangement of 11q13-21
+C1514746	Rearrangement of 12q13
+C1514747	Rearrangement of 17p11-13
+C1514748	Rearrangement of 1p11-13
+C1514749	Rearrangement of 1p11-q11
+C1514750	Rearrangement of 2p23
+C1514751	Rearrangement of 6q13
+C1514752	Rearrangement of 6q25
+C1514753	Rearrangement of 8q11-13
+C1514754	Rearrangement of 8q21
+C1514850	Replication Error
+C1515001	Chromosomal Rearrangement
+C1515143	TCF12-NR4A3 Fusion Protein Expression
+C1515154	TEL-ABL Fusion Protein Expression
+C1515155	TEL-AML1 Fusion Protein Expression
+C1515156	TEL-JAK2 Fusion Protein Expression
+C1515157	ETV6-PDGFRB Fusion Protein Expression
+C1515158	TFG-ALK Fusion Protein Expression
+C1515159	TFG-ALKlong Fusion Protein Expression
+C1515160	TFG-ALKshort Fusion Protein Expression
+C1515162	TGFBR2 Gene Inactivation
+C1515171	TP53 Gene Inactivation
+C1515172	TPM3-ALK Fusion Protein Expression
+C1515178	TSC1 Gene Inactivation
+C1515179	TSC2 Gene Inactivation
+C1515263	Telomere Shortening
+C1515336	Tetrasomy 12
+C1515337	Tetrasomy 17
+C1515338	Tetrasomy 7
+C1515559	c-erbB2 Messenger RNA Overexpression
+C1515560	ERBB2 Protein Overexpression
+C1515561	FOS Gene Amplification
+C1515562	MYC Gene Amplification
+C1515569	del(10q23)
+C1515570	del(10q24-qter)
+C1515571	del(10q24q25)
+C1515572	del(10q25-26)
+C1515573	del(11p13-pter)
+C1515574	del(11p15)
+C1515575	del(11q22q23)
+C1515576	del(11q23)
+C1515577	del(11q24)
+C1515578	del(11q25)
+C1515579	del(12p11p13)
+C1515581	del(13q12-13)
+C1515582	del(13q14)
+C1515583	del(13q21-qter)
+C1515584	del(13q32-qter)
+C1515585	del(14q21)
+C1515586	del(16q22)
+C1515587	del(16q23-24.2)
+C1515588	del(17p13)
+C1515589	del(17q25)
+C1515590	del(19p12)
+C1515591	del(1p13-22)
+C1515592	del(1p36)
+C1515593	del(20)(q11)
+C1515594	del(22q13)
+C1515595	del(3p21-23)
+C1515597	del(4)(q12)
+C1515598	del(5)(q12;q35)
+C1515599	del(5q13-31)
+C1515600	del(5q22)
+C1515601	del(6q21)
+C1515602	del(6q21q25)
+C1515603	del(6q22-qter)
+C1515604	del(6q23)
+C1515605	del(6q25)
+C1515606	del(6q25-27)
+C1515607	del(7)(q11;q36)
+C1515608	del(7q21-32)
+C1515609	del(7q31.1)
+C1515610	del(8p12p21)
+C1515611	del(8p21-pter)
+C1515612	del(8p22)
+C1515613	del(8q24.1)
+C1515614	del(9p21p22)
+C1515615	del(9p22-pter)
+C1515616	der(15;21)(q10;q10)
+C1515617	der(1;16)(q10;p10)
+C1515642	MLH1 Gene Inactivation
+C1515643	MSH2 Gene Inactivation
+C1515644	MSH6 Gene Inactivation
+C1515645	SMARCB1 Gene Inactivation
+C1515647	i(12p)
+C1515648	i(17q)
+C1515649	i(19)
+C1515650	i(1)(q10)
+C1515651	i(7q)
+C1515652	i(8)(q10)
+C1515658	ins(3;3)
+C1515659	inv(11)(p15q22)
+C1515660	inv(14)
+C1515661	inv(14)(q11;q32.1)
+C1515663	inv(22)
+C1515664	inv(22q12)
+C1515665	inv(2)(p23q35)
+C1515666	inv(3)(q21q26.2)
+C1515667	inv(X)(p11;q12)
+C1515674	p190 Fusion Protein Expression
+C1515675	p210 Fusion Protein Expression
+C1515676	p230 Fusion Protein Expression
+C1515701	t(10;11)(p11;q23)
+C1515702	t(10;14)(q24;q11)
+C1515703	t(11;14)(p13;q11)
+C1515704	t(11;14)(p15;q11)
+C1515705	t(11;14)(q13;q32)
+C1515706	t(11;17)(q13;q21)
+C1515707	t(11;17)(q13;q11)
+C1515708	t(11;17)(q23;q21)
+C1515709	t(11;18)(q21;q21)
+C1515710	t(11;19)(q23;p13.1)
+C1515711	t(11;19)(q23;p13.3)
+C1515712	t(11;22)(p13;q12)
+C1515713	t(11;22)(q24;q12)
+C1515714	t(11;v)(q23;v)
+C1515715	t(12;15)(p13;q26)
+C1515716	t(12;16)(q13;p11)
+C1515717	t(12;21)(p13;q22)
+C1515718	t(12;22)(p13;q11)
+C1515719	t(12;22)(q13;q12)
+C1515720	t(14;14)(q11;q32)
+C1515721	t(14;18)(q32;q11)
+C1515722	t(14;18)(q32;q21)
+C1515723	t(14;19)(q32;q13.1)
+C1515724	t(15;17)(q22;q12)
+C1515726	t(16;17)(q22;p13)
+C1515727	t(16;21)(p11;q22)
+C1515728	t(17;17)(q11;q11)
+C1515729	t(17;19)(q22;p13)
+C1515730	t(17;21)(q11;q22)
+C1515731	t(17;22)(q21;q12)
+C1515732	t(17;22)(q22;q13)
+C1515733	t(1;12)(p32-34;q13-15)
+C1515734	t(1;12)(p36;q13-15)
+C1515735	t(1;13)(q36;q14)
+C1515736	t(1;14)(p22;q32)
+C1515737	t(1;14)(p32;q11)
+C1515738	t(1;14)(q21-22;q32)
+C1515739	t(1;19)(q23;p13.3)
+C1515740	t(1;21)(p36;q22)
+C1515741	t(1;22)(p13;q13)
+C1515742	t(1;22)(p36.1;q12)
+C1515743	t(1;2)(p11;q35-36)
+C1515744	t(1;2)(p22;p12)
+C1515745	t(1;2)(q25;p23)
+C1515746	t(1;3)(p36.3;q25)
+C1515747	t(1;4)(q44;q12)
+C1515748	t(1;7)(p33;q35)
+C1515749	t(21;22)(q22;q12)
+C1515750	t(2;12)(p22-24;q13-15)
+C1515751	t(2;12)(q35-37;q13-15)
+C1515752	t(2;13)(q35;q14)
+C1515753	t(2;17)(p23;q23)
+C1515754	t(2;18)(p12;q21)
+C1515755	t(2;22)(q33;q12)
+C1515756	t(2;3)(p23;q21)
+C1515757	t(2;5)(p23;q35)
+C1515758	t(2;8)(p11;q24)
+C1515759	t(3;12)(q13;q24)
+C1515760	t(3;12)(q27-28;q13-15)
+C1515761	t(3;14)(q27;q32)
+C1515762	t(3;21)(q21;q26)
+C1515763	t(3;21)(q26;q22)
+C1515764	t(3;3)(q21;q26.2)
+C1515765	t(3;4)(q27;p11)
+C1515766	t(3;5)(q25;q34)
+C1515767	t(3;6)(p13;q25)
+C1515768	t(3;8)(p14;q24)
+C1515769	t(4;11)(q21;q23)
+C1515770	t(4;22)(q12;q11)
+C1515771	t(5;11)(q35;q13)
+C1515772	t(5;12)(q31;p12)
+C1515773	t(5;12)(q33;p13)
+C1515774	t(5;12)(q33;q13-15)
+C1515775	t(5;14)(q31;q32)
+C1515777	t(5;21)(q13;q22)
+C1515778	t(6;11)(p21;q12)
+C1515779	t(6;11)(q27;q23)
+C1515780	t(6;8)(q27;p11)
+C1515781	t(6;9)(p23;q34)
+C1515782	t(7;10)(q34;q24)
+C1515783	t(7;11)(p15;p15)
+C1515784	t(7;14)(q35;q32.1)
+C1515785	t(7;17)(p15;q21)
+C1515786	t(7;19)(q34;q13)
+C1515787	t(7;22)(p22;q12)
+C1515788	t(7;9)(q34;q32)
+C1515789	t(7;9)(q34;q34.3)
+C1515790	t(8;13)(p11;q11)
+C1515791	t(8;14)(q24;q11)
+C1515792	t(8;14)(q24;q32)
+C1515793	t(8;16)(p11;p13)
+C1515794	t(8;21)(q22;q22)
+C1515795	t(8;22)(p11;q11)
+C1515796	t(8;22)(p11;q13)
+C1515797	t(8;22)(q24;q11)
+C1515798	t(8;8)(p11-12;q12)
+C1515799	t(8;9)(p11;q32-34)
+C1515800	t(9;11)(p22;q23)
+C1515801	t(9;11)(q21;q23)
+C1515802	t(9;12)(p24;p13)
+C1515803	t(9;12)(q34;p13)
+C1515804	t(9;14)(p13;q32)
+C1515805	t(9;15)(q22;q21)
+C1515806	t(9;17)(q22;q11)
+C1515807	t(9;22)(p24;q11)
+C1515808	t(9;22)(q22-31;q12)
+C1515809	t(9;22)(q34;q11)
+C1515810	t(V;11)(v;q23)
+C1515811	t(X;10)(p11;q23)
+C1515812	t(X;14)(q28;11)
+C1515813	t(X;17)(p11.2;q25)
+C1515814	t(X;18)(p11;q11)
+C1515815	t(X;1)(p11.2;p34)
+C1515816	t(X;1)(p11.2;q21)
+C1515817	t(X;2)(q11-12;p23)
+C1515843	AKT2 Gene Amplification
+C1515845	ALK Kinase Overexpression
+C1515851	AML1-ETO Fusion Protein Expression
+C1515852	RUNX1 Gene Mutation
+C1515857	APC Gene Inactivation
+C1516046	Apoptotic Pathway Deregulation
+C1516129	BCL2 Gene mRNA Overexpression
+C1516130	BCL2 Gene Translocation
+C1516131	BCL-6 Messenger RNA Overexpression
+C1516132	BCR-ABL1 Fusion Protein Expression
+C1516133	BCR-FGFR1 Fusion Protein Expression
+C1516134	BCR-JAK2 Fusion Protein Expression
+C1516135	BCR-PDGFRAlpha Fusion Protein Expression
+C1516197	Cancer Gene Mutation
+C1516309	CASP10 Gene Mutation
+C1516310	CASP8 Gene Mutation
+C1516331	Cell Cycle Deregulation
+C1516360	Cell Stress Process
+C1516373	Cellular Stress
+C1516516	Duplication of chromosome
+C1516517	Chromosomal Gain
+C1516518	Chromosomal Insertion
+C1516519	Chromosomal Loss
+C1516663	Clonal Antigen Receptor Gene Rearrangement
+C1516664	Clonal BCL2 Gene Rearrangement
+C1516665	Clonal BCL3 Gene Rearrangement
+C1516666	Clonal BCL6 Gene Rearrangement
+C1516672	Clonal Immunoglobulin Gene Rearrangement
+C1516673	Clonal Immunoglobulin Heavy Chain Gene Rearrangement
+C1516674	Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement
+C1516675	Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement
+C1516676	Clonal Immunoglobulin Light Chain Gene Rearrangement
+C1516678	Clonal T-Cell Receptor Beta Chain Gene Rearrangement
+C1516679	Clonal T-Cell Receptor Gamma Chain Gene Rearrangement
+C1516680	Clonal T-Cell Receptor Gene Rearrangement
+C1516823	Embryonic Lethal Mutation
+C1517085	FAS Apoptosis Pathway Deregulation
+C1517086	TNFRSF6 Gene Mutation
+C1517087	FASLG Gene Mutation
+C1517090	FGFR1 Gene Amplification
+C1517091	FGFR3 Gene Mutation
+C1517092	FGFR2 Gene Amplification
+C1517095	FHIT Gene Inactivation
+C1517097	FIP1L1-PDGFRalpha Fusion Protein Expression
+C1517099	FUS-ATF1 Fusion Protein Expression
+C1517100	FUS-DDIT3 Fusion Protein Expression
+C1517296	Formation of Apurinic Site
+C1517297	Formation of Apyrimidine Site
+C1517298	Formation of Bistrand Abasic Site
+C1517332	Fusion Protein Expression
+C1517379	Gain of Chromosome 1
+C1517380	Gain of Chromosome 10
+C1517381	Gain of Chromosome 11
+C1517382	Gain of Chromosome 12
+C1517383	Gain of Chromosome 12p
+C1517384	Gain of Chromosome 12q
+C1517385	Gain of Chromosome 12q13
+C1517386	Gain of Chromosome 12q15-qter
+C1517387	Gain of Chromosome 13
+C1517388	Gain of Chromosome 14
+C1517389	Gain of Chromosome 15
+C1517390	Gain of Chromosome 15q
+C1517391	Gain of Chromosome 16
+C1517392	Gain of Chromosome 17
+C1517393	Gain of Chromosome 17p
+C1517394	Gain of Chromosome 17q
+C1517395	Gain of Chromosome 17q22-q24
+C1517396	Gain of Chromosome 18
+C1517397	Gain of Chromosome 18q
+C1517398	Gain of Chromosome 19
+C1517399	Gain of Chromosome 19q
+C1517400	Gain of Chromosome 1p31
+C1517401	Gain of Chromosome 1q
+C1517402	Gain of Chromosome 1q21-31
+C1517403	Gain of Chromosome 20
+C1517404	Gain of Chromosome 20q
+C1517405	Gain of Chromosome 20q13
+C1517406	Gain of Chromosome 21
+C1517407	Gain of Chromosome 22
+C1517408	Gain of Chromosome 2p
+C1517409	Gain of Chromosome 3
+C1517410	Gain of Chromosome 3q
+C1517411	Gain of Chromosome 5
+C1517412	Gain of Chromosome 5p
+C1517413	Gain of Chromosome 5q
+C1517414	Gain of Chromosome 6
+C1517415	Gain of Chromosome 6p
+C1517416	Gain of Chromosome 6q
+C1517417	Gain of Chromosome 7
+C1517418	Gain of Chromosome 7p
+C1517419	Gain of Chromosome 7p13-pter
+C1517420	Gain of Chromosome 7q
+C1517421	Gain of Chromosome 7q32
+C1517422	Gain of Chromosome 8
+C1517423	Gain of Chromosome 8q
+C1517424	Gain of Chromosome 9
+C1517425	Gain of Chromosome 9p
+C1517426	Gain of Chromosome 9q
+C1517427	Gain of Chromosome 9q34
+C1517428	Gain of Chromosome X
+C1517429	Gain of Chromosome Xq
+C1517430	Gain of Chromosome Y
+C1517478	Gene Abnormality
+C1517546	Giant Rod Chromosome
+C1517604	Isodicentric Chromosome
+C1517615	JAK-STAT Pathway Deregulation
+C1517616	JAZF1-JJAZ1 Fusion Protein Expression
+C1517617	JUN Pathway Deregulation
+C1517648	KRAS2 Gene Amplification
+C1517649	KRAS Gene Mutation
+C1517684	LMYC Gene Amplification
+C1517694	LKB1 Gene Inactivation
+C1517695	LMO2 Messenger RNA Overexpression
+C1517946	Loss of Chromosome 1
+C1517947	Loss of Chromosome 10
+C1517948	Loss of Chromosome 10p
+C1517949	Loss of Chromosome 10q
+C1517950	Loss of Chromosome 11
+C1517952	Loss of Chromosome 11q
+C1517953	Loss of Chromosome 11q ATM Gene Locus
+C1517954	Loss of Chromosome 12
+C1517955	Loss of Chromosome 12p
+C1517956	Loss of Chromosome 12q
+C1517957	Loss of Chromosome 13
+C1517959	Loss of Chromosome 14
+C1517960	Loss of Chromosome 14q
+C1517961	Loss of Chromosome 16
+C1517962	Loss of Chromosome 16p
+C1517963	Loss of Chromosome 16q
+C1517964	Loss of Chromosome 17
+C1517965	Loss of Chromosome 17p
+C1517966	Loss of Chromosome 17q
+C1517967	Loss of Chromosome 18
+C1517968	Loss of Chromosome 18p
+C1517969	Loss of Chromosome 18q
+C1517970	Loss of Chromosome 19
+C1517971	Loss of Chromosome 19q
+C1517972	Loss of Chromosome 1p
+C1517973	Loss of Chromosome 2
+C1517974	Loss of Chromosome 20q
+C1517975	Loss of Chromosome 21
+C1517976	Loss of Chromosome 22
+C1517977	Loss of Chromosome 22q
+C1517978	Loss of Chromosome 2p
+C1517979	Loss of Chromosome 2q
+C1517980	Loss of Chromosome 3
+C1517981	Loss of Chromosome 3p
+C1517982	Loss of Chromosome 3p FHIT Gene Locus
+C1517983	Loss of Chromosome 4
+C1517984	Loss of Chromosome 4q
+C1517985	Loss of Chromosome 5
+C1517986	Loss of Chromosome 6
+C1517987	Loss of Chromosome 6p
+C1517988	Loss of Chromosome 6q
+C1517989	Loss of Chromosome 7
+C1517990	Loss of Chromosome 7q
+C1517991	Loss of Chromosome 8
+C1517992	Loss of Chromosome 8p
+C1517993	Loss of Chromosome 9
+C1517994	Loss of Chromosome 9p
+C1517995	Loss of Chromosome 9q
+C1517996	Loss of Chromosome X
+C1517997	Loss of Chromosome Y
+C1517998	Loss of E-cadherin Expression
+C1517999	Loss of Merlin Expression
+C1518003	Low-Frequency Microsatellite Instability
+C1518116	MDM2 Gene Amplification
+C1518117	MDM2 Gene Mutation
+C1518120	MEN1 Gene Inactivation
+C1518121	MET Gene Mutation
+C1518126	MAP2K4 Gene Inactivation
+C1518127	MLL-AF10 Fusion Protein Expression
+C1518128	MLL-AF4 Fusion Protein Expression
+C1518129	MLLT3-MLL Fusion Protein Expression
+C1518130	MLL-EEN Fusion Protein Expression
+C1518131	MLL-ELL Fusion Protein Expression
+C1518132	MLL-ENL Fusion Protein Expression
+C1518141	MSN-ALK Fusion Protein Expression
+C1518142	MSX1 Gene Mutation
+C1518144	MYB Gene Amplification
+C1518146	MYC Pathway Deregulation
+C1518432	NUMA1-RARA Fusion Protein Expression
+C1518472	Numerical Chromosomal Abnormality
+C1518521	RBM15-MKL1 Fusion Protein Expression
+C1518575	Oncogene Activation Process
+C1518576	Oncogene Deregulation
+C1518761	Positive Regulation of Oxidative Stress Process
+C1518770	P13K-AKT Pathway Deregulation
+C1518776	PAX3-FOXO1 Fusion Protein Expression
+C1518778	PAX7-FOXO1 Fusion Protein Expression
+C1518782	PDGFRA Gene Mutation
+C1518783	PDGFRalpha Protein Overexpression
+C1518795	PKCbeta1 Messenger RNA Overexpression
+C1518796	ZBTB16-RARA Fusion Protein Expression
+C1518798	PML-RARA Fusion Protein Expression
+C1518799	PMS1 Gene Inactivation
+C1518800	PMS2 Gene Inactivation
+C1518813	PRCC-TFE3 Fusion Protein Expression
+C1518824	PSF-TFE3 Fusion Protein Expression
+C1518828	PTCH Gene Inactivation
+C1518830	PTEN Gene Inactivation
+C1518911	Pathologic Mutagenesis
+C1519099	Ring Chromosome 1
+C1519156	SS18-SSX1 Fusion Protein Expression
+C1519157	SS18-SSX2 Fusion Protein Expression
+C1519158	SS18-SSX4 Fusion Protein Expression
+C1519160	STAT5B-RARA Fusion Protein Expression
+C1519314	Signal Transduction Pathway Deregulation
+C1519481	Sporadic Breast Tumor Mutation
+C1519651	Trisomy 16
+C1519652	Trisomy 3
+C1519653	Trisomy 4
+C1519654	Trisomy 5
+C1519668	Tumor-Suppressor Gene Inactivation
+C1519669	Tumor-Suppressor Pathway Deregulation
+C1519745	UV Mutagenesis
+C1519758	Unbalanced Translocation
+C1519759	Unbalanced Translocation of Chromosome 1
+C1519884	VHL Gene Inactivation
+C1520002	Viral Cell Proliferation
+C1520115	WT1 Gene Inactivation
+C1520120	Warburg Effect
+C1520220	ZAP70 Messenger RNA Overexpression
+C1521461	Loss of Chromosome 5q
+C1522020	NMYC Gene Amplification
+C1705285	Mutation Abnormality
+C1705427	Germline Mutation Abnormality
+C1705687	Inversion Mutation Abnormality
+C1705736	Gene Fusion Abnormality
+C1705759	Gene Amplification Abnormality
+C1705960	Gene Duplication Abnormality
+C1706394	Protein Sequence Abnormality
+C1706395	Protein Truncation Abnormality
+C1706659	ALO17-ALK Fusion Protein Expression
+C1706716	Adenosine to Cytosine Transversion Abnormality
+C1706717	Adenosine to Guanosine Transition Abnormality
+C1706718	Adenosine to Thymidine Transversion Abnormality
+C1706803	Amyloidogenesis
+C1706884	BHD Gene Mutation
+C1706890	BLM Gene Mutation
+C1707138	COL1A1-PDGFbeta Fusion Protein Expression
+C1707604	Cytosine to Adenosine Transversion Abnormality
+C1707605	Cytosine to Guanosine Transversion Abnormality
+C1707606	Cytosine to Thymidine Transition Abnormality
+C1707611	DEK-NUP214 Fusion Protein Expression
+C1707869	EWSR1-DDIT3 Fusion Protein Expression
+C1708022	FH Gene Mutation
+C1708028	FUS-CREB3L1 Fusion Protein Expression
+C1708029	FUS-CREB3L2 Fusion Protein Expression
+C1708030	FUS-ERG Fusion Protein Expression
+C1708142	GPC3 Gene Inactivation
+C1708164	Gain of Chromosome 10p
+C1708165	Gain of Chromosome 11q13
+C1708166	Gain of Chromosome 12q13-14
+C1708167	Gain of Chromosome 13q
+C1708168	Gain of Chromosome 22q
+C1708169	Gain of Chromosome 3q24-qter
+C1708170	Gain of Chromosome 4q
+C1708260	GNAS Gene Mutation
+C1708261	Guanosine to Adenosine Transition Abnormality
+C1708262	Guanosine to Cytosine Transversion Abnormality
+C1708263	Guanosine to Thymidine Transversion Abnormality
+C1708289	HRAS Gene Mutation
+C1708292	CDC73 Gene Mutation
+C1708741	del(18q21)
+C1708742	Loss of Chromosome 3q
+C1708818	MECT1-MAML2 Fusion Protein Expression
+C1708833	MOZ-V Fusion Protein Expression
+C1708844	MYH9-ALK Fusion Protein Expression
+C1709046	Mitochondrial Complex II Gene Mutation
+C1709051	Mixed Nucleotide Abnormalities
+C1709071	Monosomy 3
+C1709092	Multiple Nucleotide Abnormalities
+C1709093	Multiple Transition Abnormalities
+C1709094	Multiple Transversion Abnormalities
+C1709126	NF2 Gene Mutation
+C1709386	PAX3-FOXO4 Fusion Protein Expression
+C1709396	PDCD1LG2 Gene Overexpression
+C1709419	PPAR-gamma Rearrangement
+C1709556	Pituitary Tumor Transforming Gene Overexpression
+C1709742	Protein Splicing Abnormality
+C1709805	RASSF1A Gene Inactivation
+C1709808	RB-E2F Pathway Deregulation
+C1709812	RECQL4 Gene Mutation
+C1709815	RET/PTC Rearrangement
+C1709929	Restriction Site Polymorphism
+C1709980	SDHB Gene Mutation
+C1709981	SDHC Gene Mutation
+C1709982	SDHD Gene Mutation
+C1709998	SS18-SSX Fusion Protein Expression
+C1709999	SS18L1-SSX1 Fusion Protein Expression
+C1710288	TFG-NR4A3 Fusion Protein Expression
+C1710315	TPM4-ALK Fusion Protein Expression
+C1710329	TRK Rearrangement
+C1710347	Tandem Repeat Variation
+C1710404	Thymidine to Adenosine Transversion Abnormality
+C1710405	Thymidine to Cytosine Transition Abnormality
+C1710406	Thymidine to Guanosine Transversion Abnormality
+C1710467	Translation Initiation Abnormality
+C1710523	UV Mutation Abnormality
+C1710592	V-MLL Fusion Protein Expression
+C1711106	c-MET Gene Amplification
+C1711107	MYC Gene Mutation
+C1711142	t(11;19)(q14-21;p12-13)
+C1711143	t(12;19)(q13;q13.3)
+C1711144	t(13;22)(q22;q13.3)
+C1711145	t(15;19)(q13;p13.1)
+C1711146	t(2;17)(p23;q35)
+C1711147	t(2;19)(p23;p13)
+C1711148	t(2;22)(p23;q11)
+C1711149	t(2;2)(q35;p23)
+C1711150	t(3;14)(p14.1;q32)
+C1711151	t(3;8)(p12;q21)
+C1711152	t(3;9)(q11-12;q22)
+C1711153	t(8;V)(p11;v)
+C1711154	t(X;20)(p11;q13)
+C1711155	t(X;2)(q13;q35)
+C1711204	t(7;16)(q32-34;p11)
+C1711217	Gain of Chromosome 4
+C1711250	NOTCH1 Gene Mutation
+C1711282	PAX3-NCOA1 Fusion Protein Expression
+C1711291	t(15;22)(p11;q11)
+C1711321	CDKN1C Gene Mutation
+C1711324	BRD4-NUT Fusion Protein Expression
+C1711381	RET gene mutation
+C1711431	WAS Gene Mutation
+C1711435	WRN Gene Mutation
+C1721093	DNA Degradation, Necrotic
+C1859091	CHROMOSOMAL INSTABILITY WITH TISSUE-SPECIFIC RADIOSENSITIVITY
+C1861242	TEMPERATURE-SENSITIVE LETHAL MUTATION
+C2004480	Macrocytosis
+C2347241	C-abl and ARG Tyrosine Kinase Protein Overexpression
+C2348499	FLT3 Internal Tandem Duplication
+C2348500	FLT3 Juxtamembrane Domain Point Mutation
+C2348501	FLT3 Tyrosine Kinase Domain Point Mutation
+C2697646	IKZF1 Gene Mutation
+C2697943	Loss of Chromosomes 1p/19q
+C2699012	Rearrangement of 11q
+C2699013	Rearrangement of 21q
+C2699014	Rearrangement of 3q
+C2699201	Chromosome 5q31-33 Deletion
+C2699203	Chromosome 5q31.1 Deletion
+C2699332	Aberrant DNA Methylation of MGMT Gene
+C2707644	PDGFRA Gene Rearrangement
+C2718000	Proteostasis Deficiencies
+C2825132	t(5;17)(q35;q12)
+C2825735	Simultaneous Trisomies of Chromosomes 4, 10, and 17
+C2825750	add(11q23)
+C2825843	ALK Gene Mutation
+C2825844	ALK Fusion Protein Expression
+C2826105	GATA1 Gene Mutation
+C2826126	TMPRSS2-ERG Fusion Protein Expression
+C2826127	ERG Gene Rearrangement
+C2826171	RPN1-EVI1 Fusion Protein Expression
+C2826175	NPM1 Gene Mutation
+C2826327	PTPN11 Gene Mutation
+C2827253	T Gene Duplication
+C2827310	FGFR4 Gene Mutation
+C2827348	JAK2 Gene Mutation
+C2827357	PDGFRB Gene Rearrangement
+C2827358	FGFR1 Gene Rearrangement
+C2827366	Trisomy 19
+C2828339	t(16;16)(p13.1;q22)
+C2910368	Chromosome replaced with ring, dicentric or isochromosome
+C2930745	Partial monosomy
+C2930908	trisomy 9 mosaicism
+C2930913	Loss of Chromosome 13q
+C2930916	Ring chromosome 14 syndrome
+C2931337	del(3p25)
+C2931669	trisomy 8 mosaicism
+C2931795	Loss of Chromosome 11p
+C2931806	del(12p13)
+C2936830	Trisomy 13
+C2937262	Cell center alteration
+C2960193	Reactive endocervical cells
+C2983087	GNAQ Gene Mutation
+C2983088	GNA11 Gene Mutation
+C2983135	Tumor Suppressor Gene Inactivation Process
+C2984891	EGFR Activating Mutation
+C2985434	Disease-causing Mutation
+C2985435	Founder Mutation
+C2985436	Deleterious Mutation
+C2985437	Null Allele
+C2985438	Novel Mutation
+C2985439	de novo Mutation
+C2986942	t(4;14)
+C2986943	t(14;16)
+C3266989	H-ras gene mutation
+C3266990	C-kit gene mutation
+C3266991	C-kit gene overexpression
+C3266992	EGFR gene mutation
+C3266993	HERG gene mutation
+C3266994	Anaplastic lymphoma kinase gene mutation
+C3266995	Anaplastic lymphoma kinase gene and nucleophosmin gene fusion overexpression
+C3266996	Androgen receptor gene overexpression
+C3266997	Carbonic anhydrase gene mutation
+C3266998	Oestrogen receptor gene overexpression
+C3266999	Platelet-derived growth factor receptor overexpression
+C3267000	Progesterone receptor gene overexpression
+C3267001	PTEN gene mutation
+C3267002	UGT1A1 gene mutation
+C3267004	Tyrosine kinase mutation
+C3267005	Transmembrane receptor tyrosine kinase overexpression
+C3267006	EGFR gene overexpression
+C3267069	Janus kinase 2 mutation
+C3272693	PTEN Loss
+C3272694	PIK3CA Gene Mutation
+C3272807	Simultaneous Trisomies of Chromosomes 4 and 10
+C3272842	MUTYH Gene Mutation
+C3272843	BMPR1A Gene Mutation
+C3273013	HNF1A Gene Mutation
+C3273083	EGFR-TKI Sensitizing Mutation
+C3273084	EGFR-TKI Resistant Mutation
+C3273085	PIK3CA Gene Amplification
+C3273086	AKT Family Gene Mutation
+C3273087	ERBB2 Gene Mutation
+C3273088	PDGFRA Gene Amplification
+C3273253	Complex Karyotype
+C3273255	Unmutated Immunoglobulin Heavy Chain Variable Region Gene
+C3273351	EZH2 Gene Mutation
+C3273352	ETV6 Gene Mutation
+C3273353	ASXL1 Gene Mutation
+C3273703	Molecular Sequence Variation
+C3273704	Gene Product Sequence Variation
+C3273951	AKT1 Protein Variant
+C3273952	AKT1 Gene Mutation
+C3273953	AKT1 NM_001014431.1:c.49G>A
+C3273954	AKT1 NP_001014431.1:p.E17K
+C3273955	BRAF Protein Variant
+C3273956	BRAF NP_004324.2:p.G466A
+C3273957	BRAF NM_004333.4:c.1397G>C
+C3273958	BRAF NP_004324.2:p.G466E
+C3273959	BRAF NM_004333.4:c.1397G>A
+C3273960	BRAF NP_004324.2:p.G466R
+C3273961	BRAF NM_004333.4:c.1396G>C
+C3273962	BRAF NP_004324.2:p.G466V
+C3273963	BRAF NM_004333.4:c.1397G>T
+C3273964	BRAF NP_004324.2:p.G469A
+C3273965	BRAF NM_004333.4:c.1406G>C
+C3273966	BRAF NP_004324.2:p.G469E
+C3273967	BRAF NM_004333.4:c.1406G>A
+C3273968	BRAF NP_004324.2:p.G469R
+C3273969	BRAF NM_004333.4:c.1405G>C
+C3273970	BRAF NM_004333.4:c.1405G>A
+C3273971	BRAF NP_004324.2:p.G469S
+C3273972	BRAF NM_004333.4:c.1405_1406delGGinsTC
+C3273973	BRAF NM_004333.4:c.1405_1407delGGAinsAGC
+C3273974	BRAF NM_004333.4:c.1405_1407delGGAinsAGT
+C3273975	BRAF NP_004324.2:p.G469V
+C3273976	BRAF NM_004333.4:c.1406G>T
+C3273977	BRAF NM_004333.4:c.1791A>G
+C3273978	BRAF NP_004324.2:p.L597Q
+C3273979	BRAF NM_004333.4:c.1790T>A
+C3273980	BRAF NP_004324.2:p.L597R
+C3273981	BRAF NM_004333.4:c.1790T>G
+C3273982	BRAF NP_004324.2:p.L597S
+C3273983	BRAF NM_004333.4:c.1789_1790delCTinsTC
+C3273984	BRAF NP_004324.2:p.L597V
+C3273985	BRAF NM_004333.4:c.1789C>G
+C3273986	BRAF NP_004324.2:p.V600A
+C3273987	BRAF NM_004333.4:c.1799T>C
+C3273988	BRAF NP_004324.2:p.V600D
+C3273989	BRAF NM_004333.4:c.1799_1800delTGinsAT
+C3273990	BRAF NP_004324.2:p.V600E
+C3273991	BRAF NM_004333.4:c.1799_1800delTGinsAA
+C3273992	BRAF NM_004333.4:c.1799T>A
+C3273993	BRAF NP_004324.2:p.V600G
+C3273994	BRAF NM_004333.4:c.1799T>G
+C3273995	BRAF NP_004324.2:p.V600K
+C3273996	BRAF NM_004333.4:c.1798_1799delGTinsAA
+C3273997	BRAF NP_004324.2:p.V600L
+C3273998	BRAF NM_004333.4:c.1798G>T
+C3273999	BRAF NP_004324.2:p.V600M
+C3274000	BRAF NM_004333.4:c.1798G>A
+C3274001	BRAF NP_004324.2:p.V600R
+C3274002	BRAF NM_004333.4:c.1798_1799delGTinsAG
+C3274003	BRAF NM_004333.4:c.1797_1799delAGTinsGAG
+C3274004	EGFR Protein Variant
+C3274005	ERBB2 Protein Variant
+C3274006	ERBB2 NP_004439.2p:A775_G776insYVMA
+C3274007	ERBB2 NM_004448.2p.2325_2326ins12
+C3274008	ERBB2 NM_004448.2p.2324_2325ins12
+C3274009	KRAS Protein Variant
+C3274010	KRAS NP_004976.2:p.G12A
+C3274011	KRAS NM_004985.3:c.35G>C
+C3274012	KRAS NP_004976.2:p.G12C
+C3274013	KRAS NM_004985.3:c.34G>T
+C3274015	KRAS NM_004985.3:c.34_36delGGTinsTGC
+C3274016	KRAS NP_004976.2:p.G12D
+C3274017	KRAS NM_004985.3:c.35G>A
+C3274018	KRAS NM_004985.3:c.35_36delGTinsAC
+C3274019	KRAS NP_004976.2:p.G12E
+C3274020	KRAS NM_004985.3:c.35_36delGTinsAG
+C3274021	KRAS NM_004985.3:c.35_36delGTinsAA
+C3274022	KRAS NP_004976.2:p.G12F
+C3274023	KRAS NM_004985.3:c.34_35delGGinsTT
+C3274024	KRAS NM_004985.3:c.36T>C
+C3274025	KRAS NP_004976.2:p.G12I
+C3274026	KRAS NM_004985.3:c.34_35delGGinsAT
+C3274027	KRAS NP_004976.2:p.G12L
+C3274028	KRAS NM_004985.3:c.34_35delGGinsCT
+C3274030	KRAS NP_004976.2:p.G12N
+C3274032	KRAS NM_004985.3:c.34_35delGGinsAA
+C3274033	KRAS NP_004976.2:p.G12R
+C3274034	KRAS NM_004985.3:c.34G>C
+C3274036	KRAS NP_004976.2:p.G12S
+C3274037	KRAS NM_004985.3:c.34G>A
+C3274038	KRAS NP_004976.2:p.G12V
+C3274039	KRAS NM_004985.3:c.35G>T
+C3274040	KRAS NM_004985.3:c.35_36delGTinsTC
+C3274041	KRAS NP_004976.2:p.G12W
+C3274042	KRAS NM_004985.3:c.34_36delGGTinsTGG
+C3274043	KRAS NP_004976.2:p.G12Y
+C3274044	KRAS NM_004985.3:c.34_35delGGinsTA
+C3274046	KRAS NP_004976.2:p.G13A
+C3274048	KRAS NM_004985.3:c.38G>C
+C3274049	KRAS NP_004976.2:p.G13C
+C3274050	KRAS NM_004985.3:c.37G>T
+C3274051	KRAS NP_004976.2:p.G13D
+C3274052	KRAS NM_004985.3:c.38G>A
+C3274053	KRAS NM_004985.3:c.38_39delGCinsAT
+C3274054	KRAS NP_004976.2:p.G13E
+C3274055	KRAS NM_004985.3:c.38_39delGCinsAG
+C3274056	KRAS NM_004985.3:c.38_39delGCinsAA
+C3274057	KRAS NM_004985.3:c.39C>T
+C3274058	KRAS NM_004985.3:c.39C>G
+C3274059	KRAS NM_004985.3:c.39C>A
+C3274060	KRAS NP_004976.2:p.G13N
+C3274061	KRAS NM_004985.3:c.37_38delGGinsAA
+C3274062	KRAS NP_004976.2:p.G13R
+C3274063	KRAS NM_004985.3:c.37G>C
+C3274064	KRAS NM_004985.3:c.37_39delGGCinsCGT
+C3274065	KRAS NP_004976.2:p.G13S
+C3274066	KRAS NM_004985.3:c.37G>A
+C3274067	KRAS NP_004976.2:p.G13V
+C3274068	KRAS NM_004985.3:c.38G>T
+C3274069	KRAS NM_004985.3:c.38_39delGCinsTT
+C3274070	KRAS NM_004985.3:c.38_39delGCinsTG
+C3274071	KRAS NP_004976.2:p.Q61D
+C3274072	KRAS NP_004976.2:p.Q61E
+C3274073	KRAS NM_004985.3:c.181C>G
+C3274074	KRAS NP_004976.2:p.Q61H
+C3274075	KRAS NM_004985.3:c.183A>T
+C3274076	KRAS NM_004985.3:c.183A>C
+C3274077	KRAS NP_004976.2:p.Q61K
+C3274078	KRAS NM_004985.3:c.181C>A
+C3274079	KRAS NM_004985.3:c.180_181delTCinsAA
+C3274080	KRAS NM_004985.3:c.180_181delTCinsCA
+C3274081	KRAS NP_004976.2:p.Q61L
+C3274082	KRAS NM_004985.3:c.182A>T
+C3274083	KRAS NP_004976.2:p.Q61P
+C3274084	KRAS NM_004985.3:c.182A>C
+C3274085	KRAS NP_004976.2:p.Q61R
+C3274086	KRAS NM_004985.3:c.182A>G
+C3274087	NRAS Protein Variant
+C3274088	NRAS NP_002515.1:p.Q61E
+C3274089	NRAS NM_002524.4:c.181C>G
+C3274090	NRAS NP_002515.1:p.Q61H
+C3274091	NRAS NM_002524.4:c.183A>C
+C3274092	NRAS NM_002524.4:c.183A>T
+C3274093	NRAS NP_002515.1:p.Q61K
+C3274094	NRAS NM_002524.4:c.181C>A
+C3274095	NRAS NM_002524.4:c.180_181delACinsTA
+C3274096	NRAS NM_002524.4:c.181_183delCAAinsAAG
+C3274097	NRAS NP_002515.1:p.Q61L
+C3274098	NRAS NM_002524.4:c.182A>T
+C3274099	NRAS NM_002524.4:c.181_182delCAinsTT
+C3274100	NRAS NM_002524.4:c.182_183delAAinsTG
+C3274101	NRAS NP_002515.1:p.Q61P
+C3274102	NRAS NM_002524.4:c.182A>C
+C3274103	NRAS NM_002524.4:c.183A>G
+C3274104	NRAS NP_002515.1:p.Q61R
+C3274105	NRAS NM_002524.4:c.182A>G
+C3274106	NRAS NM_002524.4:c.181_182delCAinsAG
+C3274107	NRAS NM_002524.4:c.182_183delAAinsGG
+C3274108	PIK3CA Protein Variant
+C3274109	PIK3CA NP_006209.2:p.E545A
+C3274110	PIK3CA NM_006218.1:c.1634A>C
+C3274111	PIK3CA NP_006209.2:p.E545D
+C3274112	PIK3CA NM_006218.1:c.1635G>T
+C3274113	PIK3CA NM_006218.1:c.1635G>C
+C3274114	PIK3CA NP_006209.2:p.E545G
+C3274115	PIK3CA NM_006218.1:c.1634A>G
+C3274116	PIK3CA NP_006209.2:p.E545K
+C3274117	PIK3CA NM_006218.1:c.1633G>A
+C3274118	PIK3CA NP_006209.2:p.E545Q
+C3274119	PIK3CA NM_006218.1:c.1633G>C
+C3274120	PIK3CA NP_006209.2:p.E545V
+C3274121	PIK3CA NM_006218.1:c.1634A>T
+C3274122	PIK3CA NP_006209.2:p.E542K
+C3274123	PIK3CA NM_006218.1:c.1624G>A
+C3274124	PIK3CA NP_006209.2:p.E542Q
+C3274125	PIK3CA NM_006218.1:c.1624G>C
+C3274126	PIK3CA NP_006209.2:p.E542V
+C3274127	PIK3CA NM_006218.1:c.1625A>T
+C3274128	PIK3CA NP_006209.2:p.H1047L
+C3274129	PIK3CA NM_006218.1:c.3140A>T
+C3274130	PIK3CA NP_006209.2:p.H1047Q
+C3274131	PIK3CA NM_006218.1:c.3141T>G
+C3274132	PIK3CA NP_006209.2:p.H1047R
+C3274133	PIK3CA NM_006218.1:c.3140A>G
+C3274134	PIK3CA NP_006209.2:p.H1047T
+C3274135	PIK3CA NP_006209.2:p.H1047Y
+C3274179	PIK3CA NM_006218.1:c.3139C>T
+C3274180	PIK3CA NP_006209.2:p.C420R
+C3274181	PIK3CA NM_006218.1:c.1258T>C
+C3274182	PIK3CA NP_006209.2:p.E542G
+C3274183	PIK3CA NM_006218.1:c.1625A>G
+C3274184	EGFR NP_005219.2:p.L861F
+C3274185	EGFR NP_005219.2:p.L861P
+C3274186	EGFR NP_005219.2:p.L861Q
+C3274187	EGFR NM_005228.3:c.2582T>A
+C3274188	EGFR NP_005219.2:p.L861R
+C3274189	EGFR NM_005228.3:c.2582T>G
+C3274190	EGFR NP_005219.2:p.L861V
+C3274191	EGFR NM_005228.3:c.2581C>G
+C3274192	EGFR NP_005219.2:p.T790M
+C3274193	EGFR NM_005228.3:c.2369C>T
+C3274194	EGFR NP_005219.2:p.L858A
+C3274195	EGFR NP_005219.2:p.L858G
+C3274196	EGFR NP_005219.2:p.L858K
+C3274197	EGFR NM_005228.3:c.2572_2573delCTinsAA
+C3274198	EGFR NM_005228.3:c.2572C>T
+C3274199	EGFR NP_005219.2:p.L858M
+C3274200	EGFR NM_005228.3:c.2572C>A
+C3274201	EGFR NP_005219.2:p.L858P
+C3274202	EGFR NP_005219.2:p.L858Q
+C3274203	EGFR NM_005228.3:c.2573T>A
+C3274204	EGFR NP_005219.2:p.L858R
+C3274205	EGFR NM_005228.3:c.2573T>G
+C3274206	EGFR NM_005228.3:c.2573_2574delTGinsGT
+C3274207	EGFR NM_005228.3:c.2572_2573delCTinsAG
+C3274208	EGFR NP_005219.2:p.L858W
+C3274209	EGFR NP_005219.2:p.G719A
+C3274210	EGFR NM_005228.3:c.2156G>C
+C3274211	EGFR NP_005219.2:p.G719C
+C3274212	EGFR NM_005228.3:c.2155G>T
+C3274213	EGFR NM_005228.3:c.2154_2155delGGinsTT
+C3274214	EGFR NP_005219.2:p.G719D
+C3274215	EGFR NM_005228.3:c.2156G>A
+C3274216	EGFR NP_005219.2:p.G719S
+C3274217	EGFR NM_005228.3:c.2155G>A
+C3274218	EGFR NP_005219.2:p.G719V
+C3274219	EGFR NP_005219.2:p.E709fs*1
+C3274220	EGFR NM_005228.3:c.2125_2129delGAAAC
+C3274221	EGFR NP_005219.2:p.G719fs*29
+C3274222	EGFR NM_005228.3:c.2156delG
+C3274223	EGFR NP_005219.2:p.K745_A750del
+C3274224	EGFR NP_005219.2:p.K745_E749del
+C3274225	EGFR NM_005228.3:c.2233_2247del15
+C3274226	EGFR NP_005219.2:p.E746_A750del
+C3274227	EGFR NP_005219.2:p.K745_L747del
+C3274228	EGFR NM_005228.3:c.2236_2250del15
+C3274229	EGFR NM_005228.3:c.2235_2249del15
+C3274230	EGFR NP_005219.2:p.E746_E749del
+C3274231	EGFR NM_005228.3:c.2235_2246del12
+C3274232	EGFR NP_005219.2:p.E746_P753del
+C3274233	EGFR NP_005219.2:p.E746_R748del
+C3274234	EGFR NP_005219.2:p.E746_S752del
+C3274235	EGFR NP_005219.2:p.E746_T751del
+C3274236	EGFR NM_005228.3:c.2236_2253del18
+C3274237	EGFR NM_005228.3:c.2235_2252del18
+C3274238	EGFR NP_005219.2:p.E746del
+C3274239	EGFR NM_005228.3:c.2234_2236delAGG
+C3274240	EGFR NP_005219.2:p.L747_A750del
+C3274241	EGFR NP_005219.2:p.L747_A755del
+C3274242	EGFR NP_005219.2:p.L747_E749del
+C3274243	EGFR NM_005228.3:c.2239_2247del9
+C3274244	EGFR NP_005219.2:p.L747_K754del
+C3274245	EGFR NM_005228.3:c.2239_2262del24
+C3274246	EGFR NP_005219.2:p.L747_P753del
+C3274247	EGFR NP_005219.2:p.L747_S752del
+C3274248	EGFR NM_005228.3:c.2239_2256del18
+C3274249	EGFR NP_005219.2:p.L747_T751del
+C3274250	EGFR NM_005228.3:c.2239_2253del15
+C3274251	EGFR NM_005228.3:c.2240_2254del15
+C3274252	EGFR NM_005228.3:c.2238_2252del15
+C3274253	EGFR NP_005219.2:p.L747del
+C3274254	EGFR NP_005219.2:p.R748_P753del
+C3274255	EGFR NP_005219.2:p.R748_S752del
+C3274256	EGFR NP_005219.2:p.A750_E758del
+C3274257	EGFR NM_005228.3:c.2247_2273del27
+C3274258	EGFR NP_005219.2:p.A750_K754del
+C3274259	EGFR NM_005228.3:c.2246_2260del15
+C3274260	EGFR NP_005219.2:p.A750_K757del
+C3274261	EGFR NP_005219.2:p.T751_E758del
+C3274262	EGFR NM_005228.3:c.2250_2273del24
+C3274263	EGFR NP_005219.2:p.S752_I759del
+C3274264	EGFR NM_005228.3:c.2254_2277del24
+C3274265	EGFR NM_005228.3:c.2253_2276del24
+C3274266	EGFR NP_005219.2:p.S752_V769del
+C3274267	EGFR NP_005219.2:p.P753_I759del
+C3274268	EGFR NM_005228.3:c.2257_2277del21
+C3274269	EGFR NP_005219.2:p.N756_L760del
+C3274270	EGFR NP_005219.2:p.V774del
+C3274271	EGFR NP_005219.2:p.I789_L792del
+C3274272	EGFR NP_005219.2:p.V834del
+C3274274	EGFR NP_005219.2:p.I740_P741insPVAIKI
+C3274276	EGFR NM_005228.3:c.2219_2220ins18
+C3274277	EGFR NP_005219.2:p.I744_K745insKIPVAI
+C3274278	EGFR NM_005228.3:c.2231_2232ins18
+C3274279	EGFR NM_005228.3:c.2232_2233ins18
+C3274282	EGFR NP_005219.2:p.K745_E746insVPVAIK
+C3274283	EGFR NM_005228.3:c.2236_2237ins18
+C3274284	EGFR NP_005219.2:p.D761_E762insEAFQ
+C3274286	EGFR NM_005228.3:c.2283_2284ins12
+C3274287	EGFR NP_005219.2:p.Y764_V765insHH
+C3274288	EGFR NP_005219.2:p.V765_M766insMAS
+C3274289	EGFR NP_005219.2:p.M766_A767insAI
+C3274290	EGFR NM_005228.3:c.2298_2299insGCCATA
+C3274291	EGFR NP_005219.2:p.A767_S768insTLA
+C3274292	EGFR NM_005228.3:c.2302_2303ins9
+C3274293	EGFR NP_005219.2:p.A763_Y764insFQEA
+C3274294	EGFR NM_005228.3:c.2290_2291ins12
+C3274295	EGFR NP_005219.2:p.S768_V769insAWT
+C3274296	EGFR NP_005219.2:p.S768_V769insVAS
+C3274297	EGFR NM_005228.3:c.2303_2304ins9
+C3274298	EGFR NP_005219.2:p.V769_D770insASV
+C3274299	EGFR NM_005228.3:c.2307_2308ins9
+C3274300	EGFR NM_005228.3:c.2308_2309ins9
+C3274302	EGFR NM_005228.3:c.2309_2310delACinsCCAGCGTGGAT
+C3274303	EGFR NP_005219.2:p.V769_D770insCV
+C3274304	EGFR NM_005228.3:c.2307_2308insTGCGTG
+C3274305	EGFR NP_005219.2:p.V769_D770insDNV
+C3274306	EGFR NM_005228.3:c.2307_2308insGACAACGTG
+C3274307	EGFR NP_005219.2:p.V769_D770insGSV
+C3274308	EGFR NM_005228.3:c.2308_2309insGCAGCGTGG
+C3274309	EGFR NP_005219.2:p.V769_D770insGV
+C3274311	EGFR NP_005219.2:p.V769_D770insGVV
+C3274312	EGFR NM_005228.3:c.2308_2309insGGGTCGTGG
+C3274313	EGFR NP_005219.2:p.V769_D770insMASVD
+C3274314	EGFR NM_005228.3:c.2307_2308ins15
+C3274315	EGFR NP_005219.2:p.D770_N771insAPW
+C3274316	EGFR NM_005228.3:c.2310_2311ins9
+C3274317	EGFR NP_005219.2:p.D770_N771insD
+C3274318	EGFR NP_005219.2:p.D770_N771insDG
+C3274319	EGFR NM_005228.3:c.2308_2309insACGGCG
+C3274320	EGFR NP_005219.2:p.D770_N771insG
+C3274321	EGFR NM_005228.3:c.2310_2311insGGT
+C3274322	EGFR NM_005228.3:c.2310_2311insGGC
+C3274323	EGFR NP_005219.2:p.D770_N771insGD
+C3274324	EGFR NM_005228.3:c.2310_2311insGGGGAC
+C3274325	EGFR NP_005219.2:p.D770_N771insGL
+C3274326	EGFR NM_005228.3:c.2310_2311insGGGTTA
+C3274327	EGFR NP_005219.2:p.D770_N771insMATP
+C3274328	EGFR NM_005228.3:c.2311_2312ins12
+C3274329	EGFR NP_005219.2:p.D770_N771insN
+C3274330	EGFR NM_005228.3:c.2310_2311insAAC
+C3274331	EGFR NP_005219.2:p.D770_N771insNPH
+C3274332	EGFR NM_005228.3:c.2310_2311insAACCCCCAC
+C3274333	EGFR NP_005219.2:p.D770_N771insSVD
+C3274334	EGFR NM_005228.3:c.2311_2312ins9
+C3274335	EGFR NM_005228.3:c.2310_2311insAGCGTGGAC
+C3274341	EGFR NP_005219.2:p.D770_N771insSVP
+C3274342	EGFR NP_005219.2:p.D770_N771insSVQ
+C3274343	EGFR NP_005219.2:p.D770fs*61
+C3274344	EGFR NM_005228.3:c.2309_2310ins14
+C3274345	EGFR NP_005219.2:p.N771_P772insH
+C3274346	EGFR NP_005219.2:p.N771_P772insN
+C3274347	EGFR NM_005228.3:c.2313_2314insAAC
+C3274348	EGFR NP_005219.2:P772_H773insDHP
+C3274349	EGFR NP_005219.2:p.P772_H773insPR
+C3274350	EGFR NP_005219.2:p.P772_H773insDNP
+C3274351	EGFR NP_005219.2:p.P772_H773insQV
+C3274352	EGFR NP_005219.2:p.P772_H773insYNP
+C3274353	EGFR NP_005219.2:p.P772_H773insTHP
+C3274354	EGFR NM_005228.3:c.2315_2316insGACACACCC
+C3274355	EGFR NP_005219.2:p.H773_V774insG
+C3274356	EGFR NP_005219.2:p.H773_V774insGH
+C3274357	EGFR NP_005219.2:p.H773_V774insGNPH
+C3274358	EGFR NM_005228.3:c.2320_2321ins12
+C3274359	EGFR NP_005219.2:p.H773_V774insH
+C3274360	EGFR NM_005228.3:c.2319_2320insCAC
+C3274361	EGFR NP_005219.2:p.H773_V774insNPH
+C3274362	EGFR NM_005228.3:c.2319_2320ins9
+C3274363	EGFR NP_005219.2:p.H773_V774insPH
+C3274364	EGFR NM_005228.3:c.2318_2319insCCCCCA
+C3274365	EGFR NM_005228.3:c.2319_2320insCCCCAC
+C3274366	EGFR NP_005219.2:p.V774_C775insHV
+C3274367	EGFR NM_005228.3:c.2322_2323insCACGTG
+C3274368	EGFR NM_005228.3:c.2321_2322insCCACGT
+C3274369	EGFR NM_005228.3:c.2322delGinsCCACGTG
+C3274725	t(1;19)(q10;p10)
+C3275162	EWSR1-FLI1 Fusion Protein Expression
+C3275198	API2-MLT Fusion Protein Expression
+C3510471	deletion of part of a chromosome
+C3510472	deletions with complex arrangements
+C3536727	Triploidy
+C3536796	Cell Membrane Alteration
+C3537048	Trisomy 18
+C3537167	Trisomy 21
+C3540535	EGFR NP_005219.2:p.K29_N298insG
+C3640004	EGFR NM_005228.3:c.334_1137del804
+C3640153	PALB2 Gene Mutation
+C3641849	KIT Exon 11 Mutation
+C3641850	KIT Exon 9 Mutation
+C3641851	KIT Exon 13 Mutation
+C3670547	Nuclear hyperchromasia
+C3686488	Atypical round cell population
+C3686873	Myelin fragmentation
+C3697479	Diffuse hyperplastic oncocytosis
+C3804995	Sick cell syndrome
+C3811055	Absence of Biallelic TCRgamma Deletion
+C3812172	BRAF NP_004324.2:p.V600X
+C3827240	PDGFRA NP_006197.1:p.D842V
+C3827293	JAK2 NM_004972.3:c.1848_1849TG>CT
+C3827386	FGFR2 NP_000132.3:p.Y375C
+C3827870	t(9;11)
+C3827872	t(14;16)(q32;q23)
+C3828556	PIK3CA NP_006209.2:p.H1047X
+C3828557	PIK3CA NP_006209.2:p.E545X
+C3828558	PIK3CA NP_006209.2:p.E542X
+C3828626	PDGFRA Protein Variant
+C3828627	PDGFRA NM_006206.4:c.2525A>T
+C3828750	NRAS NP_002515.1:p.Q61X
+C3828751	NRAS NP_002515.1:p.G13X
+C3828752	NRAS NP_002515.1:p.G12X
+C3828843	Near-Haploidy
+C3829001	MLL Partial Tandem Duplication
+C3829059	Minimal Aneuploidy
+C3829182	Masked Near-Haploidy
+C3829363	KRAS NP_004976.2:p.Q61X
+C3829364	KRAS NP_004976.2:p.A146X
+C3829469	JAK2 Protein Variant
+C3829470	JAK2 NP_004963.1:p.Y931C
+C3829471	JAK2 NP_004963.1:p.V617F
+C3829472	JAK2 NP_004963.1:p.R938L
+C3829473	JAK2 NP_004963.1:p.M929I
+C3829474	JAK2 NP_004963.1:p.I960V
+C3829475	JAK2 NP_004963.1:p.G935R
+C3829476	JAK2 NP_004963.1:p.E985K
+C3829477	JAK2 NM_004972.3:c.2792A>G
+C3829478	JAK2 NM_004972.3:c.1849G>T
+C3829508	inv(3)
+C3829560	Immunoglobulin Heavy Chain Locus Variable Region Mutation
+C3830129	FGFR2 Protein Variant
+C3830130	FGFR2 NP_000132.3:p.S372C
+C3830131	FGFR2 NP_000132.3:p.S252W
+C3830132	FGFR2 NP_000132.3:p.P253R
+C3830133	FGFR2 NP_000132.3:p.N549K
+C3830134	FGFR2 NP_000132.3:p.N549H
+C3830135	FGFR2 NP_000132.3:p.K659E
+C3830136	FGFR2 NP_000132.3:p.C382R
+C3830137	FGFR2 NM_000141.4:c.758C>G
+C3830138	FGFR2 NM_000141.4:c.755C>G
+C3830139	FGFR2 NM_000141.4:c.1975A>G
+C3830140	FGFR2 NM_000141.4:c.1647T>G
+C3830141	FGFR2 NM_000141.4:c.1647T>A
+C3830142	FGFR2 NM_000141.4:c.1645A>C
+C3830143	FGFR2 NM_000141.4:c.1144T>C
+C3830144	FGFR2 NM_000141.4:c.1124A>G
+C3830145	FGFR2 NM_000141.4:c.1115C>G
+C3830146	FGFR2 Gene Mutation
+C3830332	EGFR NP_005219.2:p.G719X
+C3831388	BCR-ABL TKI-Resistant Mutation
+C3838913	Proliferative spindle cell nodule
+C3840172	Papillary proliferation
+C3874276	Syringometaplasia
+C3875252	Immature squamous metaplasia
+C3888138	Monosomy X
+C3888558	VKORC1 gene polymorphism
+C3888630	Lamin A/C gene mutation
+C3897100	FGFR Gene Translocation
+C3897138	t(9;22)
+C3897139	t(8;21)
+C3897140	t(4;19)(q35;q13)
+C3897141	t(1;14)
+C3897142	t(14;20)
+C3897143	t(10;19)(q26;q13)
+C3897144	inv(16)
+C3897145	inv(16)(p13.1;q22)
+C3897209	VHL Gene Mutation
+C3897377	TSC2 Gene Mutation
+C3897378	TSC1 Gene Mutation
+C3897380	TP53 Gene Mutation
+C3898042	PMS2 Gene Mutation
+C3898046	PDGFRA Exon 18 Mutation
+C3898047	PDGFRA Exon 14 Mutation
+C3898048	PDGFRA Exon 12 Mutation
+C3898206	NF1 Gene Mutation
+C3898500	MSH6 Gene Mutation
+C3898547	MLH1 Gene Mutation
+C3898552	MEN1 Gene Mutation
+C3898575	Loss of BAF250a Expression
+C3898642	KRAS NP_004976.2:p.G13X
+C3898643	KRAS NP_004976.2:p.G12X
+C3898644	KRAS Activating Mutation
+C3898646	KIT Exon 17 Mutation
+C3898659	JAK2 NP_004963.1:p.V617X
+C3898660	JAK2 NP_004963.1:p.T875N
+C3898661	JAK2 NM_004972.3:c.2624C>A
+C3898822	IDH2 NP_002159.2:p.R172X
+C3898823	IDH2 NP_002159.2:p.R140X
+C3898824	IDH2 Gene Mutation
+C3898825	IDH1 Protein Variant
+C3898826	IDH1 NP_005887.2:p.R132X
+C3898827	IDH1 Gene Mutation
+C3899165	FLT3 Activation Loop Mutation
+C3899173	FGFR Gene Amplification
+C3899174	FGF Gene Amplification
+C3899176	FAP Gene Mutation
+C3899399	Defect in the Gene for MIS Type II Receptor
+C3899479	Cytoplasmic Nucleophosmin Expression
+C3899762	CIC-DUX4L Fusion Protein Expression
+C3899763	CIC-DUX4 Fusion Protein Expression
+C3899966	BRAF NP_004324.2:p.T599_V600insT
+C3899967	BRAF NM_004333.4:c.1797_1798insACA
+C3899968	BRAF NM_004333.4:c.1796_1797insTAC
+C4021848	Abnormality of DNA repair
+C4021899	Premature chromatid separation
+C4022494	Chromsome breakage
+C4022557	Defective T cell proliferation
+C4022856	Skewed maternal X inactivation
+C4022976	Autosomal dominant inheritance with paternal imprinting
+C4023351	Hyposegmentation of neutrophil nuclei
+C4023594	Abnormality of the cell cycle
+C4023595	Abnormality of cell physiology
+C4023604	Increased susceptibility to spontaneous sister chromatid exchange
+C4025613	Increased rate of premature chromosome condensation
+C4025639	Prolonged G2 phase of cell cycle
+C4025672	Impaired memory B-cell generation
