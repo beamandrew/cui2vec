@@ -9,6 +9,9 @@
 #' @export
 construct_pmi <- function(cooccur,singletons,N,smooth=0.75) {
   cooccur_matrix <- as.matrix(cooccur)
+  # masking the lower half of the matrix because cooccur will always be symmetric
+  # don't want to double count CUI1-CUI2 as CUI2-CUI1
+  cooccur_matrix[lower.tri(cooccur_matrix, diag = FALSE)] <- 0
   singletons$Count <- singletons$Count^smooth/N^smooth
   concept_list <- row.names(cooccur_matrix)
   nz <- which(cooccur_matrix != 0, arr.ind = TRUE)
@@ -19,8 +22,7 @@ construct_pmi <- function(cooccur,singletons,N,smooth=0.75) {
     dplyr::inner_join(singletons,by=c("Concept_2" = "CUI")) %>%
     dplyr::rename(Concept_2_Prob=.data$Count) %>%
     dplyr::mutate(PMI = log(.data$JointProb/(.data$Concept_1_Prob  * .data$Concept_2_Prob))) %>%
-    dplyr::select(.data$Concept_1, .data$Concept_2, .data$PMI) %>%
-    dplyr::top_frac(.5) #symmetric top and bottom half
+    dplyr::select(.data$Concept_1, .data$Concept_2, .data$PMI)
   return(pmi_df)
 }
 
