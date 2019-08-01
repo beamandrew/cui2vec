@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="Ben Kompa" />
+
+<meta name="date" content="2019-07-31" />
+
+<title>cui2vec Workflow</title>
+
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css" data-origin="pandoc">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(data-line-number);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+
+</style>
+<script>
+// apply pandoc div.sourceCode style to pre.sourceCode instead
+(function() {
+  var sheets = document.styleSheets;
+  for (var i = 0; i < sheets.length; i++) {
+    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
+    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
+    for (var j = 0; j < rules.length; j++) {
+      var rule = rules[j];
+      // check if there is a div.sourceCode rule
+      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") continue;
+      var style = rule.style.cssText;
+      // check if color or background-color is set
+      if (rule.style.color === '' && rule.style.backgroundColor === '') continue;
+      // replace div.sourceCode by a pre.sourceCode rule
+      sheets[i].deleteRule(j);
+      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
+    }
+  }
+})();
+</script>
+
+
+
+<style type="text/css">body {
+background-color: #fff;
+margin: 1em auto;
+max-width: 700px;
+overflow: visible;
+padding-left: 2em;
+padding-right: 2em;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.35;
+}
+#header {
+text-align: center;
+}
+#TOC {
+clear: both;
+margin: 0 0 10px 10px;
+padding: 4px;
+width: 400px;
+border: 1px solid #CCCCCC;
+border-radius: 5px;
+background-color: #f6f6f6;
+font-size: 13px;
+line-height: 1.3;
+}
+#TOC .toctitle {
+font-weight: bold;
+font-size: 15px;
+margin-left: 5px;
+}
+#TOC ul {
+padding-left: 40px;
+margin-left: -1.5em;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+#TOC ul ul {
+margin-left: -2em;
+}
+#TOC li {
+line-height: 16px;
+}
+table {
+margin: 1em auto;
+border-width: 1px;
+border-color: #DDDDDD;
+border-style: outset;
+border-collapse: collapse;
+}
+table th {
+border-width: 2px;
+padding: 5px;
+border-style: inset;
+}
+table td {
+border-width: 1px;
+border-style: inset;
+line-height: 18px;
+padding: 5px 5px;
+}
+table, table th, table td {
+border-left-style: none;
+border-right-style: none;
+}
+table thead, table tr.even {
+background-color: #f7f7f7;
+}
+p {
+margin: 0.5em 0;
+}
+blockquote {
+background-color: #f6f6f6;
+padding: 0.25em 0.75em;
+}
+hr {
+border-style: solid;
+border: none;
+border-top: 1px solid #777;
+margin: 28px 0;
+}
+dl {
+margin-left: 0;
+}
+dl dd {
+margin-bottom: 13px;
+margin-left: 13px;
+}
+dl dt {
+font-weight: bold;
+}
+ul {
+margin-top: 0;
+}
+ul li {
+list-style: circle outside;
+}
+ul ul {
+margin-bottom: 0;
+}
+pre, code {
+background-color: #f7f7f7;
+border-radius: 3px;
+color: #333;
+white-space: pre-wrap; 
+}
+pre {
+border-radius: 3px;
+margin: 5px 0px 10px 0px;
+padding: 10px;
+}
+pre:not([class]) {
+background-color: #f7f7f7;
+}
+code {
+font-family: Consolas, Monaco, 'Courier New', monospace;
+font-size: 85%;
+}
+p > code, li > code {
+padding: 2px 0px;
+}
+div.figure {
+text-align: center;
+}
+img {
+background-color: #FFFFFF;
+padding: 2px;
+border: 1px solid #DDDDDD;
+border-radius: 3px;
+border: 1px solid #CCCCCC;
+margin: 0 5px;
+}
+h1 {
+margin-top: 0;
+font-size: 35px;
+line-height: 40px;
+}
+h2 {
+border-bottom: 4px solid #f7f7f7;
+padding-top: 10px;
+padding-bottom: 2px;
+font-size: 145%;
+}
+h3 {
+border-bottom: 2px solid #f7f7f7;
+padding-top: 10px;
+font-size: 120%;
+}
+h4 {
+border-bottom: 1px solid #f7f7f7;
+margin-left: 8px;
+font-size: 105%;
+}
+h5, h6 {
+border-bottom: 1px solid #ccc;
+font-size: 105%;
+}
+a {
+color: #0033dd;
+text-decoration: none;
+}
+a:hover {
+color: #6666ff; }
+a:visited {
+color: #800080; }
+a:visited:hover {
+color: #BB00BB; }
+a[href^="http:"] {
+text-decoration: underline; }
+a[href^="https:"] {
+text-decoration: underline; }
+
+code > span.kw { color: #555; font-weight: bold; } 
+code > span.dt { color: #902000; } 
+code > span.dv { color: #40a070; } 
+code > span.bn { color: #d14; } 
+code > span.fl { color: #d14; } 
+code > span.ch { color: #d14; } 
+code > span.st { color: #d14; } 
+code > span.co { color: #888888; font-style: italic; } 
+code > span.ot { color: #007020; } 
+code > span.al { color: #ff0000; font-weight: bold; } 
+code > span.fu { color: #900; font-weight: bold; }  code > span.er { color: #a61717; background-color: #e3d2d2; } 
+</style>
+
+
+
+
+</head>
+
+<body>
+
+
+
+
+<h1 class="title toc-ignore">cui2vec Workflow</h1>
+<h4 class="author">Ben Kompa</h4>
+<h4 class="date">2019-07-31</h4>
+
+
+
+<div id="cui2vec-overview" class="section level2">
+<h2>cui2vec Overview</h2>
+<p>Word embeddings are a popular approach to unsupervised learning of word relationships that are widely used in natural language processing. <code>cui2vec</code> was created to learn embeddings for medical concepts using an extremely large collection of multimodal medical data. This includes an insurance claims database of 60 million members, a collection of 20 million clinical notes, and 1.7 million full text biomedical journal articles that can be combined to embed concepts into a common space, resulting in the largest ever set of embeddings for 108,477 medical concepts. See <a href="https://arxiv.org/abs/1804.01486">our preprint</a> <span class="citation">(Kompa et al. 2019)</span> for more information.</p>
+<p>In this vignette, we’ll walk through the core steps of <code>cui2vec</code>. Start by loading the package:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">library</span>(cui2vec)</a></code></pre></div>
+<p>For this vignette, we’ll focus on a collection of 20 million clinical notes that have been preprocessed using NILE. <code>term_cooccurrence_matrix.RData</code> contains a term co-occurrence matrix (TCM) for all pairwise combinations of CUIs (concept unique identifier) for a subsampling of 100 CUIs out of 18,000+. <code>singleton_counts.RData</code> contains the raw count of each term in the vocabulary. Both are needed for <code>cui2vec</code> to work. For now, we’ll assume you have a TCM and singleton count for your corpus of interest.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" data-line-number="1"><span class="co"># denominator in PMI calculation </span></a>
+<a class="sourceLine" id="cb2-2" data-line-number="2">N &lt;-<span class="st"> </span><span class="dv">261397</span> </a>
+<a class="sourceLine" id="cb2-3" data-line-number="3"></a>
+<a class="sourceLine" id="cb2-4" data-line-number="4"><span class="kw">load</span>(<span class="st">'term_cooccurrence_matrix.rda'</span>)</a>
+<a class="sourceLine" id="cb2-5" data-line-number="5"><span class="kw">load</span>(<span class="st">'singleton_counts.rda'</span>)</a></code></pre></div>
+<p>The first step in the <code>cui2vec</code> algorithm is to construct the Pointwise Mutual Information (PMI) matrix:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1">pmi &lt;-<span class="st"> </span><span class="kw">construct_pmi</span>(term_cooccurrence_matrix,singleton_counts,N)</a>
+<a class="sourceLine" id="cb3-2" data-line-number="2"><span class="co">#&gt; Warning: Column `Concept_1`/`CUI` joining factor and character vector,</span></a>
+<a class="sourceLine" id="cb3-3" data-line-number="3"><span class="co">#&gt; coercing into character vector</span></a>
+<a class="sourceLine" id="cb3-4" data-line-number="4"><span class="co">#&gt; Warning: Column `Concept_2`/`CUI` joining factor and character vector,</span></a>
+<a class="sourceLine" id="cb3-5" data-line-number="5"><span class="co">#&gt; coercing into character vector</span></a>
+<a class="sourceLine" id="cb3-6" data-line-number="6">pmi[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">3</span>]</a>
+<a class="sourceLine" id="cb3-7" data-line-number="7"><span class="co">#&gt;   Concept_1 Concept_2         PMI</span></a>
+<a class="sourceLine" id="cb3-8" data-line-number="8"><span class="co">#&gt; 1  C0016875  C0016875  4.26610690</span></a>
+<a class="sourceLine" id="cb3-9" data-line-number="9"><span class="co">#&gt; 2  C0162770  C0162770  2.90357846</span></a>
+<a class="sourceLine" id="cb3-10" data-line-number="10"><span class="co">#&gt; 3  C0024730  C0024730  2.76581945</span></a>
+<a class="sourceLine" id="cb3-11" data-line-number="11"><span class="co">#&gt; 4  C0016875  C0038689  0.02268291</span></a>
+<a class="sourceLine" id="cb3-12" data-line-number="12"><span class="co">#&gt; 5  C0162770  C0038689 -2.09131400</span></a></code></pre></div>
+<p>Next, you need to construct the Shifted Positive Pointwise Mutual Information (SPPMI) matrix:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1">sppmi &lt;-<span class="st"> </span><span class="kw">construct_sppmi</span>(pmi)</a>
+<a class="sourceLine" id="cb4-2" data-line-number="2">sppmi[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">5</span>]</a>
+<a class="sourceLine" id="cb4-3" data-line-number="3"><span class="co">#&gt; 5 x 5 sparse Matrix of class &quot;dgCMatrix&quot;</span></a>
+<a class="sourceLine" id="cb4-4" data-line-number="4"><span class="co">#&gt;            C0016875 C0162770 C0024730   C0038689 C0724374</span></a>
+<a class="sourceLine" id="cb4-5" data-line-number="5"><span class="co">#&gt; C0016875 8.53221380 .        .        0.02268291 .       </span></a>
+<a class="sourceLine" id="cb4-6" data-line-number="6"><span class="co">#&gt; C0162770 .          5.807157 .        .          .       </span></a>
+<a class="sourceLine" id="cb4-7" data-line-number="7"><span class="co">#&gt; C0024730 .          .        5.531639 .          .       </span></a>
+<a class="sourceLine" id="cb4-8" data-line-number="8"><span class="co">#&gt; C0038689 0.02268291 .        .        4.54143345 .       </span></a>
+<a class="sourceLine" id="cb4-9" data-line-number="9"><span class="co">#&gt; C0724374 .          .        .        .          6.750211</span></a></code></pre></div>
+<p>Finally, you can fit <code>cui2vec</code> embeddings using <code>construct_word2vec_embedding</code>. We’ll keep this example small and only work with 20 dimensional embeddings.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1">w2v_embedding &lt;-<span class="st"> </span><span class="kw">construct_word2vec_embedding</span>(<span class="dt">sppmi =</span> sppmi, <span class="dt">dim_size =</span> <span class="dv">20</span>, <span class="dt">iters=</span><span class="dv">50</span>)</a>
+<a class="sourceLine" id="cb5-2" data-line-number="2">w2v_embedding[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">5</span>]</a>
+<a class="sourceLine" id="cb5-3" data-line-number="3"><span class="co">#&gt;                   [,1]          [,2]          [,3]          [,4]</span></a>
+<a class="sourceLine" id="cb5-4" data-line-number="4"><span class="co">#&gt; C0016875  1.172483e-14 -1.133303e-14  5.841938e+00 -1.379865e-13</span></a>
+<a class="sourceLine" id="cb5-5" data-line-number="5"><span class="co">#&gt; C0162770 -1.235961e-15  1.835249e-15  2.784607e-15 -5.013894e-15</span></a>
+<a class="sourceLine" id="cb5-6" data-line-number="6"><span class="co">#&gt; C0024730 -3.225337e-17 -8.331397e-17 -6.422022e-17 -7.153492e-16</span></a>
+<a class="sourceLine" id="cb5-7" data-line-number="7"><span class="co">#&gt; C0038689 -1.591355e-17 -8.460194e-16  3.351675e-02 -5.414600e-15</span></a>
+<a class="sourceLine" id="cb5-8" data-line-number="8"><span class="co">#&gt; C0724374  1.018238e-15 -1.622664e-15 -1.343451e-14 -2.575358e-16</span></a>
+<a class="sourceLine" id="cb5-9" data-line-number="9"><span class="co">#&gt;                   [,5]</span></a>
+<a class="sourceLine" id="cb5-10" data-line-number="10"><span class="co">#&gt; C0016875  8.930503e-14</span></a>
+<a class="sourceLine" id="cb5-11" data-line-number="11"><span class="co">#&gt; C0162770  6.661319e-15</span></a>
+<a class="sourceLine" id="cb5-12" data-line-number="12"><span class="co">#&gt; C0024730  6.162048e-17</span></a>
+<a class="sourceLine" id="cb5-13" data-line-number="13"><span class="co">#&gt; C0038689  1.838339e-15</span></a>
+<a class="sourceLine" id="cb5-14" data-line-number="14"><span class="co">#&gt; C0724374 -3.918855e-15</span></a></code></pre></div>
+<p>We can also do <code>PCA</code> on the term_cooccurrence_matrix matrix. We’ll refer to these as PCA embeddings.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" data-line-number="1">pca_embedding &lt;-<span class="st"> </span><span class="kw">construct_pca_embedding</span>(term_cooccurrence_matrix, <span class="dt">dim_size =</span> <span class="dv">20</span>)</a>
+<a class="sourceLine" id="cb6-2" data-line-number="2">pca_embedding[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">5</span>]</a>
+<a class="sourceLine" id="cb6-3" data-line-number="3"><span class="co">#&gt;                  [,1]         [,2]          [,3]          [,4]</span></a>
+<a class="sourceLine" id="cb6-4" data-line-number="4"><span class="co">#&gt; C0016875 0.0002409396 2.926225e-05 -9.360994e-05  0.0004156924</span></a>
+<a class="sourceLine" id="cb6-5" data-line-number="5"><span class="co">#&gt; C0162770 0.0048681441 1.516482e-04  7.924906e-04 -0.0047039922</span></a>
+<a class="sourceLine" id="cb6-6" data-line-number="6"><span class="co">#&gt; C0024730 0.0071687652 3.154909e-05 -3.679080e-03  0.0006116441</span></a>
+<a class="sourceLine" id="cb6-7" data-line-number="7"><span class="co">#&gt; C0038689 0.0195969813 8.183744e-04 -6.931670e-03  0.0010659522</span></a>
+<a class="sourceLine" id="cb6-8" data-line-number="8"><span class="co">#&gt; C0724374 0.0017544907 2.267348e-04  8.766981e-04  0.0004303244</span></a>
+<a class="sourceLine" id="cb6-9" data-line-number="9"><span class="co">#&gt;                   [,5]</span></a>
+<a class="sourceLine" id="cb6-10" data-line-number="10"><span class="co">#&gt; C0016875  0.0002705038</span></a>
+<a class="sourceLine" id="cb6-11" data-line-number="11"><span class="co">#&gt; C0162770 -0.0033434722</span></a>
+<a class="sourceLine" id="cb6-12" data-line-number="12"><span class="co">#&gt; C0024730 -0.0055254099</span></a>
+<a class="sourceLine" id="cb6-13" data-line-number="13"><span class="co">#&gt; C0038689 -0.0109341669</span></a>
+<a class="sourceLine" id="cb6-14" data-line-number="14"><span class="co">#&gt; C0724374  0.0002585918</span></a></code></pre></div>
+<p>Another baseline we can consider is <code>GloVe</code>:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb7-1" data-line-number="1">glove_embedding &lt;-<span class="st"> </span><span class="kw">construct_glove_embedding</span>(term_cooccurrence_matrix, <span class="dt">dim_size =</span> <span class="dv">20</span>, <span class="dt">iters =</span> <span class="dv">10</span>)</a>
+<a class="sourceLine" id="cb7-2" data-line-number="2">glove_embedding[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">5</span>]</a></code></pre></div>
+<p>To run the benchmarks in our paper, we need some additional information about the vectors in our embedding space. Each vector has a CUI, but we also need the UMLS semantic type associated with each CUI. We also assume there is string with the English equivalent of the CUI. You can check that the first 3 columns of your embedding data frame are CUI, semantic type, and description by running <code>check_embedding_semantic_columns</code></p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb8-1" data-line-number="1"><span class="kw">print</span>(<span class="kw">check_embedding_semantic_columns</span>(w2v_embedding))</a>
+<a class="sourceLine" id="cb8-2" data-line-number="2"><span class="co">#&gt; [1] FALSE</span></a></code></pre></div>
+<p>As expected, this fails, since we just created the embeddings. We have a helper function to add this information to an embedding.</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb9-1" data-line-number="1">glove_embedding &lt;-<span class="st"> </span><span class="kw">bind_semantic_types</span>(glove_embedding)</a>
+<a class="sourceLine" id="cb9-2" data-line-number="2">w2v_embedding &lt;-<span class="st"> </span><span class="kw">bind_semantic_types</span>(w2v_embedding)</a></code></pre></div>
+<p>Let’s check that it worked:</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb10-1" data-line-number="1">w2v_embedding[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">1</span><span class="op">:</span><span class="dv">5</span>]</a>
+<a class="sourceLine" id="cb10-2" data-line-number="2"><span class="co">#&gt;        CUI            SemanticType           String            X1</span></a>
+<a class="sourceLine" id="cb10-3" data-line-number="3"><span class="co">#&gt; 1 C0016875        Organic Chemical     Fusidic Acid  1.172483e-14</span></a>
+<a class="sourceLine" id="cb10-4" data-line-number="4"><span class="co">#&gt; 2 C0016875              Antibiotic     Fusidic Acid  1.172483e-14</span></a>
+<a class="sourceLine" id="cb10-5" data-line-number="5"><span class="co">#&gt; 3 C0024730        Organic Chemical         Mannitol -3.225337e-17</span></a>
+<a class="sourceLine" id="cb10-6" data-line-number="6"><span class="co">#&gt; 4 C0024730 Pharmacologic Substance         Mannitol -3.225337e-17</span></a>
+<a class="sourceLine" id="cb10-7" data-line-number="7"><span class="co">#&gt; 5 C0038689        Organic Chemical Sulfamethoxazole -1.591355e-17</span></a>
+<a class="sourceLine" id="cb10-8" data-line-number="8"><span class="co">#&gt;              X2</span></a>
+<a class="sourceLine" id="cb10-9" data-line-number="9"><span class="co">#&gt; 1 -1.133303e-14</span></a>
+<a class="sourceLine" id="cb10-10" data-line-number="10"><span class="co">#&gt; 2 -1.133303e-14</span></a>
+<a class="sourceLine" id="cb10-11" data-line-number="11"><span class="co">#&gt; 3 -8.331397e-17</span></a>
+<a class="sourceLine" id="cb10-12" data-line-number="12"><span class="co">#&gt; 4 -8.331397e-17</span></a>
+<a class="sourceLine" id="cb10-13" data-line-number="13"><span class="co">#&gt; 5 -8.460194e-16</span></a></code></pre></div>
+<p>We are now ready to run the benchmarks we described in our paper. The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts. We compare how similar the embeddings for a pair of concepts are by computing the cosine similarity of their corresponding vectors, and we use this similarity to assess whether or not the two concepts are related. There are five benchmarks:</p>
+<ul>
+<li><strong>Comorbid Conditions</strong>: A comorbidity is a disease or condition that frequently accompanies a primary diagnosis.</li>
+<li><strong>Causative Relationships</strong>: The UMLS contains a table (MRREL) of entities known to be the cause of a certain result.</li>
+<li><strong>National Drug File Reference Terminology (NDF-RT)</strong>: We assess power to detect “may treat” and “may prevent” relationships using bootstrap scores of random drug-disease pairs.</li>
+<li><strong>UMLS Semantic Type</strong>: Semantic types are meta-information about which category a concept belongs to, and these categories are arranged in a hierarchy.</li>
+<li><strong>Human Assessment of Concept Similarity</strong>: We report the Spearman correlation between the human assessment scores and cosine similarity from the embeddings.</li>
+</ul>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb11-1" data-line-number="1"><span class="co"># No CUIs in our tiny embeding that overlap with comorbidity CUIs, so don't evaluate</span></a>
+<a class="sourceLine" id="cb11-2" data-line-number="2">comorbidity_results &lt;-<span class="st"> </span><span class="kw">benchmark_comorbidities</span>(w2v_embedding)</a></code></pre></div>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb12-1" data-line-number="1"><span class="co"># No CUIs in our tiny embeding that overlap with causitive CUIs, so don't evaluate</span></a>
+<a class="sourceLine" id="cb12-2" data-line-number="2">causitive_results &lt;-<span class="st"> </span><span class="kw">benchmark_causative</span>(w2v_embedding)</a></code></pre></div>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb13-1" data-line-number="1"><span class="co"># No CUIs in our tiny embeding that overlap with NDF_RT CUIs, so don't evaluate</span></a>
+<a class="sourceLine" id="cb13-2" data-line-number="2">ndf_rt_results &lt;-<span class="st"> </span><span class="kw">benchmark_ndf_rt</span>(w2v_embedding, <span class="dt">bootstraps =</span> <span class="dv">100</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb14-1" data-line-number="1">semantic_results &lt;-<span class="st"> </span><span class="kw">benchmark_semantic_type</span>(w2v_embedding, <span class="dt">bootstraps =</span> <span class="dv">100</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb15-1" data-line-number="1">semantic_results[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>, <span class="dv">-1</span>] </a>
+<a class="sourceLine" id="cb15-2" data-line-number="2"><span class="co">#&gt;                      File Num_Positive Total      Score</span></a>
+<a class="sourceLine" id="cb15-3" data-line-number="3"><span class="co">#&gt; 1        Organic Chemical           34   171 0.19883041</span></a>
+<a class="sourceLine" id="cb15-4" data-line-number="4"><span class="co">#&gt; 2              Antibiotic            1     3 0.33333333</span></a>
+<a class="sourceLine" id="cb15-5" data-line-number="5"><span class="co">#&gt; 3 Pharmacologic Substance           16   171 0.09356725</span></a>
+<a class="sourceLine" id="cb15-6" data-line-number="6"><span class="co">#&gt; 4                 Finding           17    91 0.18681319</span></a>
+<a class="sourceLine" id="cb15-7" data-line-number="7"><span class="co">#&gt; 5         Sign or Symptom            0     0        NaN</span></a></code></pre></div>
+<div class="sourceCode" id="cb16"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb16-1" data-line-number="1"><span class="co"># No CUIs that contain concept pairs in our tiny embedding, so don't evaluate </span></a>
+<a class="sourceLine" id="cb16-2" data-line-number="2">similarity_results &lt;-<span class="st"> </span><span class="kw">benchmark_similarity</span>(w2v_embedding)</a></code></pre></div>
+<p>We can also run all the benchmarks at once for an embedding.</p>
+<div class="sourceCode" id="cb17"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb17-1" data-line-number="1"><span class="kw">run_all_benchmarks</span>(w2v_embedding)</a></code></pre></div>
+<p>Finally, you can also compare the performance of two embeddings on one or more benchmarks. <code>compare_embeddings</code> restricts the analysis to the shared set of CUIs in both embeddings.</p>
+<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb18-1" data-line-number="1"><span class="kw">compare_embeddings</span>(glove_embedding, w2v_embedding, <span class="st">&quot;all&quot;</span>)</a></code></pre></div>
+</div>
+<div id="references" class="section level2 unnumbered">
+<h2>References</h2>
+<div id="refs" class="references">
+<div id="ref-Beam2018-vl">
+<p>Kompa, Benjamin, Allen Schmaltz, Inbar Fried, Nathan P Palmer, Xu Shi, Tianxi Cai, Kohane Isaac S, and Andrew L Beam. 2019. “Clinical Concept Embeddings Learned from Massive Sources of Multimodal Medical Data.”</p>
+</div>
+</div>
+</div>
+
+
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
