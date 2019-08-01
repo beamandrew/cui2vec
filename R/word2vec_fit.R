@@ -15,7 +15,7 @@ construct_pmi <- function(cooccur,singletons,N,smooth=0.75) {
   singletons$Count <- singletons$Count^smooth/N^smooth
   concept_list <- row.names(cooccur_matrix)
   nz <- which(cooccur_matrix != 0, arr.ind = TRUE)
-  pmi_df <- data.frame(Concept_1 = concept_list[nz[,1]], Concept_2 = concept_list[nz[,2]], JointProb = cooccur_matrix[nz]/N)
+  pmi_df <- data.frame(Concept_1 = concept_list[nz[,1]], Concept_2 = concept_list[nz[,2]], JointProb = cooccur_matrix[nz]/N, stringsAsFactors = F)
   pmi_df <- pmi_df %>%
     dplyr::inner_join(singletons,by=c("Concept_1" = "CUI")) %>%
     dplyr::rename(Concept_1_Prob=.data$Count) %>%
