@@ -2,7 +2,7 @@
 
 This repo contains the code associated with the following paper (under review):
 
-> Kompa, B., Schmaltz, A., Fried, I., Griffin, W, Palmer, N.P., Shi, X., Cai, T., Kohane, I.S., and Beam, A.L., 2019. Clinical Concept Embeddings Learned from Massive Sources of Multimodal Medical Data. arXiv preprint arXiv:1804.01486.
+> Beam, A.L., Kompa, B., Schmaltz, A., Fried, I., Griffin, W, Palmer, N.P., Shi, X., Cai, T., and Kohane, I.S.,, 2019. Clinical Concept Embeddings Learned from Massive Sources of Multimodal Medical Data. arXiv preprint arXiv:1804.01486.
 
 # Overview
 
