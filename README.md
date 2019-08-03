@@ -12,4 +12,6 @@ This repo contains the R pacakge `cui2vec`, which provides code for fitting embe
 
 Additional information on each of the public functions can be accessed in the standard way (e.g., ```?cui2vec::construct_word2vec_embedding```).
 
-Data agreements prevent us from releasing all of our original source data, but upon acceptance, we will release our embeddings at the following URL: TBD.
+Data agreements prevent us from releasing all of our original source data, but upon acceptance, we will release our embeddings at the following URL: https://figshare.com/s/00d69861786cd0156d81
+
+You can access an interactive explorer here: http://cui2vec.dbmi.hms.harvard.edu/
