@@ -1,6 +1,6 @@
 #' UMLS Semantic Type Data
 #'
-#' Semnatic type data and English descriptions for 3,063,795 CUIs
+#' Semantic type data and English descriptions for 3,063,795 CUIs
 #'
 #' @docType data
 #'
