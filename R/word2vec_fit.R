@@ -1,6 +1,6 @@
 #' Construct pointwise mutual information matrix
 #'
-#' @param coccur The co-occurrence matrix
+#' @param cooccur The co-occurrence matrix
 #' @param singletons The dataframe of CUIs and their counts
 #' @param N The number of bins
 #' @param smooth The smoothing factor
@@ -8,14 +8,13 @@
 #' @return A dataframe of pointwise mutual information
 #' @export
 construct_pmi <- function(cooccur,singletons,N,smooth=0.75) {
-  cooccur_matrix <- as.matrix(cooccur)
+  singletons$Count <- singletons$Count^smooth/N^smooth
+  concept_list <- row.names(cooccur)
+  nz <- Matrix::which(cooccur != 0, arr.ind = TRUE)
   # masking the lower half of the matrix because cooccur will always be symmetric
   # don't want to double count CUI1-CUI2 as CUI2-CUI1
-  cooccur_matrix[lower.tri(cooccur_matrix, diag = FALSE)] <- 0
-  singletons$Count <- singletons$Count^smooth/N^smooth
-  concept_list <- row.names(cooccur_matrix)
-  nz <- which(cooccur_matrix != 0, arr.ind = TRUE)
-  pmi_df <- data.frame(Concept_1 = concept_list[nz[,1]], Concept_2 = concept_list[nz[,2]], JointProb = cooccur_matrix[nz]/N, stringsAsFactors = F)
+  nz <- nz[which(nz[,1] <= nz[,2]),]
+  pmi_df <- data.frame(Concept_1 = concept_list[nz[,1]], Concept_2 = concept_list[nz[,2]], JointProb = cooccur[nz]/N, stringsAsFactors = F)
   pmi_df <- pmi_df %>%
     dplyr::inner_join(singletons,by=c("Concept_1" = "CUI")) %>%
     dplyr::rename(Concept_1_Prob=.data$Count) %>%
