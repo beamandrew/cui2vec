@@ -1,9 +1,9 @@
 #' Benchmarking comorbidities task
 #'
-#' The benchmarking strategy leverages previously published ‘known’ relationships between medicalconcepts.
+#' The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.
 #' We compare how similar the embeddings for a pair of concepts are by computing the
 #' cosine similarity of their corresponding vectors,
-#' and use this similarity to assess whether or not thetwo concepts are related.
+#' and use this similarity to assess whether or not the two concepts are related.
 #' \code{\link{benchmark_comorbidities}} focuses on an embedding's ability to identify comorbidities.
 #' A comorbidity is a disease or condition that frequently accompanies a  primary  diagnosis.
 #'
@@ -79,10 +79,10 @@ benchmark_comorbidities <- function(embedding_df,sig_level=0.05, bootstraps=1000
 
 #' Benchmarking causative task
 #'
-#' The benchmarking strategy leverages previously published ‘known’ relationships between medicalconcepts.
+#' The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.
 #' We compare how similar the embeddings for a pair of concepts are by computing the
 #' cosine similarity of their corresponding vectors,
-#' and use this similarity to assess whether or not thetwo concepts are related.
+#' and use this similarity to assess whether or not the two concepts are related.
 #' \code{\link{benchmark_causative}} assesses an embedding's ability to recover causes from
 #' the UMLS' table (MRREL) of entities known to be the cause of a certain result.
 #'
@@ -155,10 +155,10 @@ benchmark_causative <- function(embedding_df,sig_level = 0.05, bootstraps=10000,
 
 #' Benchmarking NDF RT task
 #'
-#' The benchmarking strategy leverages previously published ‘known’ relationships between medicalconcepts.
+#' The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.
 #' We compare how similar the embeddings for a pair of concepts are by computing the
 #' cosine similarity of their corresponding vectors,
-#' and use this similarity to assess whether or not thetwo concepts are related.
+#' and use this similarity to assess whether or not the two concepts are related.
 #' \code{\link{benchmark_ndf_rt}} assesses an embedding's ability to power to detect "may treat" and "may prevent"
 #' relationships using bootstrap scores of random drug-disease pairs.
 #'
@@ -239,12 +239,12 @@ benchmark_ndf_rt <- function(embedding_df, sig_level = 0.05, bootstraps=10000){
   return(df)
 }
 
-#' Benchmarking semnatic type task
+#' Benchmarking semantic type task
 #'
-#' The benchmarking strategy leverages previously published ‘known’ relationships between medicalconcepts.
+#' The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.
 #' We compare how similar the embeddings for a pair of concepts are by computing the
 #' cosine similarity of their corresponding vectors,
-#' and use this similarity to assess whether or not thetwo concepts are related.
+#' and use this similarity to assess whether or not the two concepts are related.
 #' \code{\link{benchmark_semantic_type}} assesses an ability to identify semantic types. Semantic types are
 #' meta-information about which category a concept belongs to, and these categories are arranged in a hierarchy.
 #'
@@ -293,10 +293,10 @@ benchmark_semantic_type <- function(embedding_df, sig_level = 0.05, bootstraps=1
 
 #' Benchmarking similarity task
 #'
-#' The benchmarking strategy leverages previously published ‘known’ relationships between medicalconcepts.
+#' The benchmarking strategy leverages previously published ‘known’ relationships between medical concepts.
 #' We compare how similar the embeddings for a pair of concepts are by computing the
 #' cosine similarity of their corresponding vectors,
-#' and use this similarity to assess whether or not thetwo concepts are related.
+#' and use this similarity to assess whether or not the two concepts are related.
 #' \code{link{benchmark_similarity}} reports the spearman correlation between the human assessment scores
 #' and cosine similarity from the embeddings.
 #'
